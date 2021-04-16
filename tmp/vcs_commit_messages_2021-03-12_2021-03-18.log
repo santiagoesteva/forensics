@@ -1,0 +1,11 @@
+v34.94.0 - feat: [UI-2375] Add tags to survey creation on Reach (#2076)
+v34.93.0 - feat: [UI-2231] Add debounce to single value input (#2075)
+v34.92.0 - feat: [UI-2371] remove client from access type (#2069)
+v34.91.1 - refact: [UI-2300] - Refactor SurveyLaunchChecklist from JS to TS (#2065)
+v34.91.0 - Details Save Refactor (#2051)
+fix: [UI-2298] Allocation redirect from Survey Launch window (#2073)
+v34.90.5 - fix: [UI-2362] do not show multi-acc dialog when accounts don't load (#2071)
+v34.90.4 - Remove Survey Details Timeline section for SSM surveys (#2068)
+fix: [UI-2294] Error Boundary (#2029)
+v34.90.2 - fix: [UI-1637] use user accountId when there is no url param (#2066)
+chore: [UI-2439] - Remove console.log in SubNavigationItems component #2067

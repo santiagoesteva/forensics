@@ -1,0 +1,17 @@
+{
+  "id": "7be565179b7657bd59df4a31385a544af42b9b20",
+  "reportName": "sum-of-coupling",
+  "taskName": "sum-of-coupling-analysis",
+  "time": "2021-04-16T13:49:03.884Z",
+  "dateRange": "2021-01-01_2021-04-16",
+  "parameters": {},
+  "enabledDiagrams": [
+    "sum-of-coupling"
+  ],
+  "dataFiles": [
+    {
+      "timePeriod": "2021-01-01_2021-04-16",
+      "fileUrl": "7be565179b7657bd59df4a31385a544af42b9b20/2021-01-01_2021-04-16_sum-of-coupling-data.json"
+    }
+  ]
+}

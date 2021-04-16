@@ -1,0 +1,17 @@
+{
+  "id": "b28917cd9e7781d5370d51a00bf7030fd84c9cde",
+  "reportName": "knowledge-map",
+  "taskName": "knowledge-map-analysis",
+  "time": "2021-04-16T13:49:29.976Z",
+  "dateRange": "2021-01-01_2021-04-16",
+  "parameters": {},
+  "enabledDiagrams": [
+    "individual-knowledge-map"
+  ],
+  "dataFiles": [
+    {
+      "timePeriod": "2021-01-01_2021-04-16",
+      "fileUrl": "b28917cd9e7781d5370d51a00bf7030fd84c9cde/2021-01-01_2021-04-16_knowledge-map-data.json"
+    }
+  ]
+}

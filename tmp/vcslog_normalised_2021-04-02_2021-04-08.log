@@ -1,0 +1,123 @@
+--2567baf6--2021-04-08--Michael Siciliano
+4	1	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/BulkReconciliationDialog.tsx
+11	3	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__tests__/BulkReconciliationDialog.test.tsx
+8	1	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/BulkReconciliationContent/BulkReconciliationContent.tsx
+65	28	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/SummaryView/SummaryView.tsx
+6	2	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/UploadView/UploadView.tsx
+2	1	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/UploadView/components/UploadFooter.tsx
+0	21	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/UploadView/components/UploadTitle.tsx
+0	1	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/UploadView/components/index.ts
+19	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/ViewTitle/ViewTitle.tsx
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/ViewTitle/index.ts
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/index.ts
+53	1	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/constants.ts
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/hooks/index.ts
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/hooks/useSurveyStats/index.ts
+38	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/hooks/useSurveyStats/useSurveyStats.ts
+6	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/types.ts
+4	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/utils/ellipsisString.ts
+25	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/utils/getSurveyData.ts
+0	11	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/index.js
+1	0	src/client/pages/SurveysDashboard/SurveysTable/SurveysTable.js
+
+--4c9a0f19--2021-04-07--Patrick Brown Jr
+2	6	src/client/pages/SupplierDetails/SupplierDetailsContainer.js
+
+--ed8788af--2021-04-07--Eric
+28	2	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/BulkReconciliationDialog.tsx
+30	94	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__mocks__/BulkReconciliationDialog.data.ts
+103	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__mocks__/SurveysCompleteDialog.data.tsx
+13	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__mocks__/index.ts
+13	18	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__tests__/BulkReconciliationDialog.test.tsx
+1	1	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__tests__/SurveysCompleteDialog.test.tsx
+18	2	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/BulkReconciliationContent/BulkReconciliationContent.tsx
+15	4	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/SummaryView/SummaryView.tsx
+5	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/types.ts
+
+--5860bc51--2021-04-07--Olivier
+84	71	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+27	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getButtonText.test.ts
+11	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getButtonText.ts
+1	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/index.ts
+0	307	src/client/graphql-schema.ts
+
+--0a588663--2021-04-06--Eric
+2	2	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__tests__/BulkReconciliationDialog.test.tsx
+41	37	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/CompletedView/CompletedView.tsx
+11	5	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/constants.ts
+
+--485f1133--2021-04-05--Marco Rosner
+
+--26225e30--2021-04-05--Marco Rosner
+2	2	src/client/pages/Targets/TargetsForm/index.js
+
+--990e86ff--2021-04-05--Marco Rosner
+0	8	src/client/components/Selects/BusinessUnitSelect/data/businessUnits.gql
+12	0	src/client/components/Selects/BusinessUnitSelect/data/businessUnits.ts
+2	2	src/client/components/Selects/BusinessUnitSelect/useBusinessUnits.ts
+0	7	src/client/components/Selects/CountryLanguageSelect/data/countryLanguages.gql
+11	0	src/client/components/Selects/CountryLanguageSelect/data/countryLanguages.ts
+2	2	src/client/components/Selects/CountryLanguageSelect/useCountryLanguages.ts
+0	6	src/client/components/Selects/IndustryLockoutSelect/data/industryLockouts.gql
+10	0	src/client/components/Selects/IndustryLockoutSelect/data/industryLockouts.ts
+2	2	src/client/components/Selects/IndustryLockoutSelect/useIndustryLockoutSelect.ts
+0	6	src/client/components/Selects/IndustrySelect/data/industries.gql
+10	0	src/client/components/Selects/IndustrySelect/data/industries.ts
+2	2	src/client/components/Selects/IndustrySelect/useIndustrySelect.ts
+0	10	src/client/components/Selects/ManagerSelect/data/accountUsers.gql
+14	0	src/client/components/Selects/ManagerSelect/data/accountUsers.ts
+2	2	src/client/components/Selects/ManagerSelect/useManagerSelect.ts
+0	6	src/client/components/Selects/StudyTypeSelect/data/studyTypes.gql
+10	0	src/client/components/Selects/StudyTypeSelect/data/studyTypes.ts
+2	2	src/client/components/Selects/StudyTypeSelect/useStudyTypeSelect.ts
+
+--49e04c6d--2021-04-05--Eric
+19	0	src/client/graphql-schema.ts
+1	1	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/__tests__/BulkReconciliationDialog.test.tsx
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/UploadView/UploadView.tsx
+6	6	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/components/UploadView/components/TooltipExampleText.tsx
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/hooks/index.ts
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/hooks/useReconcileSurveys/index.ts
+79	0	src/client/pages/SurveysDashboard/SurveysTable/BulkReconciliationDialog/hooks/useReconcileSurveys/useReconcileSurveys.ts
+2	0	src/server/api/index.js
+42	0	src/server/api/models/bulkReconciliation.js
+2	0	src/server/api/models/index.js
+2	1	src/server/api/schema/mutation/mutation.js
+3	0	src/server/api/schema/mutation/resolvers.js
+19	0	src/server/api/schema/types/bulkReconciliation.js
+3	1	src/server/api/schema/types/index.js
+
+--6ec365b0--2021-04-05--Marco Rosner
+0	5	src/client/pages/SurveysDashboard/SurveysTable/BulkEditor/data/updateSurvey.gql
+9	0	src/client/pages/SurveysDashboard/SurveysTable/BulkEditor/data/updateSurvey.ts
+2	2	src/client/pages/SurveysDashboard/SurveysTable/BulkEditor/index.js
+0	44	src/client/pages/SurveysDashboard/SurveysTable/ExportCsvDialog/data/export-surveys.gql
+48	0	src/client/pages/SurveysDashboard/SurveysTable/ExportCsvDialog/data/export-surveys.ts
+2	2	src/client/pages/SurveysDashboard/SurveysTable/ExportCsvDialog/index.js
+0	31	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/data/data-query.gql
+39	0	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/data/data-query.ts
+2	2	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/index.js
+0	12	src/client/pages/Targets/SubHeader/data/getAudienceHeader.gql
+16	0	src/client/pages/Targets/SubHeader/data/getAudienceHeader.ts
+2	2	src/client/pages/Targets/SubHeader/index.js
+2	2	src/client/pages/Targets/TargetEditor/TargetEditor.tsx
+10	10	src/client/pages/Targets/TargetsForm/index.js
+0	14	src/client/pages/Targets/data/createTargetPackage.gql
+19	0	src/client/pages/Targets/data/createTargetPackage.ts
+0	5	src/client/pages/Targets/data/getLocale.gql
+9	0	src/client/pages/Targets/data/getLocale.ts
+0	16	src/client/pages/Targets/data/getTargetSurvey.gql
+22	0	src/client/pages/Targets/data/getTargetSurvey.ts
+0	32	src/client/pages/Targets/data/target.gql
+36	0	src/client/pages/Targets/data/target.ts
+0	39	src/client/pages/Targets/data/targetPackageSurvey.gql
+43	0	src/client/pages/Targets/data/targetPackageSurvey.ts
+0	7	src/client/pages/Targets/data/updateSurvey.gql
+12	0	src/client/pages/Targets/data/updateSurvey.ts
+0	11	src/client/pages/Targets/data/updateTargetPackage.gql
+16	0	src/client/pages/Targets/data/updateTargetPackage.ts
+0	3	src/client/pages/Targets/data/updateTargetStatus.gql
+7	0	src/client/pages/Targets/data/updateTargetStatus.ts
+
+--ebc56f55--2021-04-02--Vagner Santana

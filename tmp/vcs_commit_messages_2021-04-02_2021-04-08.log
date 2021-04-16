@@ -1,0 +1,11 @@
+v35.10.12 - show simplified reconciliation summary (#2114)
+v35.10.11 - fix: check for undefined supplier (#2121)
+v35.10.10 - Bulk Rec hook +  submit button logic and error handling (#2119)
+v35.10.9 - Add error handling in saving FA (#2118)
+v35.10.8 - Confirmation View for Bulk Reconciliation (#2112)
+v35.10.7
+fix: missing target query
+v35.10.6 - fix: migrate gql to gql interpolation on ts files (#2115)
+v35.10.5 - Bulk Reconciliation endpoint and hook (#2108)
+v35.10.4 - refact: move gql file to gql interpolation on ts file (#2111)
+chore: Update CODEOWERS

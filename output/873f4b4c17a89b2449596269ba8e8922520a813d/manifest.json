@@ -1,0 +1,18 @@
+{
+  "id": "873f4b4c17a89b2449596269ba8e8922520a813d",
+  "reportName": "developer-effort",
+  "taskName": "developer-effort-analysis",
+  "time": "2021-04-16T13:50:02.212Z",
+  "dateRange": "2021-01-01_2021-04-16",
+  "parameters": {},
+  "enabledDiagrams": [
+    "individual-effort"
+  ],
+  "dataFiles": [
+    {
+      "fileType": "individual-effort",
+      "timePeriod": "2021-01-01_2021-04-16",
+      "fileUrl": "873f4b4c17a89b2449596269ba8e8922520a813d/2021-01-01_2021-04-16_developer-effort-data.json"
+    }
+  ]
+}

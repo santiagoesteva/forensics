@@ -1,0 +1,17 @@
+{
+  "id": "e58efdb3336cdcf10b00cf0681e9ab3730cbb1d6",
+  "reportName": "hotspot-analysis",
+  "taskName": "hotspot-analysis",
+  "time": "2021-04-16T13:49:43.225Z",
+  "dateRange": "2021-01-01_2021-04-16",
+  "parameters": {},
+  "enabledDiagrams": [
+    "sloc"
+  ],
+  "dataFiles": [
+    {
+      "timePeriod": "2021-01-01_2021-04-16",
+      "fileUrl": "e58efdb3336cdcf10b00cf0681e9ab3730cbb1d6/2021-01-01_2021-04-16_revisions-hotspot-data.json"
+    }
+  ]
+}

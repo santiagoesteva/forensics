@@ -1,0 +1,98 @@
+--3c890c68--2021-03-25--Steven Childress
+3	2	src/client/graphql-schema.ts
+1	0	src/client/graphql/queries/identify.ts
+1	0	src/client/hooks/data/identity.gql
+8	0	src/client/lib/abilities.js
+10	32	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/BulkEditBanner.css
+43	0	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/BulkEditBannerButton/BulkEditBannerButton.tsx
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/BulkEditBannerButton/index.ts
+44	0	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/LimitableBulkEditBannerButton/LimitableBulkEditBannerButton.tsx
+1	0	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/LimitableBulkEditBannerButton/index.ts
+3	0	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/constants.ts
+48	83	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/index.js
+1	1	src/client/pages/SurveysDashboard/SurveysTable/ExportCsvDialog/ExportCsvDialog.js
+1	1	src/server/api/schema/types/identity.js
+3	2	src/server/lib/las/mapLasTokenToIdentity.js
+2	1	src/shared/featureFlags.js
+
+--6c2da56d--2021-03-25--Rose Espiritu
+1	0	src/client/pages/SurveysDashboard/Filters/Filters.tsx
+
+--171449be--2021-03-25--Leandro Silva
+35	13	src/client/components/SubNavigation/SubNavigation.tsx
+0	68	src/client/components/SubNavigation/SubNavigationItems.tsx
+12	6	src/client/components/SubNavigation/lib/SubNavigationPages.ts
+25	33	src/client/components/SubNavigation/lib/getSubNavigationItems.ts
+
+--5800a508--2021-03-25--Leandro Silva
+25	4	src/server/api/models/legacyAccounts.js
+1	1	src/server/api/schema/legacy/query/resolvers.js
+
+--0c637a53--2021-03-25--Michael Siciliano
+24	23	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+40	1	src/client/pages/Targets/TargetsForm/__tests__/TargetsForm.test.js
+
+--d93e8a84--2021-03-24--Olivier
+84	67	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+23	39	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+36	33	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/AutomationType.tsx
+26	50	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/Budget.tsx
+32	46	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/CutoffDate.tsx
+7	26	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/CutoffHour.tsx
+6	29	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/Fields.tsx
+10	9	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/HourPicker.tsx
+4	4	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/SupplyCost.tsx
+0	61	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/__tests__/useFieldingAssistantState.test.ts
+0	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+0	44	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+2	6	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/selectGoal.test.ts
+3	2	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getFieldingAssistantNewConfig.ts
+1	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/index.ts
+5	5	src/client/components/SurveyAutomationDialog/FormAutomation/lib/selectGoal.ts
+30	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/validateField.ts
+3	3	src/client/components/SurveyAutomationDialog/FormAutomation/types/types.ts
+
+--2b9539e7--2021-03-23--Leandro Silva
+9	3	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+16	3	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasTable.tsx
+8	0	src/client/pages/SurveyQuotas/lib/constants.ts
+9	0	src/client/pages/SurveyQuotas/lib/getTabIndex.ts
+
+--5609bb18--2021-03-23--Leandro Silva
+8	1	src/client/components/EditCalcTypeDialogBtn/EditCalcTypeDialog.js
+8	1	src/client/pages/SurveyQuotas/SurveyQuotas.tsx
+13	9	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+24	4	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasTable.tsx
+14	3	src/client/pages/SurveyQuotas/SurveyQuotasHeader/SurveyQuotasHeader.tsx
+3	0	src/client/pages/SurveyQuotas/hooks/index.ts
+13	12	src/client/pages/SurveyQuotas/hooks/useSurveyQuery.ts
+2	2	src/client/pages/SurveyQuotas/index.tsx
+
+--36669acb--2021-03-23--Leandro Silva
+35	31	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+32	15	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasFormTable.tsx
+19	13	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasTable.tsx
+2	2	src/client/pages/SurveyQuotas/hooks/useAutoIncrementMutation.ts
+2	2	src/client/pages/SurveyQuotas/hooks/useQuotaDeleteMutation.ts
+2	2	src/client/pages/SurveyQuotas/hooks/useQuotaDuplicateMutation.ts
+2	2	src/client/pages/SurveyQuotas/hooks/useQuotaLockMutation.ts
+2	2	src/client/pages/SurveyQuotas/hooks/useQuotaMutation.ts
+2	2	src/client/pages/SurveyQuotas/hooks/useQuotaOrderMutation.ts
+2	2	src/client/pages/SurveyQuotas/hooks/useQuotaRestrictionMutation.ts
+22	11	src/client/pages/SurveyQuotas/lib/submitQuotaChanges.ts
+
+--40598aab--2021-03-22--Patrick Brown Jr
+1	1	src/client/components/Selects/ManagerSelect/ManagerSelect.tsx
+0	1	src/client/pages/SurveysDashboard/Filters/Filters.tsx
+
+--dd2c570f--2021-03-22--Marco Rosner
+4	4	src/client/graphql-schema.ts
+1	1	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/MultipleValues.tsx
+3	1	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/buildConditions.ts
+1	1	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/handleOpenQuestion.ts
+6	2	src/client/pages/Reach/lib/buildTargets.ts
+2	1	src/client/pages/Reach/lib/generateName.ts
+1	1	src/client/pages/Reach/lib/handleQuestions.ts
+1	1	src/client/pages/Reach/lib/handleSingleValue.ts
+1	1	src/server/api/models/reach.js
+4	4	src/server/api/schema/types/reach.js

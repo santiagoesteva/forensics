@@ -1,0 +1,616 @@
+--5349d99e--2021-02-25--Marco Rosner
+8	9	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+18	0	src/client/components/SurveyHeader/data/getAutomationState.ts
+0	6	src/client/components/SurveyHeader/data/getProject.gql
+10	0	src/client/components/SurveyHeader/data/getProject.ts
+0	23	src/client/components/SurveyHeader/data/getSurvey.gql
+27	0	src/client/components/SurveyHeader/data/getSurvey.ts
+0	18	src/client/components/SurveyHeader/data/updateSurvey.gql
+22	0	src/client/components/SurveyHeader/data/updateSurvey.ts
+
+--3f81ccec--2021-02-25--Marco Rosner
+
+--6fd16e96--2021-02-19--Marco Rosner
+8	9	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+18	0	src/client/components/SurveyHeader/data/getAutomationState.ts
+0	6	src/client/components/SurveyHeader/data/getProject.gql
+10	0	src/client/components/SurveyHeader/data/getProject.ts
+0	23	src/client/components/SurveyHeader/data/getSurvey.gql
+27	0	src/client/components/SurveyHeader/data/getSurvey.ts
+0	18	src/client/components/SurveyHeader/data/updateSurvey.gql
+22	0	src/client/components/SurveyHeader/data/updateSurvey.ts
+
+--fb22612f--2021-02-25--Rose Espiritu
+1	0	src/client/components/Navigation/Navigation.js
+
+--de9225de--2021-02-25--Rose Espiritu
+81	51	src/client/pages/SurveyDetails/Details.js
+
+--1e57ddb6--2021-02-24--Ocolonna
+3	4	src/client/components/SurveyAutomationDialog/FormAutomation/__tests__/FormAutomation.test.tsx
+
+--4bf03ae4--2021-02-25--Rose Espiritu
+--026596cf--2021-02-25--Marco Rosner
+7	1	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/ProjectedCompletes.tsx
+16	1	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/PriceRange.tsx
+
+--3b7f074d--2021-02-25--Marco Rosner
+
+--bd0ca239--2021-02-24--Rose Espiritu
+7	1	src/client/components/Selects/ProjectSelect/hooks/useProjectsSearch.ts
+
+--0792bbe0--2021-02-23--Marco Rosner
+7	1	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/ProjectedCompletes.tsx
+16	1	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/PriceRange.tsx
+
+--46fd51f2--2021-02-24--Olivier
+1	1	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/selectGoal.test.ts
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/lib/selectGoal.ts
+
+--1f9e5c3e--2021-02-24--Ocolonna
+
+--55bb4ead--2021-02-24--Ocolonna
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/selectGoal.test.ts
+
+--cbba8fc5--2021-02-24--Ocolonna
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/lib/selectGoal.ts
+
+--c07813ee--2021-02-24--Ocolonna
+5	5	src/client/components/AutomationExpandableCard/__tests__/__snapshots__/AutomationExpandableCard.test.tsx.snap
+
+--81fe9e65--2021-02-24--Ocolonna
+1	1	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+
+--a0393cde--2021-02-24--Ocolonna
+1	1	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+5	5	src/client/components/AutomationExpandableCard/__tests__/__snapshots__/AutomationExpandableCard.test.tsx.snap
+
+--38876d15--2021-02-24--Rose Espiritu
+--026373f8--2021-02-24--Ocolonna
+1	1	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+
+--1987b87c--2021-02-24--Leandro Silva
+1	1	src/client/pages/SurveyDetails/Details.js
+11	3	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.tsx
+3	2	src/client/pages/SurveyDetails/DetailsChangelog/hooks/useSurveyHistory.ts
+1	0	src/client/pages/SurveyDetails/DetailsChangelog/lib/types.ts
+
+--f4b42379--2021-02-24--Emanuel Larini
+
+--8769c5a8--2021-02-24--emanuellarini
+
+--a5235636--2021-02-24--Emanuel Larini
+7	7	src/server/api/models/fieldingAssistantConfig.js
+1	1	src/server/api/models/surveyAutomation.js
+
+--4073ea8d--2021-02-24--Marco Rosner
+0	6	src/client/components/AccountSelect/data/accounts.gql
+10	0	src/client/components/AccountSelect/data/accounts.ts
+2	2	src/client/components/AccountSelect/index.js
+0	7	src/client/components/CountrySelect/data/countries.gql
+11	0	src/client/components/CountrySelect/data/countries.ts
+2	2	src/client/components/CountrySelect/index.js
+0	10	src/client/components/ManagerSelect/data/accountUsers.gql
+14	0	src/client/components/ManagerSelect/data/accountUsers.ts
+3	4	src/client/components/ManagerSelect/index.js
+0	16	src/client/components/ProjectSelect/data/projectsSearch.gql
+20	0	src/client/components/ProjectSelect/data/projectsSearch.ts
+2	2	src/client/components/ProjectSelect/index.js
+0	6	src/client/components/Selects/AccountSelect/data/accounts.gql
+10	0	src/client/components/Selects/AccountSelect/data/accounts.ts
+0	8	src/client/components/Selects/ClientSelect/data/clients.gql
+12	0	src/client/components/Selects/ClientSelect/data/clients.ts
+2	2	src/client/components/Selects/ClientSelect/index.js
+0	7	src/client/components/Selects/CountrySelect/data/countries.gql
+11	0	src/client/components/Selects/CountrySelect/data/countries.ts
+2	2	src/client/components/Selects/CountrySelect/index.js
+0	8	src/client/components/Selects/CurrencySelect/data/query.gql
+12	0	src/client/components/Selects/CurrencySelect/data/query.ts
+2	2	src/client/components/Selects/CurrencySelect/index.js
+
+--b6c9d892--2021-02-24--Marco Rosner
+
+--8a9c0e13--2021-02-19--Marco Rosner
+0	6	src/client/components/AccountSelect/data/accounts.gql
+10	0	src/client/components/AccountSelect/data/accounts.ts
+2	2	src/client/components/AccountSelect/index.js
+0	7	src/client/components/CountrySelect/data/countries.gql
+11	0	src/client/components/CountrySelect/data/countries.ts
+2	2	src/client/components/CountrySelect/index.js
+0	10	src/client/components/ManagerSelect/data/accountUsers.gql
+14	0	src/client/components/ManagerSelect/data/accountUsers.ts
+3	4	src/client/components/ManagerSelect/index.js
+0	16	src/client/components/ProjectSelect/data/projectsSearch.gql
+20	0	src/client/components/ProjectSelect/data/projectsSearch.ts
+2	2	src/client/components/ProjectSelect/index.js
+0	6	src/client/components/Selects/AccountSelect/data/accounts.gql
+10	0	src/client/components/Selects/AccountSelect/data/accounts.ts
+0	8	src/client/components/Selects/ClientSelect/data/clients.gql
+12	0	src/client/components/Selects/ClientSelect/data/clients.ts
+2	2	src/client/components/Selects/ClientSelect/index.js
+0	7	src/client/components/Selects/CountrySelect/data/countries.gql
+11	0	src/client/components/Selects/CountrySelect/data/countries.ts
+2	2	src/client/components/Selects/CountrySelect/index.js
+0	8	src/client/components/Selects/CurrencySelect/data/query.gql
+12	0	src/client/components/Selects/CurrencySelect/data/query.ts
+2	2	src/client/components/Selects/CurrencySelect/index.js
+
+--8fe55bed--2021-02-24--Olivier
+18	1	src/server/api/models/fieldingAssistantConfig.js
+6	0	src/server/api/models/fieldingAssistantGoals.js
+4	0	src/server/api/models/surveyAutomation.js
+
+--9345f6a1--2021-02-24--Ocolonna
+
+--ef7a5161--2021-02-24--Ocolonna
+14	0	src/server/api/models/fieldingAssistantConfig.js
+6	0	src/server/api/models/fieldingAssistantGoals.js
+4	0	src/server/api/models/surveyAutomation.js
+
+--0e1ab904--2021-02-23--Ocolonna
+4	1	src/server/api/models/fieldingAssistantConfig.js
+
+--6e3de061--2021-02-24--Olivier
+0	52	src/client/components/AutomationExpandableCard/AutomationExpandableCard.spec.js
+16	12	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+11	0	src/client/components/AutomationExpandableCard/__mocks__/AutomationExpandableCard.data.ts
+57	0	src/client/components/AutomationExpandableCard/__tests__/AutomationExpandableCard.test.tsx
+152	0	src/client/components/AutomationExpandableCard/__tests__/__snapshots__/AutomationExpandableCard.test.tsx.snap
+0	1	src/client/components/AutomationExpandableCard/index.js
+1	0	src/client/components/AutomationExpandableCard/index.ts
+13	0	src/client/components/AutomationExpandableCard/lib/getCutOffDate.ts
+12	0	src/client/components/AutomationExpandableCard/lib/getMaxBudget.ts
+2	0	src/client/components/AutomationExpandableCard/lib/index.ts
+1	0	src/client/components/SurveyAutomationDialog/AboutAutomation/AboutAutomation.test.tsx
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+2	4	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+0	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+0	58	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+1	1	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+5	8	src/client/components/SurveyHeader/SurveyHeader.js
+1	0	src/client/hooks/index.ts
+58	0	src/client/hooks/useGetFieldingAssistantConfigQuery.ts
+
+--5e16276a--2021-02-24--Ocolonna
+7	10	src/client/components/AutomationExpandableCard/lib/getCutOffDate.ts
+
+--5fd6e7e0--2021-02-23--Ocolonna
+1	1	src/client/components/AutomationExpandableCard/__tests__/__snapshots__/AutomationExpandableCard.test.tsx.snap
+
+--41a75b6d--2021-02-23--Ocolonna
+3	13	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+16	0	src/client/components/AutomationExpandableCard/lib/getCutOffDate.ts
+12	0	src/client/components/AutomationExpandableCard/lib/getMaxBudget.ts
+2	0	src/client/components/AutomationExpandableCard/lib/index.ts
+
+--f69d7723--2021-02-23--Ocolonna
+6	5	src/client/components/AutomationExpandableCard/__tests__/AutomationExpandableCard.test.tsx
+142	116	src/client/components/AutomationExpandableCard/__tests__/__snapshots__/AutomationExpandableCard.test.tsx.snap
+
+--f186b621--2021-02-23--Ocolonna
+11	0	src/client/components/AutomationExpandableCard/__mocks__/AutomationExpandableCard.data.ts
+56	0	src/client/components/AutomationExpandableCard/__tests__/AutomationExpandableCard.test.tsx
+126	0	src/client/components/AutomationExpandableCard/__tests__/__snapshots__/AutomationExpandableCard.test.tsx.snap
+
+--be893ec4--2021-02-23--Ocolonna
+0	39	src/client/components/AutomationExpandableCard/AutomationExpandableCard.test.tsx
+1	0	src/client/components/SurveyAutomationDialog/AboutAutomation/AboutAutomation.test.tsx
+
+--04f9e7f3--2021-02-23--Ocolonna
+21	34	src/client/components/AutomationExpandableCard/AutomationExpandableCard.test.tsx
+17	8	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+5	7	src/client/components/SurveyHeader/SurveyHeader.js
+
+--db460587--2021-02-23--Ocolonna
+0	52	src/client/components/AutomationExpandableCard/AutomationExpandableCard.spec.js
+52	0	src/client/components/AutomationExpandableCard/AutomationExpandableCard.test.tsx
+1	1	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+0	1	src/client/components/AutomationExpandableCard/index.js
+1	0	src/client/components/AutomationExpandableCard/index.ts
+
+--b772f4c0--2021-02-23--Ocolonna
+14	9	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+2	4	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+0	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+0	58	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+1	1	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+1	2	src/client/components/SurveyHeader/SurveyHeader.js
+1	0	src/client/hooks/index.ts
+58	0	src/client/hooks/useGetFieldingAssistantConfigQuery.ts
+
+--1002a2d0--2021-02-24--Olivier
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/AutomationType.tsx
+14	5	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantGoalsQuery.ts
+14	9	src/client/graphql-schema.ts
+6	5	src/server/api/models/fieldingAssistantGoals.js
+1	1	src/server/api/schema/query/query.js
+1	1	src/server/api/schema/types/fieldingAssistantGoals.js
+18	0	src/server/lib/goalsMapper.js
+2	1	src/shared/featureFlags.js
+
+--7fa7267d--2021-02-24--Ocolonna
+1	2	src/server/api/models/fieldingAssistantGoals.js
+8	8	src/server/lib/goalsMapper.js
+
+--4924dc97--2021-02-22--Ocolonna
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/AutomationType.tsx
+14	5	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantGoalsQuery.ts
+14	9	src/client/graphql-schema.ts
+6	4	src/server/api/models/fieldingAssistantGoals.js
+1	1	src/server/api/schema/query/query.js
+1	1	src/server/api/schema/types/fieldingAssistantGoals.js
+18	0	src/server/lib/goalsMapper.js
+2	1	src/shared/featureFlags.js
+
+--dc19d6e1--2021-02-24--Leandro Silva
+1	1	src/client/components/BasePage/BasePage.tsx
+45	0	src/client/components/NewSubNavigation/SubNavigation.tsx
+30	0	src/client/components/NewSubNavigation/SubNavigationItem.tsx
+63	0	src/client/components/NewSubNavigation/SubNavigationItems.tsx
+9	0	src/client/components/NewSubNavigation/data/getAccountQuery.ts
+1	0	src/client/components/NewSubNavigation/hooks/index.ts
+41	0	src/client/components/NewSubNavigation/hooks/useAccountQuery.ts
+12	0	src/client/components/NewSubNavigation/index.tsx
+81	0	src/client/components/NewSubNavigation/lib/getSubNavigationItems.ts
+0	9	src/client/components/SubNavigation/index.js
+0	13	src/client/graphql-schema.ts
+1	1	src/client/pages/SurveyQuotas/SurveyQuotas.tsx
+
+--baa45642--2021-02-23--Rose Espiritu
+
+--3f5a97c2--2021-02-23--Rose Espiritu
+--a9191a95--2021-02-23--Rose Espiritu
+
+--f42bb9df--2021-02-23--Rose Espiritu
+--563d232d--2021-02-23--Rose Espiritu
+--7f05b5b7--2021-02-23--Rose Espiritu
+--4e369457--2021-02-23--Rose Espiritu
+26	5	src/client/pages/AccountsList/AccountsListContainer.js
+
+--6c90bb17--2021-02-23--Rose Espiritu
+
+--028387a8--2021-02-23--Rose Espiritu
+--60d3693e--2021-02-23--Rose Espiritu
+
+--66fb19db--2021-02-23--Rose Espiritu
+--3a7ab088--2021-02-23--Leandro Silva
+8	5	src/client/pages/BusinessUnitDetails/BusinessUnitDetailsContainer.js
+
+--bcba26db--2021-02-23--Eric
+42	0	src/server/api/models/targets.js
+
+--455327dc--2021-02-23--Eric Kreiter
+
+--d4ba4eb1--2021-02-23--Eric
+--1e4d2ad2--2021-02-23--Eric Kreiter
+11	10	src/server/api/models/targets.js
+
+--bc6bae37--2021-02-23--Olivier
+1	0	src/client/components/HighCpiDialog/HighCpiDialog.tsx
+1	1	src/client/components/SurveyAutomationDialog/AboutAutomation/AboutAutomation.test.tsx
+1	3	src/client/components/SurveyAutomationDialog/AboutAutomation/AboutAutomation.tsx
+1	1	src/client/components/SurveyAutomationDialog/AboutAutomation/index.ts
+9	8	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+11	4	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+48	49	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+2	0	src/client/components/SurveyHeader/SurveyHeader.js
+1	0	src/client/pages/SurveyDetails/Details.js
+
+--1a08a4c2--2021-02-23--Ocolonna
+
+--ab1dae03--2021-02-23--Ocolonna
+4	6	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+2	3	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+
+--c8e522c3--2021-02-22--Ocolonna
+1	1	src/client/components/SurveyAutomationDialog/AboutAutomation/AboutAutomation.test.tsx
+
+--3bc85cc1--2021-02-22--Ocolonna
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+4	3	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+
+--9682a2e4--2021-02-19--Ocolonna
+1	0	src/client/components/HighCpiDialog/HighCpiDialog.tsx
+1	3	src/client/components/SurveyAutomationDialog/AboutAutomation/AboutAutomation.tsx
+1	1	src/client/components/SurveyAutomationDialog/AboutAutomation/index.ts
+7	6	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+13	4	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+46	47	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+2	0	src/client/components/SurveyHeader/SurveyHeader.js
+1	0	src/client/pages/SurveyDetails/Details.js
+
+--3be9e211--2021-02-22--Eric Kreiter
+6	5	src/server/api/models/targets.js
+
+--c69c0148--2021-02-22--Eric Kreiter
+1	1	src/server/api/models/targets.js
+
+--328f0884--2021-02-22--Eric Kreiter
+7	2	src/server/api/models/targets.js
+
+--b5a79bd2--2021-02-22--Eric Kreiter
+35	0	src/server/api/models/targets.js
+
+--ec4ef898--2021-02-22--Rose Espiritu
+--d7f44990--2021-02-22--Rose Espiritu
+2	3	src/client/pages/AccountsList/AccountsListContainer.js
+
+--abe14572--2021-02-22--Rose Espiritu
+0	7	src/client/components/Selects/ManagerSelect/constants.ts
+2	1	src/client/components/Selects/ManagerSelect/useManagerSelect.ts
+
+--5fa7b0a4--2021-02-22--Rose Espiritu
+4	1	src/client/components/Selects/ManagerSelect/ManagerSelect.tsx
+23	14	src/client/components/Selects/ManagerSelect/useManagerSelect.ts
+1	0	src/client/pages/SurveyWizard/QQQ/WizardForm/WizardForm.tsx
+
+--2de96c95--2021-02-22--Rose Espiritu
+--42bdeb9f--2021-02-22--Rose Espiritu
+27	5	src/client/pages/AccountsList/AccountsListContainer.js
+
+--4cb9f780--2021-02-22--Chase Kallemeyn
+13	67	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+0	21	src/client/components/SurveyLaunchChecklist/LoadingChecklist.js
+20	0	src/client/components/SurveyLaunchChecklist/LoadingChecklist.tsx
+0	53	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.css
+199	163	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+39	34	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+0	1295	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+
+--6664d067--2021-02-22--ckallemeyn
+--c8688497--2021-02-22--ckallemeyn
+
+--1a02faf1--2021-02-22--Chase Kallemeyn
+--137241fb--2021-02-22--Marco Rosner
+15	27	src/client/graphql-schema.ts
+25	5	src/client/pages/Reach/ReachForm/ContentView.tsx
+12	11	src/client/pages/Reach/ReachForm/TableView.tsx
+3	3	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Actions/Actions.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Feasibility/Feasibility.tsx
+1	1	src/client/pages/Reach/ReachForm/components/QuestionsSearch.tsx
+1	1	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/buildConditions.ts
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getTargets.ts
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/parseTargetToMktFormat.ts
+2	2	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+7	4	src/client/pages/Reach/ReachForm/initialValues.ts
+7	24	src/client/pages/Reach/data/getAudiences.ts
+28	0	src/client/pages/Reach/data/getReachQuestions.ts
+26	0	src/client/pages/Reach/data/getReachQuestionsSearch.ts
+0	12	src/client/pages/Reach/data/questionsSearch.gql
+1	0	src/client/pages/Reach/hooks/index.ts
+3	3	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+51	0	src/client/pages/Reach/hooks/useReachQuestionsQuery.ts
+10	8	src/client/pages/Reach/hooks/useReachQuestionsSearchQuery.ts
+5	3	src/client/pages/Reach/hooks/useSurveyEstimatesLazyQuery.ts
+2	4	src/client/pages/Reach/lib/buildTargets.ts
+2	2	src/client/pages/Reach/lib/calcRangeConfig.ts
+2	6	src/client/pages/Reach/lib/duplicateTarget.ts
+3	2	src/client/pages/Reach/lib/getFormattedData.ts
+27	0	src/client/pages/Reach/lib/getQuestionIds.ts
+2	2	src/client/pages/Reach/lib/getTargetIndex.ts
+73	11	src/client/pages/Reach/lib/handleQuestions.ts
+1	1	src/client/pages/Reach/lib/handleSingleValue.ts
+2	1	src/client/pages/Reach/lib/index.ts
+5	30	src/client/pages/Reach/lib/setFormData.ts
+43	0	src/client/pages/Reach/lib/setTemplateAndQuestions.ts
+8	4	src/client/pages/Reach/types/types.ts
+41	60	src/server/api/models/reach.js
+2	1	src/server/api/schema/query/query.js
+6	3	src/server/api/schema/query/resolvers.js
+2	5	src/server/api/schema/types/reach.js
+
+--2f87f3a0--2021-02-22--Marco Rosner
+
+--d7e5326f--2021-02-19--Marco Rosner
+1	1	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/buildConditions.ts
+2	6	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getTargets.ts
+
+--7d6d306d--2021-02-18--Marco Rosner
+4	3	src/client/pages/Reach/ReachForm/ContentView.tsx
+1	1	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+1	1	src/client/pages/Reach/hooks/useReachQuestionsQuery.ts
+1	1	src/client/pages/Reach/lib/getFormattedData.ts
+2	0	src/client/pages/Reach/lib/handleQuestions.ts
+8	3	src/client/pages/Reach/lib/setTemplateAndQuestions.ts
+
+--2f71c8aa--2021-02-16--Marco Rosner
+15	27	src/client/graphql-schema.ts
+24	5	src/client/pages/Reach/ReachForm/ContentView.tsx
+12	11	src/client/pages/Reach/ReachForm/TableView.tsx
+3	3	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Actions/Actions.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Feasibility/Feasibility.tsx
+1	1	src/client/pages/Reach/ReachForm/components/QuestionsSearch.tsx
+7	3	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getTargets.ts
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/parseTargetToMktFormat.ts
+2	2	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+7	4	src/client/pages/Reach/ReachForm/initialValues.ts
+7	24	src/client/pages/Reach/data/getAudiences.ts
+28	0	src/client/pages/Reach/data/getReachQuestions.ts
+26	0	src/client/pages/Reach/data/getReachQuestionsSearch.ts
+0	12	src/client/pages/Reach/data/questionsSearch.gql
+1	0	src/client/pages/Reach/hooks/index.ts
+3	3	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+51	0	src/client/pages/Reach/hooks/useReachQuestionsQuery.ts
+10	8	src/client/pages/Reach/hooks/useReachQuestionsSearchQuery.ts
+5	3	src/client/pages/Reach/hooks/useSurveyEstimatesLazyQuery.ts
+2	4	src/client/pages/Reach/lib/buildTargets.ts
+2	2	src/client/pages/Reach/lib/calcRangeConfig.ts
+2	6	src/client/pages/Reach/lib/duplicateTarget.ts
+2	1	src/client/pages/Reach/lib/getFormattedData.ts
+27	0	src/client/pages/Reach/lib/getQuestionIds.ts
+2	2	src/client/pages/Reach/lib/getTargetIndex.ts
+71	11	src/client/pages/Reach/lib/handleQuestions.ts
+1	1	src/client/pages/Reach/lib/handleSingleValue.ts
+2	1	src/client/pages/Reach/lib/index.ts
+5	30	src/client/pages/Reach/lib/setFormData.ts
+38	0	src/client/pages/Reach/lib/setTemplateAndQuestions.ts
+8	4	src/client/pages/Reach/types/types.ts
+41	60	src/server/api/models/reach.js
+2	1	src/server/api/schema/query/query.js
+6	3	src/server/api/schema/query/resolvers.js
+2	5	src/server/api/schema/types/reach.js
+
+--9181caf5--2021-02-22--Chase Kallemeyn
+--f14af892--2021-02-22--Marco Rosner
+
+--71302537--2021-02-22--Marco Rosner
+
+--72fa0d39--2021-02-22--Marco Rosner
+
+--d5dbfe4f--2021-02-09--Marco Rosner
+
+--bd70b09c--2021-02-22--Chase Kallemeyn
+--fa349255--2021-02-22--ckallemeyn
+2	4	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--06c364b1--2021-02-19--Olivier
+1	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+
+--cb0e3408--2021-02-19--Ocolonna
+
+--09f1cf1e--2021-02-19--Ocolonna
+1	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+
+--6fb151c7--2021-02-19--Olivier
+102	64	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+7	7	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+23	26	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+7	2	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/AutomationType.tsx
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/Budget.tsx
+6	9	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/CutoffDate.tsx
+5	7	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/CutoffHour.tsx
+18	11	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/Fields.tsx
+6	15	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/HourPicker.tsx
+61	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/__tests__/useFieldingAssistantState.test.ts
+2	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+44	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+9	4	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+25	19	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+0	35	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getAutomationValues.test.ts
+27	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getFieldingAssistantNewConfig.test.ts
+0	31	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getInitialValues.test.ts
+0	47	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getAutomationValues.ts
+44	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getFieldingAssistantNewConfig.ts
+0	32	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getInitialValues.ts
+1	2	src/client/components/SurveyAutomationDialog/FormAutomation/lib/index.ts
+14	0	src/client/components/SurveyAutomationDialog/FormAutomation/types/types.ts
+2	52	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+0	3	src/client/components/SurveyAutomationDialog/data/removeAutomationState.gql
+0	9	src/client/components/SurveyAutomationDialog/data/updateAutomationState.gql
+0	37	src/client/components/SurveyAutomationDialog/index.js
+1	0	src/client/components/SurveyAutomationDialog/index.ts
+1	2	src/client/components/SurveyHeader/SurveyHeader.js
+8	25	src/client/graphql-schema.ts
+2	2	src/server/api/connectors/fieldingAssistant.js
+21	16	src/server/api/models/fieldingAssistantConfig.js
+8	8	src/server/api/models/fieldingAssistantGoals.js
+5	4	src/server/api/schema/types/fieldingAssistantConfig.js
+3	0	src/server/api/schema/types/fieldingAssistantGoals.js
+1	0	src/server/lib/handleAPIError.js
+
+--7fb34766--2021-02-19--Ocolonna
+
+--f0dab10c--2021-02-19--Ocolonna
+
+--74c1c28c--2021-02-18--Ocolonna
+4	4	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getFieldingAssistantNewConfig.test.ts
+
+--f75c9635--2021-02-18--Ocolonna
+5	1	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/HourPicker.tsx
+
+--78cf437d--2021-02-18--Ocolonna
+14	12	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+1	12	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/Budget.tsx
+5	7	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/CutoffDate.tsx
+5	7	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/CutoffHour.tsx
+9	8	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/Fields.tsx
+5	18	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/HourPicker.tsx
+3	3	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/__tests__/useFieldingAssistantState.test.ts
+5	5	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+0	33	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getInitialValues.test.ts
+4	4	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getFieldingAssistantNewConfig.ts
+0	21	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getInitialValues.ts
+0	1	src/client/components/SurveyAutomationDialog/FormAutomation/lib/index.ts
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/types/types.ts
+
+--f37cf29d--2021-02-18--Ocolonna
+16	10	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/__tests__/useFieldingAssistantState.test.ts
+0	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+22	20	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getInitialValues.test.ts
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getInitialValues.ts
+
+--143db0b6--2021-02-18--Ocolonna
+25	33	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+17	26	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+1	2	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/CutoffDate.tsx
+10	4	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/Fields.tsx
+28	23	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+8	19	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getInitialValues.ts
+14	0	src/client/components/SurveyAutomationDialog/FormAutomation/types/types.ts
+
+--3e8279f7--2021-02-17--Ocolonna
+3	3	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+3	3	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getFieldingAssistantNewConfig.ts
+
+--f6b98eb8--2021-02-17--Ocolonna
+2	2	src/server/api/connectors/fieldingAssistant.js
+21	16	src/server/api/models/fieldingAssistantConfig.js
+5	7	src/server/api/models/fieldingAssistantGoals.js
+3	0	src/server/api/schema/types/fieldingAssistantConfig.js
+3	0	src/server/api/schema/types/fieldingAssistantGoals.js
+
+--3815a9a8--2021-02-17--Ocolonna
+
+--f90d53f6--2021-02-17--Ocolonna
+14	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+
+--a127e777--2021-02-16--Ocolonna
+86	51	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+2	4	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+13	5	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+7	2	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/components/AutomationType.tsx
+55	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/__tests__/useFieldingAssistantState.test.ts
+2	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+28	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+67	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+0	35	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getAutomationValues.test.ts
+27	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getFieldingAssistantNewConfig.test.ts
+0	47	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getAutomationValues.ts
+44	0	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getFieldingAssistantNewConfig.ts
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/lib/index.ts
+2	27	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+0	67	src/client/components/SurveyAutomationDialog/hooks/useUpdateFieldingAssistantConfigMutation.ts
+0	1	src/client/components/SurveyHeader/SurveyHeader.js
+2	25	src/client/graphql-schema.ts
+1	1	src/server/api/models/fieldingAssistantConfig.js
+3	1	src/server/api/models/fieldingAssistantGoals.js
+2	4	src/server/api/schema/types/fieldingAssistantConfig.js
+1	0	src/server/lib/handleAPIError.js
+
+--e67d383d--2021-02-15--Ocolonna
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+0	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+0	2	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+1	0	src/client/components/SurveyAutomationDialog/index.ts
+1	1	src/client/components/SurveyHeader/SurveyHeader.js
+
+--e33b4b6f--2021-02-12--Ocolonna
+17	8	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+5	3	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+12	3	src/client/components/SurveyAutomationDialog/FormAutomation/components/FieldingAssistantBody/FieldingAssistantBody.tsx
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+9	4	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+0	61	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+14	37	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+0	3	src/client/components/SurveyAutomationDialog/data/removeAutomationState.gql
+0	9	src/client/components/SurveyAutomationDialog/data/updateAutomationState.gql
+67	0	src/client/components/SurveyAutomationDialog/hooks/useUpdateFieldingAssistantConfigMutation.ts
+0	37	src/client/components/SurveyAutomationDialog/index.js
+
+--09819e68--2021-02-19--Ocolonna

@@ -1,0 +1,811 @@
+--c59fd68e--2021-03-04--Rose Espiritu
+1	1	package.json
+17	0	src/client/components/Buttons/CustomLinkButton.tsx
+1	0	src/client/components/Buttons/index.ts
+21	25	src/client/pages/AccountSettings/AccountSettingsContainer.js
+13	40	src/client/pages/AccountsList/AccountsListContainer.js
+1	0	src/client/pages/lib/index.ts
+16	0	src/client/pages/lib/renderViewBusinessButton.tsx
+
+--0ff15637--2021-03-04--Olivier
+1	1	package.json
+5	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+0	60	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.js
+0	114	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.ts
+33	94	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	35	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/index.ts
+0	74	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.test.tsx
+0	432	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+0	79	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/index.ts
+0	68	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableField.tsx
+0	92	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableFieldInput.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.ts
+0	128	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/queryVariables.ts
+0	55	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/types.ts
+0	116	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/url-utils.ts
+1	12	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+60	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.tsx
+0	284	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+284	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.tsx
+74	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+49	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/CollectsPiiRadioGroup.tsx
+113	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/ConfirmBusinessUnitDialog.tsx
+35	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/SurveyPriority.tsx
+167	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+49	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/DisplayVariables.tsx
+56	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/SurveyUrl.tsx
+79	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlBuilderFooter.tsx
+68	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableField.tsx
+92	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableFieldInput.tsx
+84	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableList.tsx
+66	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/VerifyCallback.tsx
+7	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/index.ts
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/index.ts
+97	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/__tests__/url.test.ts
+300	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/__tests__/variables.test.ts
+2	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/index.ts
+165	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/url.ts
+154	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/variables.ts
+129	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/queryVariables.ts
+37	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/styles.ts
+17	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/types.ts
+4	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/index.ts
+1	0	src/client/pages/SurveyDetails/types.ts
+
+--b6b81cdf--2021-03-04--Rose Espiritu
+1	1	package.json
+4	1	src/client/components/Selects/ProjectSelect/hooks/useProjectsSearch.ts
+
+--70702baf--2021-03-03--Rose Espiritu
+1	1	package.json
+0	19	src/client/components/Buttons/CustomLinkButton.tsx
+0	1	src/client/components/Buttons/index.ts
+25	21	src/client/pages/AccountSettings/AccountSettingsContainer.js
+40	13	src/client/pages/AccountsList/AccountsListContainer.js
+0	1	src/client/pages/lib/index.ts
+0	15	src/client/pages/lib/renderViewBusinessButton.tsx
+
+--61ba5c1b--2021-03-03--Rose Espiritu
+1	1	package.json
+19	0	src/client/components/Buttons/CustomLinkButton.tsx
+1	0	src/client/components/Buttons/index.ts
+21	25	src/client/pages/AccountSettings/AccountSettingsContainer.js
+13	40	src/client/pages/AccountsList/AccountsListContainer.js
+1	0	src/client/pages/lib/index.ts
+15	0	src/client/pages/lib/renderViewBusinessButton.tsx
+
+--5a1f435b--2021-03-03--Marco Rosner
+1	1	package.json
+12	1	src/client/pages/Reach/ReachForm/ContentView.tsx
+
+--e5ff101f--2021-03-03--Marco Rosner
+1	1	package.json
+1	1	src/client/pages/Reach/lib/buildTargets.ts
+
+--377a4257--2021-03-03--Emanuel Larini
+1	1	package.json
+71	97	src/client/components/Chat/index.js
+
+--d6618082--2021-03-03--Olivier
+1	1	package.json
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useFieldingAssistantState.ts
+
+--a7cb14f8--2021-03-03--Marco Rosner
+1	1	package.json
+0	6	src/client/components/CloneSurveyModal/data/cloneSurvey.gql
+10	0	src/client/components/CloneSurveyModal/data/cloneSurveyMutation.ts
+2	2	src/client/components/CloneSurveyModal/index.js
+0	6	src/client/components/DetailsExternalNameModal/data/getSurveyExternalName.gql
+10	0	src/client/components/DetailsExternalNameModal/data/getSurveyExternalName.ts
+0	5	src/client/components/DetailsExternalNameModal/data/updateSurveyExternalName.gql
+9	0	src/client/components/DetailsExternalNameModal/data/updateSurveyExternalName.ts
+4	4	src/client/components/DetailsExternalNameModal/index.js
+12	0	src/client/components/HighCpiDialog/data/businessUnitDetails.ts
+2	2	src/client/components/SubNavigation/SubNavigationItems.js
+0	5	src/client/components/SubNavigation/data/account.gql
+9	0	src/client/components/SubNavigation/data/account.ts
+0	52	src/client/graphql-schema.ts
+
+--84ec0723--2021-03-02--Rose Espiritu
+1	1	package.json
+0	7	src/client/components/Selects/ManagerSelect/constants.ts
+2	1	src/client/components/Selects/ManagerSelect/useManagerSelect.ts
+
+--0a48e21e--2021-03-02--Marco Rosner
+1	1	package.json
+13	14	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/lib/index.ts
+
+--a6be0ab5--2021-03-02--Marco Rosner
+1	1	package.json
+3	3	src/client/pages/SurveyWizard/QQQ/WizardForm/WizardForm.tsx
+
+--67c27ab2--2021-03-02--Marco Rosner
+1	1	package.json
+2	2	src/client/data/hoc/withIdentity.js
+0	13	src/client/data/identity.gql
+2	43	src/client/graphql-schema.ts
+0	13	src/client/graphql/queries/identify.gql
+17	0	src/client/graphql/queries/identify.ts
+2	3	src/client/hooks/useIdentity.ts
+0	15	src/client/pages/SurveysDashboard/Filters/data/filter-values-query.gql
+18	0	src/client/pages/SurveysDashboard/Filters/data/getFilterValuesQuery.ts
+2	2	src/client/pages/SurveysDashboard/Filters/index.js
+
+--5c4be52b--2021-03-02--Olivier
+1	1	package.json
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+16	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--2b00e2fd--2021-03-02--Olivier
+1	1	package.json
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+185	183	yarn.lock
+
+--1666ebc1--2021-03-02--Olivier
+1	1	package.json
+0	28	src/client/graphql-schema.ts
+5	5	src/client/hooks/useGetFieldingAssistantConfigQuery.ts
+0	62	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.spec.js
+60	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.js
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.ts
+13	18	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	74	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.spec.js
+74	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.test.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableField.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.ts
+9	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+9	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/useBusinessUnitDetails.data.ts
+13	8	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+0	10	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/businessUnitDetails.gql
+0	5	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/reachLocales.gql
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+0	40	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+59	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useGetBusinessUnitDetails.ts
+8	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useReachLocales.ts
+4	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/getReachUrl.ts
+0	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/index.js
+2	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/index.ts
+1	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/isProrityAssignable.ts
+4	36	yarn.lock
+
+--ff4ae626--2021-03-02--Olivier
+1	1	package.json
+3	4	src/client/components/SurveyAutomationDialog/FormAutomation/__tests__/FormAutomation.test.tsx
+
+--ae8a0eaa--2021-02-19--Marco Rosner
+1	2	src/client/components/AccountImpersonate/AccountImpersonateProvider.js
+2	1	src/client/components/Analytics/Analytics.tsx
+1	2	src/client/components/Navigation/AccountImpersonateDropdown/index.js
+1	1	src/client/components/Navigation/Navigation.js
+2	1	src/client/components/QueryInput/index.js
+1	3	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+1	2	src/client/components/Selects/AccountSupplierSelect/index.js
+1	2	src/client/components/Selects/AccountTypeSelect/index.js
+2	1	src/client/components/Selects/AudienceTemplateSelect/index.tsx
+1	1	src/client/components/Selects/BusinessUnitSelect/useBusinessUnits.ts
+1	3	src/client/components/Selects/ClientAccessSelect/useClientAccessSelect.ts
+1	3	src/client/components/Selects/CountryLanguageSelect/useCountryLanguages.ts
+1	3	src/client/components/Selects/IndustryLockoutSelect/useIndustryLockoutSelect.ts
+1	3	src/client/components/Selects/IndustrySelect/useIndustrySelect.ts
+1	3	src/client/components/Selects/ManagerSelect/useManagerSelect.ts
+2	1	src/client/components/Selects/ProjectSelect/hooks/useProjectsSearch.ts
+122	0	src/client/components/Selects/ProjectSelect/index.tsx
+2	1	src/client/components/Selects/QueryInput/index.js
+1	2	src/client/components/Selects/StateSelect/index.js
+1	3	src/client/components/Selects/StudyTypeSelect/useStudyTypeSelect.ts
+1	2	src/client/components/Selects/SupplierLinkTypeSelect/index.js
+1	2	src/client/components/Selects/SupplierManagerSelect/index.js
+1	2	src/client/components/Selects/SupplierSelect/index.js
+1	2	src/client/components/Selects/SupplierTrackingTypeSelect/index.js
+1	2	src/client/components/Selects/SupplierUnassociatedSelect/index.js
+1	2	src/client/components/Selects/SupplierWithCustomGridSelect/index.js
+1	2	src/client/components/Selects/SurveySupplierSelect/index.js
+1	2	src/client/components/Selects/TargetSelect/index.js
+1	2	src/client/components/Selects/UserAccountSelect/index.js
+1	1	src/client/components/Selects/lib/refetchField.ts
+2	7	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+1	4	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigListQuery.ts
+1	4	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantGoalsQuery.ts
+1	4	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useSupplierFinancesQuery.ts
+1	4	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+13	0	src/client/components/SurveyAutomationDialog/data/updateAutomationState.ts
+2	4	src/client/hooks/useAdHocSurveyMutation.ts
+1	3	src/client/hooks/useAutomationStateQuery.ts
+1	4	src/client/hooks/useBusinessQuery.ts
+2	4	src/client/hooks/useEditSurveyCalcType.ts
+1	4	src/client/hooks/useGetFieldingAssistantConfigQuery.ts
+18	0	src/client/hooks/useMockHook.tsx
+1	1	src/client/pages/AccountSettings/AccountChangelog/index.js
+10	6	src/client/pages/AccountSettings/AccountDetails/AccountDemand/AccountDemandFilters/AccountDemandFilters.test.tsx
+1	1	src/client/pages/AccountSettings/AccountDetails/AccountDemand/AccountDemandLineChart/index.js
+1	2	src/client/pages/AccountSettings/AccountSettingsProvider.js
+1	2	src/client/pages/AccountsList/AccountsList/index.js
+1	2	src/client/pages/AllocationTemplates/AllocationTemplatesProvider.js
+1	2	src/client/pages/AllocationTemplates/SupplierGroupDialog/index.js
+1	2	src/client/pages/AllocationTemplates/SupplierGroups/index.js
+1	1	src/client/pages/BusinessUnitDetails/BusinessUnitDetailsProvider.js
+1	2	src/client/pages/BusinessUnitsList/BusinessUnitsList/index.js
+1	2	src/client/pages/ClientContactDetails/ClientContactDetailsProvider.js
+1	1	src/client/pages/ClientContactsList/ClientContactsListProvider.js
+1	2	src/client/pages/ClientDetails/ClientDetailsProvider.js
+1	2	src/client/pages/ClientsList/ClientsList/index.js
+1	2	src/client/pages/ProjectDetails/ProjectDetailsProvider.js
+1	2	src/client/pages/ProjectDetails/ProjectSurveysList/ProjectSurveysListProvider.js
+1	2	src/client/pages/ProjectsList/ProjectsList/index.js
+55	0	src/client/pages/Reach/data/getAudienceQuotas.ts
+99	0	src/client/pages/Reach/hooks/__tests__/useAudienceEstimateLazyQuery.test.tsx
+94	0	src/client/pages/Reach/hooks/__tests__/useQuotasQuery.test.tsx
+1	3	src/client/pages/Reach/hooks/useAudienceEstimateLazyQuery.ts
+55	0	src/client/pages/Reach/hooks/useAudienceEstimateLazyQuery.tsx
+1	2	src/client/pages/Reach/hooks/useAudienceTemplatesQuery.ts
+1	3	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+1	3	src/client/pages/Reach/hooks/useModelVersionQuery.ts
+55	0	src/client/pages/Reach/hooks/useQuotasQuery.ts
+1	3	src/client/pages/Reach/hooks/useReachLocalesQuery.ts
+1	3	src/client/pages/Reach/hooks/useReachQuestionsSearchQuery.ts
+58	0	src/client/pages/Reach/hooks/useSurveyEstimateQuery.ts
+1	3	src/client/pages/Reach/hooks/useSurveyEstimatesLazyQuery.ts
+1	3	src/client/pages/Reach/hooks/useTemplateQuery.ts
+1	2	src/client/pages/ReportsDashboard/Analysis/ActivityAnalysis/ActivityBarChart/index.js
+2	1	src/client/pages/ReportsDashboard/Analysis/AnalysisHeader/ExportReports/ExportReports.js
+1	2	src/client/pages/ReportsDashboard/Analysis/AnalysisProvider.js
+1	1	src/client/pages/ReportsDashboard/Analysis/DataAnalysis/index.js
+1	1	src/client/pages/ReportsDashboard/Analysis/LOIAnalysis/CompletionLOIEditDialogButton/CompletionLOIEditDialog.js
+1	1	src/client/pages/ReportsDashboard/Analysis/RateAnalysis/IncidenceRateEditDialogButton/IncidenceRateEditDialog.js
+1	3	src/client/pages/ReportsDashboard/Financial/hook/useSupplierFinancesQuery.ts
+1	2	src/client/pages/ReportsDashboard/ReportsDashboardProvider.js
+1	2	src/client/pages/SupplierAccountAssociation/AssociatedSuppliers/index.js
+1	2	src/client/pages/SupplierAccountAssociation/index.js
+1	2	src/client/pages/SupplierDetails/SupplierDetailsProvider.js
+1	1	src/client/pages/SupplierLinkDetails/RedirectUrls/index.js
+1	2	src/client/pages/SupplierLinkDetails/SupplierLinkDetailsProvider.js
+1	2	src/client/pages/SupplierSurveysList/SupplierSurveysList/index.js
+1	2	src/client/pages/SuppliersLinksList/SuppliersLinksDialog/index.js
+1	2	src/client/pages/SuppliersLinksList/SuppliersLinksTable/index.js
+1	2	src/client/pages/SuppliersList/SuppliersList/index.js
+1	2	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsOptimizerProvider.js
+1	2	src/client/pages/SuppliersSettings/PriceGrid/PriceGridProvider.js
+1	2	src/client/pages/SuppliersSettings/SuppliersSettingsProvider.js
+1	1	src/client/pages/Survey/index.js
+1	2	src/client/pages/SurveyAllocations/ExternalSupplySources/ExternalSupplySourcesProvider.js
+1	1	src/client/pages/SurveyAllocations/ExternalSupplySources/components/TargetFormFields/index.js
+1	1	src/client/pages/SurveyAllocations/MarketplaceLinkDialog/index.js
+1	2	src/client/pages/SurveyAllocations/SupplierGroupDialog/index.js
+1	2	src/client/pages/SurveyAllocations/SupplierGroups/components/ImportTemplateMenu/index.js
+1	2	src/client/pages/SurveyAllocations/SupplierGroups/index.js
+1	2	src/client/pages/SurveyAllocations/SurveyAllocationsHeader/index.js
+1	2	src/client/pages/SurveyAllocations/SurveyAllocationsProvider.js
+19	0	src/client/pages/SurveyDetails/ClientAccessSelect/data/clientProjectManagers.ts
+36	0	src/client/pages/SurveyDetails/ClientAccessSelect/index.js
+1	1	src/client/pages/SurveyDetails/DetailsChangelog/lib/types.ts
+8	15	src/client/pages/SurveyDetails/DetailsExpectedMetrics/__tests__/DetailsExpecedMetrics.test.js
+20	43	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.spec.js
+2	3	src/client/pages/SurveyDetails/DetailsProvider.js
+3	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.spec.js
+3	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+0	1	src/client/pages/SurveyDetails/DetailsSubNavigation/index.js
+20	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/index.js
+1	3	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+1	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/hooks/useGetSurveyGroups.ts
+1	2	src/client/pages/SurveyGroups/SurveyGroupsList/index.js
+1	1	src/client/pages/SurveyQuotas/AutoIncrementDialog/AutoIncrementDialog.tsx
+11	10	src/client/pages/SurveyQuotas/AutoIncrementDialog/AutoIncrementForm/AutoIncrementForm.tsx
+1	1	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasFormTable.tsx
+1	1	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasTable.tsx
+1	1	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasTableActions/SurveyQuotasTableActions.tsx
+1	1	src/client/pages/SurveyQuotas/SurveyQuotasHeader/EditAutoIncrementBtn.tsx
+1	1	src/client/pages/SurveyQuotas/SurveyQuotasHeader/SurveyQuotasHeader.tsx
+4	6	src/client/pages/SurveyQuotas/hooks/useAutoIncrementMutation.ts
+4	6	src/client/pages/SurveyQuotas/hooks/useQuotaDeleteMutation.ts
+4	9	src/client/pages/SurveyQuotas/hooks/useQuotaDuplicateMutation.ts
+4	6	src/client/pages/SurveyQuotas/hooks/useQuotaLockMutation.ts
+4	6	src/client/pages/SurveyQuotas/hooks/useQuotaMutation.ts
+4	6	src/client/pages/SurveyQuotas/hooks/useQuotaOrderMutation.ts
+4	6	src/client/pages/SurveyQuotas/hooks/useQuotaRestrictionMutation.ts
+1	3	src/client/pages/SurveyQuotas/hooks/useSurveyEntrantsQuery.ts
+1	3	src/client/pages/SurveyQuotas/hooks/useSurveyQuery.ts
+1	3	src/client/pages/SurveyQuotas/hooks/useSurveyQuotasQuery.ts
+1	2	src/client/pages/SurveySupplierAllocationsDetails/SurveySupplierAllocationsProvider.js
+1	2	src/client/pages/SurveyWizard/Legacy/AudienceTemplateSelect/index.js
+16	7	src/client/pages/SurveyWizard/Legacy/SurveyWizard.spec.js
+1	2	src/client/pages/SurveyWizard/Legacy/index.js
+1	1	src/client/pages/SurveyWizard/QQQ/WizardForm/WizardForm.tsx
+1	2	src/client/pages/SurveyWizard/QQQ/index.js
+10	4	src/client/pages/SurveysDashboard/Filters/Filters.spec.js
+214	45	src/client/pages/SurveysDashboard/Filters/__snapshots__/Filters.spec.js.snap
+1	1	src/client/pages/SurveysDashboard/SurveyStatusTabs/index.js
+1	1	src/client/pages/SurveysDashboard/SurveysTable/BulkEditor/index.js
+1	1	src/client/pages/SurveysDashboard/SurveysTable/ExportCsvDialog/index.js
+1	1	src/client/pages/SurveysDashboard/SurveysTable/ExportPdfDialog/hooks/useExportPdf.tsx
+1	1	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/index.js
+2	2	src/client/pages/SurveysDashboard/SurveysTable/SurveysTableProvider.js
+1	1	src/client/pages/Targets/QuestionsSearch/QuestionsSearch.tsx
+1	2	src/client/pages/Targets/SubHeader/index.js
+2	1	src/client/pages/Targets/TargetEditor/TargetEditor.tsx
+1	1	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+1	2	src/client/pages/Targets/TargetsForm/index.js
+1	2	src/client/pages/TeamDirectory/People/index.js
+1	2	src/client/pages/UserDetails/UserDetailsAuthorizations/index.js
+1	2	src/client/pages/UserDetails/UserDetailsProvider.js
+
+--17b0f1cf--2021-02-19--Marco Rosner
+2	7	package.json
+2	1	src/client/App.js
+0	37	src/client/graphql-schema.ts
+1	1	src/client/graphql/lib/create-afterware-link.js
+5	4	src/client/graphql/lib/create-apollo-client.js
+14	21	src/client/graphql/lib/create-cache.js
+1	1	src/client/graphql/lib/create-error-link.js
+2	2	src/client/graphql/lib/create-http-link.js
+0	13	src/client/graphql/queries/identify.gql
+17	0	src/client/graphql/queries/identify.ts
+1263	442	src/shared/schemaIntrospection.json
+52	152	yarn.lock
+
+--3cd234fc--2021-03-01--Eric Kreiter
+2	2	src/client/pages/SurveyDetails/hooks/index.ts
+2	0	src/client/pages/SurveyDetails/hooks/useGetSurveyDetails/index.ts
+4	4	src/client/pages/SurveyDetails/hooks/useGetSurveyDetails/useGetSurveyDetails.ts
+2	0	src/client/pages/SurveyDetails/hooks/useUpdateSurveyDetails/index.ts
+75	0	src/client/pages/SurveyDetails/hooks/useUpdateSurveyDetails/useUpdateSurveyDetails.ts
+0	80	src/client/pages/SurveyDetails/hooks/useUpdateSurveyDetails/useUpdateSurveyDetailsMutation.ts
+
+--fd7cae2f--2021-02-19--Marco Rosner
+2	2	src/client/data/hoc/withIdentity.js
+0	13	src/client/data/identity.gql
+2	43	src/client/graphql-schema.ts
+0	13	src/client/graphql/queries/identify.gql
+17	0	src/client/graphql/queries/identify.ts
+2	3	src/client/hooks/useIdentity.ts
+0	15	src/client/pages/SurveysDashboard/Filters/data/filter-values-query.gql
+18	0	src/client/pages/SurveysDashboard/Filters/data/getFilterValuesQuery.ts
+2	2	src/client/pages/SurveysDashboard/Filters/index.js
+
+--69a00bf6--2021-03-01--Marco Rosner
+1	1	package.json
+1	1	src/client/components/Selects/hooks/useAutoRetryOnError.ts
+0	165	src/client/graphql-schema.ts
+95	0	src/client/pages/SurveyDetails/DetailsChangelog/data/getSurveyHistoryQuery.ts
+0	91	src/client/pages/SurveyDetails/DetailsChangelog/data/surveyHistory.gql
+2	2	src/client/pages/SurveyDetails/DetailsChangelog/hooks/useSurveyHistory.ts
+0	18	src/client/pages/SurveyDetails/DetailsInFieldData/data/getProjectStats.gql
+22	0	src/client/pages/SurveyDetails/DetailsInFieldData/data/getProjectStatsQuery.ts
+0	20	src/client/pages/SurveyDetails/DetailsInFieldData/data/getSurveyStats.gql
+24	0	src/client/pages/SurveyDetails/DetailsInFieldData/data/getSurveyStatsQuery.ts
+2	0	src/client/pages/SurveyDetails/DetailsInFieldData/data/index.ts
+8	5	src/client/pages/SurveyDetails/DetailsInFieldData/hooks/useProjectStats.ts
+2	2	src/client/pages/SurveyDetails/DetailsInFieldData/hooks/useSurveyStats.ts
+0	7	src/client/pages/SurveyDetails/DetailsPeople/data/projectDetails.gql
+0	12	src/client/pages/SurveyDetails/DetailsProjectSettings/data/projectDetails.gql
+16	0	src/client/pages/SurveyDetails/DetailsProjectSettings/data/projectDetails.ts
+2	2	src/client/pages/SurveyDetails/DetailsProjectSettings/hooks/useProjectDetails.ts
+1	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/data/getSurveyGroups.ts
+2	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/hooks/useGetSurveyGroups.ts
+
+--6cd25fc4--2021-03-01--Marco Rosner
+1	1	package.json
+
+--274e1148--2021-03-01--Ocolonna
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+
+--59816ba3--2021-03-01--Ocolonna
+3	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.js
+2	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/useBusinessUnitDetails.data.ts
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+59	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useGetBusinessUnitDetails.ts
+0	59	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useGetBusinessUnitDetailsQuery.ts
+
+--ed054bc6--2021-03-01--Ocolonna
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+
+--81d7ada6--2021-03-01--Ocolonna
+97	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/__tests__/url.test.ts
+20	9	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/url.ts
+
+--89b29c37--2021-03-01--Ocolonna
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--dce99f2e--2021-03-01--Ocolonna
+0	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+88	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/__tests__/variables.test.ts
+3	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/variables.ts
+3	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/queryVariables.ts
+
+--feae8052--2021-02-26--Ocolonna
+0	1	package.json
+0	11	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+51	190	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+0	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/__tests__/url.test.ts
+216	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/__tests__/variables.test.ts
+23	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/index.ts
+0	103	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/url-utils.ts
+154	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/url.ts
+153	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/variables.ts
+1	10	yarn.lock
+
+--729735a6--2021-03-01--Ocolonna
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/useBusinessUnitDetails.data.ts
+3	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.js
+
+--a10c1b0c--2021-03-01--Ocolonna
+6	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+0	63	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+59	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useGetBusinessUnitDetailsQuery.ts
+
+--2c610da1--2021-02-25--Ocolonna
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/ConfirmBusinessUnitDialog.tsx
+1	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useReachLocales.ts
+
+--69757bc0--2021-02-25--Ocolonna
+1	0	package.json
+1	0	src/client/components/AutomationExpandableCard/__tests__/AutomationExpandableCard.test.tsx
+5	5	src/client/hooks/useGetFieldingAssistantConfigQuery.ts
+1	0	src/client/pages/SurveyDetails/Details.js
+0	49	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/CollectsPiiRadioGroup.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/index.ts
+0	114	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.ts
+15	18	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	35	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/index.ts
+0	432	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+0	79	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/index.ts
+0	68	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableField.tsx
+0	92	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableFieldInput.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.ts
+0	116	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/lib/url-utils.ts
+0	128	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/queryVariables.ts
+0	55	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/types.ts
+9	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+60	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.js
+0	55	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.tsx
+270	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+0	265	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+49	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/CollectsPiiRadioGroup.tsx
+114	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/ConfirmBusinessUnitDialog.tsx
+35	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/SurveyPriority.tsx
+425	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+79	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlBuilderFooter.tsx
+68	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableField.tsx
+92	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableFieldInput.tsx
+3	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/index.ts
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/index.ts
+103	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/url-utils.ts
+128	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/queryVariables.ts
+37	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/styles.ts
+17	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/types.ts
+4	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/index.ts
+4	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+15	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+7	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useReachLocales.ts
+4	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/getReachUrl.ts
+10	1	yarn.lock
+
+--4dfdeaa7--2021-02-24--Ocolonna
+5	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+0	28	src/client/graphql-schema.ts
+49	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/CollectsPiiRadioGroup.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/index.ts
+0	62	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.ts
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.ts
+15	76	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	74	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.spec.js
+10	10	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.ts
+116	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/lib/url-utils.ts
+0	116	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/url-utils.ts
+9	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/useBusinessUnitDetails.data.ts
+55	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.tsx
+74	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+0	14	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/businessUnitDetails.ts
+0	9	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/reachLocales.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+16	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+0	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/index.js
+2	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/index.ts
+1	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/isProrityAssignable.ts
+1	0	src/client/pages/SurveyDetails/types.ts
+4	36	yarn.lock
+
+--db245441--2021-02-24--Ocolonna
+0	62	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.spec.js
+62	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.ts
+0	265	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+265	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.ts
+0	10	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/businessUnitDetails.gql
+14	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/businessUnitDetails.ts
+0	5	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/reachLocales.gql
+9	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/reachLocales.ts
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+
+--d6cfbd9b--2021-03-01--Ocolonna
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.tsx
+
+--49018098--2021-03-01--Ocolonna
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.js
+74	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.test.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+0	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/index.ts
+0	74	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+
+--ee27a98a--2021-03-01--Ocolonna
+1	5	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--4c07a9a4--2021-03-01--Ocolonna
+0	1	package.json
+0	1	src/client/components/AutomationExpandableCard/__tests__/AutomationExpandableCard.test.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+1	10	yarn.lock
+
+--fa2fbb12--2021-03-01--Ocolonna
+3	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+
+--c8f1b780--2021-03-01--Ocolonna
+60	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.js
+113	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.ts
+3	5	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+35	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/index.ts
+432	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+79	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/index.ts
+68	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableField.tsx
+92	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableFieldInput.tsx
+2	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/index.ts
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.ts
+128	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/queryVariables.ts
+55	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/types.ts
+116	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/url-utils.ts
+0	60	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.js
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+0	113	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/ConfirmBusinessUnitDialog.tsx
+0	35	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/SurveyPriority.tsx
+0	432	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+0	79	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilderFooter/index.ts
+0	68	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlVariableField/UrlVariableField.tsx
+0	92	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlVariableField/UrlVariableFieldInput.tsx
+0	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlVariableField/index.ts
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/index.ts
+0	128	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/queryVariables.ts
+0	55	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/types.ts
+0	116	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/url-utils.ts
+0	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/index.ts
+
+--14d8c510--2021-03-01--Ocolonna
+2	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+79	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilderFooter/index.ts
+68	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlVariableField/UrlVariableField.tsx
+92	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlVariableField/UrlVariableFieldInput.tsx
+2	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlVariableField/index.ts
+0	79	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlBuilderFooter.tsx
+0	68	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableField.tsx
+0	92	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableFieldInput.tsx
+0	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/index.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useGetBusinessUnitDetailsQuery.ts
+
+--156167c6--2021-03-01--Ocolonna
+0	1	src/client/pages/SurveyDetails/Details.js
+78	10	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	49	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/CollectsPiiRadioGroup.tsx
+14	8	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+0	103	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/url-utils.ts
+0	37	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/styles.ts
+38	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/types.ts
+116	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/url-utils.ts
+0	1	src/client/pages/SurveyDetails/types.ts
+
+--a4789834--2021-03-01--Ocolonna
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/useBusinessUnitDetails.data.ts
+3	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.js
+
+--acc29b24--2021-03-01--Ocolonna
+6	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+0	63	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+59	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useGetBusinessUnitDetailsQuery.ts
+
+--99213601--2021-02-25--Ocolonna
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/ConfirmBusinessUnitDialog.tsx
+1	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useReachLocales.ts
+
+--84f56746--2021-02-25--Ocolonna
+1	0	package.json
+1	0	src/client/components/AutomationExpandableCard/__tests__/AutomationExpandableCard.test.tsx
+5	5	src/client/hooks/useGetFieldingAssistantConfigQuery.ts
+1	0	src/client/pages/SurveyDetails/Details.js
+0	49	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/CollectsPiiRadioGroup.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/index.ts
+0	114	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.ts
+15	18	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	35	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/index.ts
+0	432	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+0	79	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/index.ts
+0	68	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableField.tsx
+0	92	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlVariableField/UrlVariableFieldInput.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.ts
+0	116	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/lib/url-utils.ts
+0	128	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/queryVariables.ts
+0	55	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/types.ts
+9	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+60	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.js
+0	55	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.tsx
+270	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+0	265	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+49	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/CollectsPiiRadioGroup.tsx
+114	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/ConfirmBusinessUnitDialog.tsx
+35	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/SurveyPriority.tsx
+425	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/UrlBuilder.tsx
+79	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlBuilderFooter.tsx
+68	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableField.tsx
+92	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/UrlVariableFieldInput.tsx
+3	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/components/index.ts
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/index.ts
+103	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/lib/url-utils.ts
+128	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/queryVariables.ts
+37	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/styles.ts
+17	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/UrlBuilder/types.ts
+4	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/components/index.ts
+4	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+15	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+7	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useReachLocales.ts
+4	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/getReachUrl.ts
+10	1	yarn.lock
+
+--70e6ef2f--2021-02-24--Ocolonna
+5	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+0	28	src/client/graphql-schema.ts
+49	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/CollectsPiiRadioGroup.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/CollectsPiiRadioGroup/index.ts
+0	62	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.ts
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/index.ts
+15	76	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	74	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.spec.js
+10	10	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilder.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/index.ts
+116	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/lib/url-utils.ts
+0	116	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/url-utils.ts
+9	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/useBusinessUnitDetails.data.ts
+55	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/ConfirmBusinessUnitDialog.test.tsx
+74	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/UrlBuilder.test.tsx
+0	14	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/businessUnitDetails.ts
+0	9	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/reachLocales.ts
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/index.ts
+16	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+0	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/index.js
+2	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/index.ts
+1	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/lib/isProrityAssignable.ts
+1	0	src/client/pages/SurveyDetails/types.ts
+4	36	yarn.lock
+
+--0cf45a04--2021-02-24--Ocolonna
+0	62	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.spec.js
+62	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/ConfirmBusinessUnitDialog/ConfirmBusinessUnitDialog.test.ts
+0	265	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+265	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.ts
+0	10	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/businessUnitDetails.gql
+14	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/businessUnitDetails.ts
+0	5	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/reachLocales.gql
+9	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/data/reachLocales.ts
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/hooks/useBusinessUnitDetails.ts
+
+--4f0c344c--2021-02-25--Marco Rosner
+7	10	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/lib/index.ts
+
+--3c15f887--2021-02-19--Marco Rosner
+0	6	src/client/components/CloneSurveyModal/data/cloneSurvey.gql
+10	0	src/client/components/CloneSurveyModal/data/cloneSurveyMutation.ts
+2	2	src/client/components/CloneSurveyModal/index.js
+0	6	src/client/components/DetailsExternalNameModal/data/getSurveyExternalName.gql
+10	0	src/client/components/DetailsExternalNameModal/data/getSurveyExternalName.ts
+0	5	src/client/components/DetailsExternalNameModal/data/updateSurveyExternalName.gql
+9	0	src/client/components/DetailsExternalNameModal/data/updateSurveyExternalName.ts
+4	4	src/client/components/DetailsExternalNameModal/index.js
+12	0	src/client/components/HighCpiDialog/data/businessUnitDetails.ts
+2	2	src/client/components/SubNavigation/SubNavigationItems.js
+0	5	src/client/components/SubNavigation/data/account.gql
+9	0	src/client/components/SubNavigation/data/account.ts
+0	52	src/client/graphql-schema.ts
+
+--1178e27d--2021-03-01--Eric Kreiter
+--f378efeb--2021-03-01--Eric Kreiter
+2	0	src/client/pages/SurveyDetails/hooks/index.ts
+12	0	src/client/pages/SurveyDetails/hooks/useGetSurveyDetails/surveyDetails.ts
+84	0	src/client/pages/SurveyDetails/hooks/useGetSurveyDetails/surveyDetailsFragment.tsx
+25	0	src/client/pages/SurveyDetails/hooks/useGetSurveyDetails/useGetSurveyDetails.ts
+9	0	src/client/pages/SurveyDetails/hooks/useUpdateSurveyDetails/updateSurvey.ts
+80	0	src/client/pages/SurveyDetails/hooks/useUpdateSurveyDetails/useUpdateSurveyDetailsMutation.ts
+
+--7ccb7424--2021-02-19--Marco Rosner
+1	1	src/client/components/Selects/hooks/useAutoRetryOnError.ts
+0	165	src/client/graphql-schema.ts
+95	0	src/client/pages/SurveyDetails/DetailsChangelog/data/getSurveyHistoryQuery.ts
+0	91	src/client/pages/SurveyDetails/DetailsChangelog/data/surveyHistory.gql
+2	2	src/client/pages/SurveyDetails/DetailsChangelog/hooks/useSurveyHistory.ts
+0	18	src/client/pages/SurveyDetails/DetailsInFieldData/data/getProjectStats.gql
+22	0	src/client/pages/SurveyDetails/DetailsInFieldData/data/getProjectStatsQuery.ts
+0	20	src/client/pages/SurveyDetails/DetailsInFieldData/data/getSurveyStats.gql
+24	0	src/client/pages/SurveyDetails/DetailsInFieldData/data/getSurveyStatsQuery.ts
+2	0	src/client/pages/SurveyDetails/DetailsInFieldData/data/index.ts
+8	5	src/client/pages/SurveyDetails/DetailsInFieldData/hooks/useProjectStats.ts
+2	2	src/client/pages/SurveyDetails/DetailsInFieldData/hooks/useSurveyStats.ts
+0	7	src/client/pages/SurveyDetails/DetailsPeople/data/projectDetails.gql
+0	12	src/client/pages/SurveyDetails/DetailsProjectSettings/data/projectDetails.gql
+16	0	src/client/pages/SurveyDetails/DetailsProjectSettings/data/projectDetails.ts
+2	2	src/client/pages/SurveyDetails/DetailsProjectSettings/hooks/useProjectDetails.ts
+1	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/data/getSurveyGroups.ts
+2	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/hooks/useGetSurveyGroups.ts
+
+--1788405c--2021-03-01--Marco Rosner
+1	1	package.json
+14	12	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklistProvider.js
+0	9	src/client/components/SurveyLaunchChecklist/data/businessUnitCurrencyQuery.gql
+18	0	src/client/components/SurveyLaunchChecklist/data/getAutomationStateQuery.ts
+13	0	src/client/components/SurveyLaunchChecklist/data/getBusinessUnitCurrencyQuery.ts
+26	0	src/client/components/SurveyLaunchChecklist/data/getLaunchChecklistQuery.ts
+9	0	src/client/components/SurveyLaunchChecklist/data/getSurveyQualificationsQuery.ts
+0	11	src/client/components/SurveyLaunchChecklist/data/getTargets.gql
+16	0	src/client/components/SurveyLaunchChecklist/data/getTargetsQuery.ts
+9	0	src/client/components/SurveyLaunchChecklist/data/getValidateTargetPackageQuery.ts
+6	0	src/client/components/SurveyLaunchChecklist/data/index.ts
+0	22	src/client/components/SurveyLaunchChecklist/data/launchChecklistQuery.gql
+0	5	src/client/components/SurveyLaunchChecklist/data/surveyQualifications.gql
+0	31	src/client/components/SurveyLaunchChecklist/data/targetLaunch.gql
+35	0	src/client/components/SurveyLaunchChecklist/data/targetLaunch.ts
+0	5	src/client/components/SurveyLaunchChecklist/data/validateTargetPackage.gql
+0	253	src/client/graphql-schema.ts
+
+--ded64efb--2021-03-01--Marco Rosner
+1	1	package.json
+
+--a5139fd7--2021-02-19--Marco Rosner
+14	12	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklistProvider.js
+0	9	src/client/components/SurveyLaunchChecklist/data/businessUnitCurrencyQuery.gql
+18	0	src/client/components/SurveyLaunchChecklist/data/getAutomationStateQuery.ts
+13	0	src/client/components/SurveyLaunchChecklist/data/getBusinessUnitCurrencyQuery.ts
+26	0	src/client/components/SurveyLaunchChecklist/data/getLaunchChecklistQuery.ts
+9	0	src/client/components/SurveyLaunchChecklist/data/getSurveyQualificationsQuery.ts
+0	11	src/client/components/SurveyLaunchChecklist/data/getTargets.gql
+16	0	src/client/components/SurveyLaunchChecklist/data/getTargetsQuery.ts
+9	0	src/client/components/SurveyLaunchChecklist/data/getValidateTargetPackageQuery.ts
+6	0	src/client/components/SurveyLaunchChecklist/data/index.ts
+0	22	src/client/components/SurveyLaunchChecklist/data/launchChecklistQuery.gql
+0	5	src/client/components/SurveyLaunchChecklist/data/surveyQualifications.gql
+0	31	src/client/components/SurveyLaunchChecklist/data/targetLaunch.gql
+35	0	src/client/components/SurveyLaunchChecklist/data/targetLaunch.ts
+0	5	src/client/components/SurveyLaunchChecklist/data/validateTargetPackage.gql
+0	253	src/client/graphql-schema.ts
+
+--76dd0d90--2021-03-01--Ocolonna
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/components/CancelAutomationModal.tsx
+0	156	src/client/graphql-schema.ts
+185	183	yarn.lock

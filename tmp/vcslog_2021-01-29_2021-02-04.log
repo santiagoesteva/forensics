@@ -1,0 +1,542 @@
+--caed56dc--2021-02-04--Eric Kreiter
+--5cb5c903--2021-02-04--Eric Kreiter
+16	11	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+
+--2fedc04c--2021-02-04--Eric Kreiter
+--be7ced48--2021-02-04--Eric Kreiter
+13	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/data/getSurveyGroups.ts
+153	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/hooks/useGetSurveyGroups.ts
+30	14	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/index.js
+
+--c821ccbf--2021-02-04--Rose Espiritu
+1	1	package.json
+3	2	src/client/components/SurveyLaunchChecklist/__mocks__/MockChecklistData.js
+1	1	src/client/pages/AccountSettings/AccountChangelog/ReconciliationChange.js
+1	1	src/client/pages/SurveyDetails/Details.js
+0	82	src/client/pages/SurveyDetails/DetailsChangelog/Change.js
+89	0	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+88	0	src/client/pages/SurveyDetails/DetailsChangelog/Changelog.tsx
+0	43	src/client/pages/SurveyDetails/DetailsChangelog/Changeset.js
+49	0	src/client/pages/SurveyDetails/DetailsChangelog/Changeset.tsx
+0	119	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.js
+43	44	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.spec.js
+55	0	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.tsx
+114	0	src/client/pages/SurveyDetails/DetailsChangelog/__mocks__/DetailsChangelog.data.ts
+0	1593	src/client/pages/SurveyDetails/DetailsChangelog/__snapshots__/DetailsChangelog.spec.js.snap
+84	0	src/client/pages/SurveyDetails/DetailsChangelog/hooks/useSurveyHistory.ts
+0	56	src/client/pages/SurveyDetails/DetailsChangelog/index.js
+1	0	src/client/pages/SurveyDetails/DetailsChangelog/index.ts
+6	4	src/client/pages/SurveyDetails/DetailsChangelog/lib/constant.ts
+24	41	src/client/pages/SurveyDetails/DetailsChangelog/lib/types.ts
+3	7	src/server/api/models/surveys.js
+833	855	yarn.lock
+
+--eee577dc--2021-02-04--Rose Espiritu
+1	1	package.json
+
+--41479547--2021-02-04--Rose Espiritu
+3	2	src/client/components/SurveyLaunchChecklist/__mocks__/MockChecklistData.js
+0	1	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+0	1593	src/client/pages/SurveyDetails/DetailsChangelog/__snapshots__/DetailsChangelog.spec.js.snap
+3	3	yarn.lock
+
+--9eca1d6b--2021-02-04--Eric
+--a3249d14--2021-02-04--Rose Espiritu
+--bd8e3db3--2021-02-04--Rose Espiritu
+13	4	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+
+--18aa317a--2021-02-04--Eric
+1	1	package.json
+2	2	src/client/graphql-schema.ts
+45	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/SurveyCountMessage.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/index.ts
+0	33	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.css
+0	93	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.js
+110	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.tsx
+9	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/getGroupSurveyCount.ts
+0	5	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/surveyGroupSurveyCount.gql
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/index.ts
+33	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+0	21	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/index.ts
+3	3	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--c70aeaeb--2021-02-04--Eric Kreiter
+1	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--faf6af7d--2021-02-04--Eric Kreiter
+1	1	package.json
+
+--27111089--2021-02-04--Eric Kreiter
+--f7a3a142--2021-02-04--Eric Kreiter
+4	1	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+
+--14237e25--2021-02-04--Eric Kreiter
+5	1	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+1	1	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+1	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--c82026dc--2021-02-04--Rose Espiritu
+--5d7154a9--2021-02-04--Rose Espiritu
+19	6	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+668	720	yarn.lock
+
+--feeb7588--2021-02-04--Eric Kreiter
+7	5	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+
+--c475c86b--2021-02-04--Chase Kallemeyn
+1	1	package.json
+0	45	src/client/components/SurveyLaunchChecklist/ErrorChecklist.js
+73	0	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+59	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+6	0	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+1	1	src/server/api/models/legacySurveyQuotas.js
+
+--672f6c24--2021-02-04--ckallemeyn
+1	1	package.json
+
+--3b293830--2021-02-04--ckallemeyn
+1	1	package.json
+
+--f3f7ee4f--2021-02-04--ckallemeyn
+1	1	package.json
+
+--5021fd55--2021-02-04--ckallemeyn
+1	1	package.json
+
+--e137cf1f--2021-02-04--ckallemeyn
+--bed8a0a7--2021-02-04--Rose Espiritu
+--49c819c2--2021-02-04--ckallemeyn
+1	1	package.json
+
+--c3b5a634--2021-02-04--ckallemeyn
+--b68d17e5--2021-02-04--Marco Rosner
+1	1	package.json
+7	3	src/server/api/models/surveys.js
+
+--1290e76e--2021-02-04--Marco Rosner
+1	1	package.json
+
+--60f926d5--2021-02-03--Marco Rosner
+7	3	src/server/api/models/surveys.js
+
+--a3616f22--2021-02-03--Eric Kreiter
+15	5	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+5	4	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--aebfa0e9--2021-02-03--Eric Kreiter
+4	2	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+
+--ebd0ade1--2021-02-03--Eric Kreiter
+22	30	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+
+--3bedc01a--2021-02-03--Eric Kreiter
+1	1	src/client/components/Search/Search.js
+0	96	src/client/components/Selects/AccountSelect/AccountSelect.js
+62	0	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+12	6	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+0	59	src/client/components/Selects/AccountSelect/index.js
+1	0	src/client/components/Selects/AccountSelect/index.ts
+1	1	src/client/pages/BusinessUnitDetails/BusinessUnitDetailsForm.js
+1	1	src/client/pages/ClientDetails/ClientDetailsForm.js
+1	1	src/client/pages/ProjectDetails/ProjectDetailsForm.js
+1	1	src/client/pages/SupplierAccountAssociation/SupplierAccountAssociationForm.js
+1	1	src/client/pages/SupplierDetails/SupplierDetailsForm.js
+1	1	src/client/pages/SupplierLinkDetails/SupplierLinkDetailsForm.js
+1	1	src/client/pages/UserDetails/UserDetailsAuthorizations/UserDetailsAuthorizationDialogForm.js
+1	1	src/client/pages/UserDetails/UserDetailsCreateForm.js
+
+--fb73b10c--2021-02-03--Eric Kreiter
+55	17	src/client/components/Selects/AccountSelect/AccountSelect.js
+43	38	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+
+--704a2c49--2021-02-03--Rose Espiritu
+--f4b0cc44--2021-02-03--Rose Espiritu
+8	7	src/client/pages/SurveyDetails/DetailsChangelog/hooks/useSurveyHistory.ts
+1	1	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+
+--c2e128ee--2021-02-03--ckallemeyn
+32	34	src/client/components/SurveyLaunchChecklist/LoadingChecklist.tsx
+
+--4e85788c--2021-02-03--Emanuel Larini
+1	1	package.json
+2	2	src/server/index.js
+
+--d0cbb670--2021-02-03--emanuellarini
+1	1	package.json
+
+--4653bd44--2021-02-03--emanuellarini
+1	1	package.json
+
+--f2214e87--2021-02-03--Eric Kreiter
+49	0	src/client/components/Selects/AccountSelect/AccountSelect.js
+10	0	src/client/components/Selects/AccountSelect/data/getAccounts.ts
+50	0	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+
+--30d8fea4--2021-02-03--Emanuel Larini
+--8ad06c95--2021-02-02--ckallemeyn
+2	47	src/client/components/SurveyLaunchChecklist/LoadingChecklist.tsx
+
+--dc9ff77c--2021-02-02--ckallemeyn
+--bf841bf6--2021-02-02--ckallemeyn
+44	44	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+
+--67815280--2021-02-02--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+44	44	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+
+--9b302d38--2021-02-02--ckallemeyn
+0	1	src/server/api/models/legacySurveyQuotas.js
+
+--504fd4c1--2021-02-02--ckallemeyn
+2	1	src/server/api/models/legacySurveyQuotas.js
+
+--c789bec3--2021-02-02--ckallemeyn
+--21b1249f--2021-02-02--Rose Espiritu
+4	4	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+1	1	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+4	36	yarn.lock
+
+--6bfff19e--2021-02-02--Eric Kreiter
+2	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--796d6860--2021-02-02--Rose Espiritu
+1	2	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+1	34	src/client/pages/SurveyDetails/DetailsChangelog/Changelog.tsx
+23	25	src/client/pages/SurveyDetails/DetailsChangelog/Changeset.tsx
+1	3	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.spec.js
+2	32	src/client/pages/SurveyDetails/DetailsChangelog/hooks/useSurveyHistory.ts
+1	0	src/client/pages/SurveyDetails/DetailsChangelog/lib/index.ts
+33	0	src/client/pages/SurveyDetails/DetailsChangelog/lib/types.ts
+2	2	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+224	162	yarn.lock
+
+--c6280a0d--2021-02-02--Eric
+--dfda6cfe--2021-02-02--Eric Kreiter
+1	1	src/client/graphql-schema.ts
+
+--bc8c78ad--2021-02-02--Eric Kreiter
+14	14	src/client/graphql-schema.ts
+
+--6032e162--2021-02-02--Eric Kreiter
+6	3	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.tsx
+0	5	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/getGroupSurveyCount.gql
+9	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/getGroupSurveyCount.ts
+14	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+
+--67233890--2021-02-02--Eric Kreiter
+2	13	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/SurveyCountMessage.tsx
+13	15	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.tsx
+
+--cb2a70f9--2021-02-02--Rose Espiritu
+--c44b10e3--2021-02-02--Rose Espiritu
+2	4	src/client/pages/SurveyDetails/DetailsChangelog/Changelog.tsx
+
+--84e3ae57--2021-02-02--Leandro Silva
+2	2	package.json
+44	44	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+18	0	src/client/lib/format-form-error.js
+16	16	src/client/pages/SurveyDetails/DetailsChangelog/__snapshots__/DetailsChangelog.spec.js.snap
+10	10	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+4	3	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+2	1	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasFormTable.tsx
+0	1	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasTable.tsx
+26	4	src/client/pages/SurveyQuotas/lib/submitQuotaChanges.ts
+23	6	src/server/api/models/legacySurveyQuotas.js
+4	4	yarn.lock
+
+--d00bc063--2021-02-02--Chase Kallemeyn
+1	1	package.json
+0	26	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+35	0	src/client/components/SurveyLaunchChecklist/AutomationItem.tsx
+0	21	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.css
+35	0	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--96c10aab--2021-02-02--Rose Espiritu
+3	1	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+4	2	src/client/pages/SurveyDetails/DetailsChangelog/Changelog.tsx
+
+--371948bb--2021-02-02--Rose Espiritu
+13	18	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+
+--d604dd7d--2021-02-02--ckallemeyn
+2	2	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+0	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--10e15eab--2021-02-02--ckallemeyn
+3	3	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+1	0	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--b113685f--2021-02-02--Rose Espiritu
+--a07b054f--2021-02-02--Rose Espiritu
+1	1	src/client/pages/AccountSettings/AccountChangelog/ReconciliationChange.js
+1	1	src/client/pages/SurveyDetails/Details.js
+0	82	src/client/pages/SurveyDetails/DetailsChangelog/Change.js
+72	0	src/client/pages/SurveyDetails/DetailsChangelog/Change.tsx
+121	0	src/client/pages/SurveyDetails/DetailsChangelog/Changelog.tsx
+0	43	src/client/pages/SurveyDetails/DetailsChangelog/Changeset.js
+51	0	src/client/pages/SurveyDetails/DetailsChangelog/Changeset.tsx
+0	119	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.js
+45	44	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.spec.js
+55	0	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.tsx
+114	0	src/client/pages/SurveyDetails/DetailsChangelog/__mocks__/DetailsChangelog.data.ts
+0	1593	src/client/pages/SurveyDetails/DetailsChangelog/__snapshots__/DetailsChangelog.spec.js.snap
+113	0	src/client/pages/SurveyDetails/DetailsChangelog/hooks/useSurveyHistory.ts
+0	56	src/client/pages/SurveyDetails/DetailsChangelog/index.js
+1	0	src/client/pages/SurveyDetails/DetailsChangelog/index.ts
+6	4	src/client/pages/SurveyDetails/DetailsChangelog/lib/constant.ts
+0	1	src/client/pages/SurveyDetails/DetailsChangelog/lib/index.ts
+0	50	src/client/pages/SurveyDetails/DetailsChangelog/lib/types.ts
+
+--71ac6441--2021-02-02--Sarah Waldie
+1	1	package.json
+68	0	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsBlockedList.tsx
+0	38	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsIndustries.js
+11	4	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsOptimizerContainer.js
+0	38	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsStudyTypes.js
+0	102	src/client/pages/SuppliersSettings/SuppliersSettingsContainer.js
+126	0	src/client/pages/SuppliersSettings/SuppliersSettingsContainer.tsx
+0	45	src/client/pages/SuppliersSettings/SuppliersSettingsTabs.js
+
+--bdf686c2--2021-02-02--ckallemeyn
+1	1	package.json
+
+--761a949e--2021-02-02--ckallemeyn
+1	1	package.json
+
+--e416e021--2021-02-02--Sarah Waldie
+1	1	package.json
+
+--cb8b4fdd--2021-02-02--ckallemeyn
+17	6	src/client/components/SurveyLaunchChecklist/LoadingChecklist.tsx
+
+--91e940fc--2021-02-01--ckallemeyn
+--cc3b0b7f--2021-02-01--ckallemeyn
+--e08a7bfd--2021-02-01--Eric Kreiter
+0	13	src/client/graphql-schema.ts
+56	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/SurveyCountMessage.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/index.ts
+0	152	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.js
+109	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.tsx
+0	5	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/surveyGroupSurveyCount.gql
+0	21	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/index.ts
+2	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--251ee3f7--2021-02-01--ckallemeyn
+--d981bd37--2021-02-01--Chase Kallemeyn
+--eab96ae3--2021-02-01--Sarah Waldie
+3	3	src/client/pages/SuppliersSettings/SuppliersSettingsContainer.tsx
+
+--079d26d5--2021-02-01--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--0cd9b57b--2021-01-29--ckallemeyn
+0	22	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--75a3e3e6--2021-01-27--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--5caaa23b--2021-01-27--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+3	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--b73bff20--2021-02-01--Sarah Waldie
+14	7	src/client/pages/SuppliersSettings/SuppliersSettingsContainer.tsx
+0	45	src/client/pages/SuppliersSettings/SuppliersSettingsTabs.js
+
+--eb6a159d--2021-01-27--ckallemeyn
+5	5	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--e4ba5683--2021-01-27--ckallemeyn
+0	28	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+1	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--56138fbe--2021-01-27--ckallemeyn
+0	25	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+
+--eb005569--2021-01-27--ckallemeyn
+19	16	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+14	3	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--3fd72b3b--2021-01-26--ckallemeyn
+50	0	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+
+--f4f03b0b--2021-02-01--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--238e990d--2021-02-01--Sarah Waldie
+7	4	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsBlockedList.tsx
+
+--ea3a4609--2021-02-01--Sarah Waldie
+65	0	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsBlockedList.tsx
+0	38	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsIndustries.js
+11	4	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsOptimizerContainer.js
+0	38	src/client/pages/SuppliersSettings/OptimizerSettings/SupplierSettingsStudyTypes.js
+0	102	src/client/pages/SuppliersSettings/SuppliersSettingsContainer.js
+119	0	src/client/pages/SuppliersSettings/SuppliersSettingsContainer.tsx
+
+--de544613--2021-02-01--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+
+--46652a4a--2021-02-01--ckallemeyn
+3	5	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--7e0170e4--2021-02-01--Eric Kreiter
+--4efa1e29--2021-02-01--Eric
+1	1	package.json
+1	1	src/client/pages/AccountSettings/AccountChangelog/AccountChangelog.js
+2	1	src/client/pages/AccountSettings/AccountDetails/AccountDetails.js
+1	1	src/client/pages/AccountSettings/AssociatedSuppliers/AssociatedSuppliers.js
+1	1	src/client/pages/AccountSettings/EmailNotifications/EmailNotifications.js
+2	1	src/client/pages/AccountSettings/ProofAccess/ProofAccess.js
+11	5	src/client/pages/AccountSettings/ReEntryConfiguration/ReEntryConfiguration.js
+1	1	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.js
+5	14	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.spec.js
+1580	48	src/client/pages/SurveyDetails/DetailsChangelog/__snapshots__/DetailsChangelog.spec.js.snap
+7	5	src/client/pages/SurveyDetails/DetailsExpectedMetrics/DetailsExpectedMetrics.tsx
+16	9	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+288	285	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+9	6	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+59	0	src/client/pages/SurveyDetails/DetailsSection/DetailsHelpText/DetailsHelpText.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsHelpText/index.ts
+0	127	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.css
+0	219	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.js
+103	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.tsx
+53	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionContent/DetailsSectionContent.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionContent/index.ts
+66	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionContentContainer/DetailsSectionContentContainer.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionContentContainer/index.ts
+0	30	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField.css
+0	65	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField.js
+86	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField/DetailsSectionField.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField/index.ts
+33	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionFieldColumn/DetailsSectionFieldsColumn.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionFieldColumn/index.ts
+0	20	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionFieldsColumn.css
+0	18	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionFieldsColumn.js
+46	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/DetailsSectionHeader.tsx
+25	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/SectionHeaderDescription.tsx
+16	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/SectionHeaderTitle.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/index.ts
+29	0	src/client/pages/SurveyDetails/DetailsSection/__mocks__/DetailsSection.data.ts
+204	0	src/client/pages/SurveyDetails/DetailsSection/__tests__/DetailsSection.test.js
+0	3	src/client/pages/SurveyDetails/DetailsSection/index.js
+3	0	src/client/pages/SurveyDetails/DetailsSection/index.ts
+7	6	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSubNavigation/index.js
+3	3	src/client/pages/SurveyDetails/DetailsTimeline/DetailsTimeline.tsx
+0	2	src/shared/utils/index.js
+
+--348764ef--2021-02-01--Eric Kreiter
+1	1	package.json
+
+--dfd9ae6a--2021-02-01--Eric Kreiter
+--63e9fde6--2021-02-01--Eric Kreiter
+0	33	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.css
+69	28	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.js
+
+--f188b046--2021-02-01--Leandro Silva
+1	1	package.json
+1	1	src/server/api/models/legacyAccounts.js
+1	1	src/server/api/models/legacyMarketplaceTargets.js
+1	1	src/server/api/models/reportDashboard.js
+2	1	src/server/api/models/targets.js
+1	1	src/server/index.js
+5	5	src/server/lib/handleAPIError.js
+1	1	src/server/lib/las/refreshUserTokens.js
+
+--a402db1c--2021-02-01--Marco Rosner
+1	1	package.json
+4	1	src/client/pages/Reach/hooks/useReachLocalesQuery.ts
+
+--d428274e--2021-02-01--Marco Rosner
+1	1	package.json
+
+--8f39f4ec--2021-01-29--Marco Rosner
+4	1	src/client/pages/Reach/hooks/useReachLocalesQuery.ts
+
+--d68ba23d--2021-02-01--Marco Rosner
+1	1	package.json
+4	1	src/client/pages/Reach/ReachForm/ReachSideBar.tsx
+1	0	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+8	1	src/client/pages/Reach/ReachForm/components/ProjectedCost/ProjectedCost.tsx
+122	27	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/DownloadButton.tsx
+1	0	src/client/pages/Reach/ReachForm/initialValues.ts
+1	0	src/client/pages/Reach/types/types.ts
+
+--7044ef35--2021-02-01--Marco Rosner
+1	1	package.json
+
+--80a22619--2021-01-29--ckallemeyn
+0	2	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+3	3	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--0484af2c--2021-01-29--ckallemeyn
+0	11	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--ec3f674b--2021-01-29--ckallemeyn
+--b6cf107a--2021-01-29--Chase Kallemeyn
+--f8c3d886--2021-01-29--ckallemeyn
+--dae81fc9--2021-01-27--ckallemeyn
+1	2	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--b6a07f49--2021-01-27--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+29	3	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--c0d4e066--2021-01-27--ckallemeyn
+5	5	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+10	0	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+
+--5ea6a2b7--2021-01-27--ckallemeyn
+0	28	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+35	0	src/client/components/SurveyLaunchChecklist/AutomationItem.tsx
+1	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--78f09916--2021-01-27--ckallemeyn
+0	25	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+
+--b801f6c2--2021-01-27--ckallemeyn
+0	21	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.css
+
+--542dbd22--2021-01-27--ckallemeyn
+19	16	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+14	3	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--062dd29d--2021-01-26--ckallemeyn
+26	2	src/client/components/SurveyLaunchChecklist/AutomationItem.js
+
+--7a80f5fe--2021-01-29--Eric Kreiter
+26	13	src/client/graphql-schema.ts
+20	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.js
+5	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/getGroupSurveyCount.gql
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/index.ts
+21	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+
+--ffa8f6ee--2021-01-29--ckallemeyn
+2	2	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+
+--c09b54b2--2021-01-29--Marco Rosner
+4	2	src/client/pages/Reach/ReachForm/ReachSideBar.tsx
+1	1	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/DownloadButton.tsx
+
+--809d651c--2021-01-29--Eric Kreiter
+6	6	src/client/pages/SurveyDetails/DetailsSection/DetailsHelpText/DetailsHelpText.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionContent/DetailsSectionContent.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionContentContainer/DetailsSectionContentContainer.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionFieldColumn/DetailsSectionFieldsColumn.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/DetailsSectionHeader.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/SectionHeaderDescription.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/SectionHeaderTitle.tsx
+
+--2b3c4e90--2021-01-29--Marco Rosner
+16	20	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/DownloadButton.tsx
+
+--a5afefd4--2021-01-29--Eric Kreiter
+3	3	src/client/pages/SurveyDetails/DetailsSection/DetailsHelpText/DetailsHelpText.tsx
+
+--b9295010--2021-01-29--Eric Kreiter
+3	3	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.tsx

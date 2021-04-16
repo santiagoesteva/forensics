@@ -1,0 +1,11 @@
+v35.40.1 - Hide Clone Survey in SSM (#1932)
+v35.40.0 - refact: [UI-2101] Use Targets state to get audiences (#1919)
+v35.39.0 - fix: [UI-794] - fnx deps upgrade (minor) (#1927)
+v35.38.0 -  Survey Header Commit (#1929)
+v35.37.0 - New Survey Quotas page creation and WIP
+v35.36.0 - Refactor survey header (#1920)
+v35.35.9 - fix: [UI-794] - updates certain deps to latest patch version (#1910)
+v35.35.8 - Accounts select will now populate without error in QA (#1928)
+fix: [UI-1714] Update select in details timeline (#1925)
+v35.35.7 - fix: [UI-2140] speeder should show only 1 decimal (#1923)
+v35.35.6 - fix: change env vars to SEGMENT_KEY (#1924)

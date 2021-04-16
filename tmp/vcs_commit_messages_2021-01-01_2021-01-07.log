@@ -1,0 +1,9 @@
+v35.35.5 - fix: segment integration (#1922)
+v.35.35.4 - test: [UI-2078] - get estimates btn tests (#1921)
+v35.35.3A - needed to change height to minHeight for infield table to load correctly (#1918)
+v35.35.3 - Fix field onFocus details description message to show correctly (#1917)
+v35.35.2 - swapped classname styles to help resolve bulkEdit banner styling conflicts (#1914)
+v35.35.1 - fix: remove unused connectors (#1916)
+v35.35.0 - feat: [UI-2112] Update template package to 4.10.3 (#1908)
+v35.34.0
+v35.33.0 - refact: [UI-2100] Move conditions values to questions (#1901)

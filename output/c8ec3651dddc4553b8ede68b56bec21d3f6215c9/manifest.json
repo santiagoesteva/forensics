@@ -1,0 +1,28 @@
+{
+  "id": "c8ec3651dddc4553b8ede68b56bec21d3f6215c9",
+  "reportName": "system-evolution",
+  "taskName": "system-evolution-analysis",
+  "time": "2021-04-16T13:47:54.187Z",
+  "dateRange": "2021-01-01_2021-04-16",
+  "parameters": {
+    "timeSplit": "1w"
+  },
+  "enabledDiagrams": [
+    "revisions-trend",
+    "commits-trend",
+    "authors-trend",
+    "churn-trend"
+  ],
+  "dataFiles": [
+    {
+      "fileType": "summary-stats",
+      "timePeriod": "2021-01-01_2021-04-16",
+      "fileUrl": "c8ec3651dddc4553b8ede68b56bec21d3f6215c9/2021-01-01_2021-04-16_system-summary-data.json"
+    },
+    {
+      "fileType": "churn-trend",
+      "timePeriod": "2021-01-01_2021-04-16",
+      "fileUrl": "c8ec3651dddc4553b8ede68b56bec21d3f6215c9/2021-01-01_2021-04-16_system-churn-data.json"
+    }
+  ]
+}

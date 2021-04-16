@@ -1,0 +1,812 @@
+[
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Ocolonna"
+    },
+    "sharedCommits": 209,
+    "couplingStrength": 83
+  },
+  {
+    "developer": {
+      "name": "Eric Kreiter"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 109,
+    "couplingStrength": 66
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 26,
+    "couplingStrength": 47
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "PJ"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 17
+  },
+  {
+    "developer": {
+      "name": "Michael Siciliano"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 18,
+    "couplingStrength": 16
+  },
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 53,
+    "couplingStrength": 14
+  },
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 22,
+    "couplingStrength": 13
+  },
+  {
+    "developer": {
+      "name": "Ocolonna"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 40,
+    "couplingStrength": 11
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Rose Espiritu"
+    },
+    "sharedCommits": 4,
+    "couplingStrength": 10
+  },
+  {
+    "developer": {
+      "name": "Marco Rosner"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 34,
+    "couplingStrength": 10
+  },
+  {
+    "developer": {
+      "name": "Marco Rosner"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 30,
+    "couplingStrength": 10
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 5,
+    "couplingStrength": 9
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 7,
+    "couplingStrength": 9
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 13,
+    "couplingStrength": 9
+  },
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 21,
+    "couplingStrength": 9
+  },
+  {
+    "developer": {
+      "name": "Ocolonna"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 16,
+    "couplingStrength": 9
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Patrick Brown Jr"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 8
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 8,
+    "couplingStrength": 8
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 5,
+    "couplingStrength": 8
+  },
+  {
+    "developer": {
+      "name": "Ocolonna"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 18,
+    "couplingStrength": 8
+  },
+  {
+    "developer": {
+      "name": "Marco Rosner"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 22,
+    "couplingStrength": 8
+  },
+  {
+    "developer": {
+      "name": "Marco Rosner"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 29,
+    "couplingStrength": 8
+  },
+  {
+    "developer": {
+      "name": "Eric Kreiter"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 10,
+    "couplingStrength": 8
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Steven Childress"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 7
+  },
+  {
+    "developer": {
+      "name": "Eric"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 11,
+    "couplingStrength": 7
+  },
+  {
+    "developer": {
+      "name": "emanuellarini"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 4,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 8,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Patrick Brown Jr"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 12,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 11,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Marco Rosner"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 19,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Leandro Silva"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 10,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Eric"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 9,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "Emanuel Larini"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 5,
+    "couplingStrength": 6
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 6,
+    "couplingStrength": 5
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Olivier"
+    },
+    "sharedCommits": 8,
+    "couplingStrength": 5
+  },
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 13,
+    "couplingStrength": 5
+  },
+  {
+    "developer": {
+      "name": "Ocolonna"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 11,
+    "couplingStrength": 5
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Ocolonna"
+    },
+    "sharedCommits": 6,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 4,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 5,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 10,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "PJ"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "Ocolonna"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 11,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "Ocolonna"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 8,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "Leandro Silva"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 7,
+    "couplingStrength": 4
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 4,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 8,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Patrick Brown Jr"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Vagner Santana"
+    },
+    "coupledDeveloper": {
+      "name": "Rose Espiritu"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 4,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 9,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Leandro Silva"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 5,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Leandro Silva"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 8,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "Eric Kreiter"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 4,
+    "couplingStrength": 3
+  },
+  {
+    "developer": {
+      "name": "ckallemeyn"
+    },
+    "coupledDeveloper": {
+      "name": "Rose Espiritu"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 2
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Ocolonna"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 2
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Olivier"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 2
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Olivier"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 2
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Eric"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 2
+  },
+  {
+    "developer": {
+      "name": "Michael Siciliano"
+    },
+    "coupledDeveloper": {
+      "name": "Eric Kreiter"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 2
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Ocolonna"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "Rose Espiritu"
+    },
+    "coupledDeveloper": {
+      "name": "Olivier"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Ocolonna"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "Patrick Brown Jr"
+    },
+    "coupledDeveloper": {
+      "name": "Chase Kallemeyn"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "Olivier"
+    },
+    "coupledDeveloper": {
+      "name": "Michael Siciliano"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "Michael Siciliano"
+    },
+    "coupledDeveloper": {
+      "name": "Emanuel Larini"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "Michael Siciliano"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 3,
+    "couplingStrength": 1
+  },
+  {
+    "developer": {
+      "name": "emanuellarini"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 0
+  },
+  {
+    "developer": {
+      "name": "Steven Childress"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 2,
+    "couplingStrength": 0
+  },
+  {
+    "developer": {
+      "name": "Sarah Waldie"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 0
+  },
+  {
+    "developer": {
+      "name": "PJ"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 0
+  },
+  {
+    "developer": {
+      "name": "Ocolonna"
+    },
+    "coupledDeveloper": {
+      "name": "Michael Siciliano"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 0
+  },
+  {
+    "developer": {
+      "name": "Michael Siciliano"
+    },
+    "coupledDeveloper": {
+      "name": "Leandro Silva"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 0
+  },
+  {
+    "developer": {
+      "name": "Marek Smid"
+    },
+    "coupledDeveloper": {
+      "name": "Marco Rosner"
+    },
+    "sharedCommits": 1,
+    "couplingStrength": 0
+  }
+]

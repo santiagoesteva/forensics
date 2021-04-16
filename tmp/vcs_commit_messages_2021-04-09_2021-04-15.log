@@ -1,0 +1,16 @@
+v35.16.1 - fix: [UI-2377] Consistent currency usage (#2127)
+v35.16.0 - feat: [UI-2239] add Reports page with flag (#2070)
+v35.14.0 - Make disable logic for CPI (#2133)
+v35.13.2 - remove default value to config (#2135)
+v35.13.1 - update goals config according to their goal and reflect the reality (#2126)
+v35.13.0 - Handle no balanced_cpi goal (#2125)
+chore: enable GRAPHQL_BATCH in LT (#2134)
+fix: [SUP-1592] Revert Apollo Client update (#2132)
+v35.12.1
+fix: snapshot
+v35.12.0 - refact: [UI-2025] Update Apollo Client (#1786)
+v35.11.3 - fix: [SUP-1576] Allocations error handling (#2113)
+chore: add QA 2 env deployment option (#2120)
+v35.11.2 - Missing accounts value check (#2124)
+refactor: [UI-2513] Feature Flag and URL redirect (#2109)
+v35.11.0 - Add surveyId to Audience (#2122)

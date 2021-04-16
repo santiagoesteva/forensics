@@ -1,0 +1,80 @@
+{
+  "id": "28598bbfaab593e75bd3d9933e165c0c87251dc1",
+  "reportName": "commit-messages",
+  "taskName": "commit-message-analysis",
+  "time": "2021-04-16T13:49:45.992Z",
+  "dateRange": "2021-01-01_2021-04-16",
+  "parameters": {
+    "timeSplit": "1w",
+    "minWordCount": 5
+  },
+  "enabledDiagrams": [
+    "commit-words"
+  ],
+  "dataFiles": [
+    {
+      "timePeriod": "2021-01-01_2021-01-07",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-01-01_2021-01-07_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-01-08_2021-01-14",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-01-08_2021-01-14_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-01-15_2021-01-21",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-01-15_2021-01-21_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-01-22_2021-01-28",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-01-22_2021-01-28_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-01-29_2021-02-04",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-01-29_2021-02-04_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-02-05_2021-02-11",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-02-05_2021-02-11_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-02-12_2021-02-18",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-02-12_2021-02-18_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-02-19_2021-02-25",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-02-19_2021-02-25_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-02-26_2021-03-04",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-02-26_2021-03-04_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-03-05_2021-03-11",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-03-05_2021-03-11_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-03-12_2021-03-18",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-03-12_2021-03-18_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-03-19_2021-03-25",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-03-19_2021-03-25_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-03-26_2021-04-01",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-03-26_2021-04-01_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-04-02_2021-04-08",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-04-02_2021-04-08_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-04-09_2021-04-15",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-04-09_2021-04-15_commit-words-data.json"
+    },
+    {
+      "timePeriod": "2021-04-16_2021-04-16",
+      "fileUrl": "28598bbfaab593e75bd3d9933e165c0c87251dc1/2021-04-16_2021-04-16_commit-words-data.json"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+--cd145839--2021-03-11--Patrick Brown Jr
+1	3	src/client/components/ExpandableInput/ExpandableInput.tsx
+6	5	src/client/components/Selects/BusinessUnitSelect/BusinessUnitSelect.tsx
+1	3	src/client/components/Selects/ClientAccessSelect/ClientAccessSelect.tsx
+1	3	src/client/components/Selects/CountryLanguageSelect/CountryLanguageSelect.tsx
+1	2	src/client/components/Selects/IndustryLockoutSelect/IndustryLockoutSelect.tsx
+5	2	src/client/components/Selects/ManagerSelect/ManagerOption.tsx
+20	8	src/client/components/Selects/ManagerSelect/ManagerSelect.tsx
+9	8	src/client/components/Selects/ManagerSelect/useManagerSelect.ts
+1	2	src/client/components/Selects/StudyTypeSelect/StudyTypeSelect.tsx
+1	0	src/client/components/Selects/index.js
+1	3	src/client/components/Selects/lib/refetchField.ts
+0	1	src/client/components/SurveyHeader/SurveyHeader.js
+1	1	src/client/components/SurveyTypeBadge/SurveyTypeBadge.js
+2	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.tsx
+0	214	src/client/pages/SurveysDashboard/Filters/Filters.js
+0	21	src/client/pages/SurveysDashboard/Filters/Filters.spec.js
+191	0	src/client/pages/SurveysDashboard/Filters/Filters.tsx
+0	88	src/client/pages/SurveysDashboard/Filters/__snapshots__/Filters.spec.js.snap
+0	4	src/client/pages/SurveysDashboard/Filters/data/getFilterValuesQuery.ts
+1	2	src/client/pages/SurveysDashboard/Filters/index.js
+2	0	src/client/types.d.ts
+
+--a144aa1d--2021-03-11--Olivier
+0	58	src/client/graphql-schema.ts
+0	70	src/server/api/connectors/automation.js
+0	4	src/server/api/index.js
+0	2	src/server/api/models/index.js
+0	93	src/server/api/models/surveyAutomation.js
+0	2	src/server/api/resolvers/index.js
+0	4	src/server/api/resolvers/surveyAutomation.js
+0	2	src/server/api/schema/mutation/mutation.js
+0	14	src/server/api/schema/mutation/resolvers.js
+0	2	src/server/api/schema/query/query.js
+0	14	src/server/api/schema/query/resolvers.js
+0	39	src/server/api/schema/types/automationState.js
+1	3	src/server/api/schema/types/index.js
+
+--e54cfcf2--2021-03-10--Leandro Silva
+1	1	src/client/components/SubNavigation/SubNavigation.tsx
+1	1	src/client/components/SubNavigation/lib/SubNavigationPages.ts
+1	0	src/client/components/SubNavigation/lib/getSubNavigationItems.ts
+
+--df91b06e--2021-03-10--Olivier
+7	3	src/client/components/SurveyAutomationBadge/SurveyAutomationBadge.js
+0	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+0	39	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigListQuery.ts
+0	11	src/client/graphql-schema.ts
+1	0	src/client/hooks/index.ts
+43	0	src/client/hooks/useGetFieldingAssistantConfigList.ts
+2	2	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/SurveyName/SurveyName.js
+2	2	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/SurveyRow.js
+6	6	src/client/pages/SurveysDashboard/SurveysTable/SurveysTable.js
+1	16	src/client/pages/SurveysDashboard/SurveysTable/SurveysTableProvider.js
+0	5	src/client/pages/SurveysDashboard/SurveysTable/data/getAutomatedSurveyList.gql
+6	1	src/client/pages/SurveysDashboard/SurveysTable/index.js
+
+--452d35ff--2021-03-10--Olivier
+0	14	src/client/data/getAutomationState.gql
+0	17	src/client/graphql-schema.ts
+0	18	src/client/hooks/data/getAutomationStateQuery.ts
+0	45	src/client/hooks/useAutomationStateQuery.ts
+
+--0a079a6d--2021-03-09--Marco Rosner
+7	4	src/client/pages/Reach/lib/addQuestionsToShareData.ts
+
+--f93fa748--2021-03-09--Marco Rosner
+6	12	src/client/pages/Reach/ReachForm/ContentView.tsx
+19	3	src/client/pages/Reach/ReachForm/ReachSideBar.tsx
+3	3	src/client/pages/Reach/hooks/useReachQuestionsQuery.ts
+19	0	src/client/pages/Reach/lib/addQuestionsToShareData.ts
+17	6	src/client/pages/Reach/lib/decodeTargets.ts
+1	2	src/client/pages/Reach/lib/encodeTargets.ts
+1	1	src/client/pages/Reach/lib/getInitialValuesFromURL.ts
+1	0	src/client/pages/Reach/lib/index.ts
+
+--7c60aa92--2021-03-09--Leandro Silva
+1	1	src/client/components/SubNavigation/SubNavigation.tsx
+1	1	src/client/components/SubNavigation/lib/getSubNavigationItems.ts
+
+--dd02b897--2021-03-09--Marco Rosner
+
+--0942bc9e--2021-03-09--Olivier
+0	17	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+0	18	src/client/components/SurveyHeader/data/getAutomationState.ts
+1	10	src/client/components/SurveyHeader/index.js
+
+--9fe6acf1--2021-03-09--Olivier
+13	17	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+0	16	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklistProvider.js
+10	24	src/client/components/SurveyLaunchChecklist/__mocks__/MockChecklistData.js
+0	18	src/client/components/SurveyLaunchChecklist/data/getAutomationStateQuery.ts
+0	1	src/client/components/SurveyLaunchChecklist/data/index.ts
+6	0	src/client/components/SurveyLaunchChecklist/index.js
+
+--5545a2c2--2021-03-09--Leandro Silva
+1	0	src/client/components/BetaTag/BetaTag.tsx
+0	46	src/client/components/SubNavigation/SubNavigation.css
+0	39	src/client/components/SubNavigation/SubNavigation.js
+56	0	src/client/components/SubNavigation/SubNavigation.tsx
+20	0	src/client/components/SubNavigation/SubNavigationCustomItems.tsx
+0	30	src/client/components/SubNavigation/SubNavigationItem.js
+0	366	src/client/components/SubNavigation/SubNavigationItems.js
+69	0	src/client/components/SubNavigation/SubNavigationItems.tsx
+1	0	src/client/components/SubNavigation/hooks/index.ts
+49	0	src/client/components/SubNavigation/hooks/useAccountQuery.ts
+0	19	src/client/components/SubNavigation/index.js
+10	0	src/client/components/SubNavigation/index.tsx
+162	0	src/client/components/SubNavigation/lib/SubNavigationPages.ts
+71	0	src/client/components/SubNavigation/lib/getSubNavigationItems.ts
+5	3	src/client/lib/flags.js
+4	4	src/client/pages/AccountSettings/AccountSettingsContainer.js
+0	30	src/client/pages/AccountSettings/SubNavigation/SubNavigation.js
+0	1	src/client/pages/AccountSettings/SubNavigation/index.js
+1	1	src/client/pages/AccountsList/AccountsListContainer.js
+0	29	src/client/pages/AccountsList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/AccountsList/SubNavigation/index.js
+2	2	src/client/pages/AllocationTemplates/AllocationTemplatesContainer.js
+0	30	src/client/pages/AllocationTemplates/SubNavigation/SubNavigation.js
+0	1	src/client/pages/AllocationTemplates/SubNavigation/index.js
+2	2	src/client/pages/BusinessUnitDetails/BusinessUnitDetailsContainer.js
+0	29	src/client/pages/BusinessUnitDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/BusinessUnitDetails/SubNavigation/index.js
+2	2	src/client/pages/BusinessUnitsList/BusinessUnitsListContainer.js
+0	29	src/client/pages/BusinessUnitsList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/BusinessUnitsList/SubNavigation/index.js
+3	3	src/client/pages/ClientContactDetails/ClientContactDetailsContainer.js
+0	30	src/client/pages/ClientContactDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/ClientContactDetails/SubNavigation/index.js
+3	2	src/client/pages/ClientContactsList/ClientContactsListContainer.js
+0	30	src/client/pages/ClientContactsList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/ClientContactsList/SubNavigation/index.js
+3	3	src/client/pages/ClientDetails/ClientDetailsContainer.js
+0	30	src/client/pages/ClientDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/ClientDetails/SubNavigation/index.js
+1	1	src/client/pages/ClientsList/ClientsListContainer.js
+0	30	src/client/pages/ClientsList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/ClientsList/SubNavigation/index.js
+3	3	src/client/pages/ProjectDetails/ProjectDetailsContainer.js
+0	30	src/client/pages/ProjectDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/ProjectDetails/SubNavigation/index.js
+1	1	src/client/pages/ProjectsList/ProjectsListContainer.js
+0	30	src/client/pages/ProjectsList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/ProjectsList/SubNavigation/index.js
+1	1	src/client/pages/Reach/hooks/useReachLocalesQuery.ts
+2	2	src/client/pages/ReportsDashboard/ReportsDashboard.js
+0	71	src/client/pages/ReportsDashboard/SubNavigation/SubNavigation.js
+0	1	src/client/pages/ReportsDashboard/SubNavigation/index.js
+0	30	src/client/pages/SupplierAccountAssociation/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SupplierAccountAssociation/SubNavigation/index.js
+2	2	src/client/pages/SupplierAccountAssociation/SupplierAccountAssociationContainer.js
+0	30	src/client/pages/SupplierDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SupplierDetails/SubNavigation/index.js
+2	2	src/client/pages/SupplierDetails/SupplierDetailsContainer.js
+0	30	src/client/pages/SupplierLinkDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SupplierLinkDetails/SubNavigation/index.js
+2	2	src/client/pages/SupplierLinkDetails/SupplierLinkDetailsContainer.js
+0	27	src/client/pages/SupplierSurveysList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SupplierSurveysList/SubNavigation/index.js
+2	2	src/client/pages/SupplierSurveysList/SupplierSurveysListContainer.js
+0	29	src/client/pages/SuppliersLinksList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SuppliersLinksList/SubNavigation/index.js
+2	2	src/client/pages/SuppliersLinksList/SupplierLinksContainer.js
+0	30	src/client/pages/SuppliersList/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SuppliersList/SubNavigation/index.js
+1	1	src/client/pages/SuppliersList/SuppliersListContainer.js
+0	30	src/client/pages/SuppliersSettings/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SuppliersSettings/SubNavigation/index.js
+1	1	src/client/pages/SuppliersSettings/SuppliersSettingsContainer.tsx
+0	70	src/client/pages/SurveyAllocations/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SurveyAllocations/SubNavigation/index.js
+3	2	src/client/pages/SurveyAllocations/SurveyAllocationsContainer.js
+2	2	src/client/pages/SurveyDetails/Details.js
+0	59	src/client/pages/SurveyDetails/DetailsSubNavigation/DetailsSubNavigation.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSubNavigation/index.js
+0	1	src/client/pages/SurveyDetails/DetailsSubNavigation/index.ts
+0	29	src/client/pages/SurveyGroups/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SurveyGroups/SubNavigation/index.js
+1	1	src/client/pages/SurveyGroups/SurveyGroupsContainer.js
+0	75	src/client/pages/SurveyQuotas/SubNavigation.js
+2	2	src/client/pages/SurveyQuotas/SurveyQuotas.tsx
+0	69	src/client/pages/SurveySupplierAllocationsDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SurveySupplierAllocationsDetails/SubNavigation/index.js
+2	2	src/client/pages/SurveySupplierAllocationsDetails/SurveySupplierAllocationsContainer.js
+2	1	src/client/pages/SurveysDashboard/Dashboard.js
+0	30	src/client/pages/SurveysDashboard/SubNavigation/SubNavigation.js
+0	1	src/client/pages/SurveysDashboard/SubNavigation/index.js
+0	66	src/client/pages/Targets/TargetsForm/SubNavigation.js
+2	2	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+0	30	src/client/pages/TeamDirectory/SubNavigation/SubNavigation.js
+0	1	src/client/pages/TeamDirectory/SubNavigation/index.js
+1	1	src/client/pages/TeamDirectory/TeamDirectory.js
+0	30	src/client/pages/UserDetails/SubNavigation/SubNavigation.js
+0	1	src/client/pages/UserDetails/SubNavigation/index.js
+2	2	src/client/pages/UserDetails/UserDetailsContainer.js
+
+--91a15ea7--2021-03-08--Marco Rosner
+2	0	src/client/pages/Reach/data/getReachQuestions.ts
+
+--cc7c8186--2021-03-08--Marek Smid
+3	1	src/client/pages/Reach/ReachForm/ContentView.tsx
+
+--048022a4--2021-03-08--Marco Rosner
+
+--d61ea22d--2021-03-08--Olivier
+3	5	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+20	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+2	2	src/client/components/SurveyHeader/BreadcrumbsWrapper.js
+3	10	src/client/components/SurveyHeader/SurveyHeader.js
+0	1	src/client/hooks/useGetFieldingAssistantConfigQuery.ts
+3	5	src/client/pages/SurveyDetails/Details.js
+0	13	src/client/pages/SurveyDetails/DetailsProvider.js
+3	5	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+9	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.tsx
+19	3	src/client/pages/SurveyDetails/index.js
+
+--3a821663--2021-03-08--Olivier
+0	11	src/client/components/SurveyAutomationDialog/FormAutomation/lib/__tests__/getMaxCpi.test.ts
+0	10	src/client/components/SurveyAutomationDialog/FormAutomation/lib/getMaxCpi.ts
+0	1	src/client/components/SurveyAutomationDialog/FormAutomation/lib/index.ts
+
+--6769f86f--2021-03-05--Rose Espiritu
+10	8	src/client/pages/AccountSettings/AccountSettingsContainer.js
+9	6	src/client/pages/AccountsList/AccountsListContainer.js
+0	1	src/client/pages/lib/index.ts
+0	16	src/client/pages/lib/renderViewBusinessButton.tsx

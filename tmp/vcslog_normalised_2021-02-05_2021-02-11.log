@@ -1,0 +1,667 @@
+--3d7e04a4--2021-02-11--Eric Kreiter
+--cd9a6879--2021-02-11--Eric
+0	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+
+--5c927a3b--2021-02-11--Eric Kreiter
+
+--bf838fb8--2021-02-11--Eric Kreiter
+0	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+
+--a98d903b--2021-02-11--Chase Kallemeyn
+--227aa6ab--2021-02-11--ckallemeyn
+12	13	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+3	5	src/client/components/SurveyLaunchChecklist/LoadingChecklist.tsx
+105	109	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--4e90b064--2021-02-11--ckallemeyn
+0	53	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.css
+0	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--be83d696--2021-02-11--ckallemeyn
+6	4	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--6b572a70--2021-02-11--Eric
+1	1	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+0	11	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.css
+69	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+0	45	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/SurveyCountMessage.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/index.ts
+0	110	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.tsx
+0	9	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/getGroupSurveyCount.ts
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/index.ts
+0	33	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/index.ts
+45	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/SurveyCountMessage/SurveyCountMessage.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/SurveyCountMessage/index.ts
+111	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/SurveyGroupCard.tsx
+9	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/data/getGroupSurveyCount.ts
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/hooks/index.ts
+33	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/index.ts
+47	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCards.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/index.ts
+1	4	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+0	92	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.ts
+
+--984ac640--2021-02-11--Eric Kreiter
+
+--31d58e8d--2021-02-11--Eric Kreiter
+--b9711b8f--2021-02-11--Eric
+--8c10963e--2021-02-11--Eric Kreiter
+--7fdbd3a1--2021-02-10--ckallemeyn
+2	0	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+
+--9986915d--2021-02-10--ckallemeyn
+2	2	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--7553d938--2021-02-10--ckallemeyn
+1	3	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+22	22	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+
+--507e4b2a--2021-02-10--Eric Kreiter
+1	1	src/client/pages/SurveyDetails/DetailsErrorPage/DetailsErrorPage.tsx
+
+--89c0fafe--2021-02-10--Eric Kreiter
+1	1	src/client/pages/SurveyDetails/Details.js
+3	2	src/client/pages/SurveyDetails/Details.spec.js
+0	9	src/client/pages/SurveyDetails/DetailsErrorPage/DetailsErrorPage.css
+0	36	src/client/pages/SurveyDetails/DetailsErrorPage/DetailsErrorPage.js
+16	8	src/client/pages/SurveyDetails/DetailsErrorPage/DetailsErrorPage.spec.js
+48	0	src/client/pages/SurveyDetails/DetailsErrorPage/DetailsErrorPage.tsx
+0	43	src/client/pages/SurveyDetails/DetailsErrorPage/__snapshots__/DetailsErrorPage.spec.js.snap
+0	1	src/client/pages/SurveyDetails/DetailsErrorPage/index.js
+1	0	src/client/pages/SurveyDetails/DetailsErrorPage/index.ts
+184	14	src/client/pages/SurveyDetails/__snapshots__/Details.spec.js.snap
+
+--9d959523--2021-02-10--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+108	108	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+
+--cdecbfbb--2021-02-10--ckallemeyn
+--3667f7e6--2021-02-10--Eric Kreiter
+8	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+
+--87360478--2021-02-10--ckallemeyn
+8	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--09b15f62--2021-02-10--Leandro Silva
+4	2	src/client/pages/SurveyQuotas/SurveyQuotasHeader/SurveyQuotasHeader.tsx
+7	0	src/client/pages/SurveyQuotas/data/getSurveyEntrantsQuery.ts
+37	0	src/client/pages/SurveyQuotas/hooks/useSurveyEntrantsQuery.ts
+16	0	src/server/api/models/legacySurveys.js
+1	0	src/server/api/schema/legacy/query/query.js
+3	0	src/server/api/schema/legacy/query/resolvers.js
+
+--fb289e90--2021-02-10--Leandro Silva
+91	0	src/client/components/DateTimeInput/DateTimeInput.tsx
+1	0	src/client/components/DateTimeInput/index.tsx
+13	0	src/client/components/DateTimeInput/lib/constants.ts
+2	0	src/client/components/DateTimeInput/lib/index.ts
+93	0	src/client/components/DateTimeInput/lib/time.ts
+24	0	src/client/components/HourSelect/HourOption.tsx
+72	0	src/client/components/HourSelect/HourSelect.tsx
+1	0	src/client/components/HourSelect/index.tsx
+0	91	src/client/pages/SurveyDetails/DetailsTimeline/DateInput.tsx
+4	3	src/client/pages/SurveyDetails/DetailsTimeline/DetailsTimeline.tsx
+0	24	src/client/pages/SurveyDetails/DetailsTimeline/HourOption.tsx
+0	71	src/client/pages/SurveyDetails/DetailsTimeline/HourSelect.tsx
+49	0	src/client/pages/SurveyQuotas/AutoIncrementDialog/AutoIncrementDialog.tsx
+143	0	src/client/pages/SurveyQuotas/AutoIncrementDialog/AutoIncrementForm/AutoIncrementForm.tsx
+32	0	src/client/pages/SurveyQuotas/AutoIncrementDialog/AutoIncrementForm/CalendarTypeSelect/CalendarTypeSelect.tsx
+1	0	src/client/pages/SurveyQuotas/AutoIncrementDialog/AutoIncrementForm/CalendarTypeSelect/index.tsx
+1	0	src/client/pages/SurveyQuotas/AutoIncrementDialog/AutoIncrementForm/index.tsx
+1	0	src/client/pages/SurveyQuotas/AutoIncrementDialog/index.tsx
+17	2	src/client/pages/SurveyQuotas/SurveyQuotas.tsx
+45	0	src/client/pages/SurveyQuotas/SurveyQuotasHeader/EditAutoIncrementBtn.tsx
+21	3	src/client/pages/SurveyQuotas/SurveyQuotasHeader/SurveyQuotasHeader.tsx
+10	0	src/client/pages/SurveyQuotas/data/updateAutoIncrementMutation.ts
+54	0	src/client/pages/SurveyQuotas/hooks/useAutoIncrementMutation.ts
+1	1	src/client/pages/SurveyQuotas/hooks/useSurveyQuotasQuery.ts
+12	0	src/client/pages/SurveyQuotas/lib/getAutoIncrementStatus.ts
+
+--e893d2cd--2021-02-10--Marco Rosner
+5	1	src/server/api/models/reach.js
+
+--99429d0c--2021-02-10--Marco Rosner
+
+--6ec2281f--2021-02-10--Marco Rosner
+5	1	src/server/api/models/reach.js
+
+--b751f7cf--2021-02-09--ckallemeyn
+22	22	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+
+--98824ce7--2021-02-09--ckallemeyn
+36	31	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+1064	952	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+
+--0adcff1d--2021-02-09--ckallemeyn
+--dbbb6801--2021-02-09--ckallemeyn
+12	65	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+11	44	src/client/components/SurveyLaunchChecklist/LoadingChecklist.tsx
+156	145	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--f6c187fb--2021-02-09--Eric Kreiter
+2	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCards.tsx
+
+--6924c75d--2021-02-09--Eric Kreiter
+2	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+
+--2fa3c5b1--2021-02-09--Eric Kreiter
+1	4	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCards.tsx
+
+--fa4d6952--2021-02-09--Eric Kreiter
+--3278baf8--2021-02-09--Eric Kreiter
+6	33	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+0	45	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/SurveyCountMessage.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyCountMessage/index.ts
+0	111	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.tsx
+0	9	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/data/getGroupSurveyCount.ts
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/index.ts
+0	33	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/index.ts
+45	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/SurveyCountMessage/SurveyCountMessage.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/SurveyCountMessage/index.ts
+111	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/SurveyGroupCard.tsx
+9	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/data/getGroupSurveyCount.ts
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/hooks/index.ts
+33	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/hooks/useGroupSurveyCount.ts
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCard/index.ts
+50	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/SurveyGroupCards.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCards/index.ts
+
+--bca9fe52--2021-02-09--Marco Rosner
+6	2	src/client/pages/Reach/ReachForm/components/ModelSelect/ModelSelects.tsx
+1	0	src/client/pages/Reach/ReachForm/components/ModelSelect/components/ModelVersionSelect.tsx
+18	0	src/client/pages/Reach/ReachForm/components/ModelSelect/components/UnlockPricePredictions.tsx
+3	0	src/client/pages/Reach/ReachForm/components/ModelSelect/components/index.ts
+1	0	src/client/pages/Reach/ReachForm/initialValues.ts
+2	0	src/client/pages/Reach/data/getAudienceEstimate.ts
+2	0	src/client/pages/Reach/data/getAudiences.ts
+4	2	src/client/pages/Reach/hooks/useAudienceEstimateLazyQuery.ts
+4	2	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+7	1	src/client/pages/Reach/hooks/useReachLocalesQuery.ts
+1	0	src/client/pages/Reach/types/types.ts
+3	1	src/server/api/models/lookups.js
+7	3	src/server/api/models/reach.js
+2	2	src/server/api/schema/query/query.js
+
+--d8906b3b--2021-02-09--Marco Rosner
+
+--e5a77278--2021-02-08--Marco Rosner
+6	2	src/client/pages/Reach/ReachForm/components/ModelSelect/ModelSelects.tsx
+1	0	src/client/pages/Reach/ReachForm/components/ModelSelect/components/ModelVersionSelect.tsx
+18	0	src/client/pages/Reach/ReachForm/components/ModelSelect/components/UnlockPricePredictions.tsx
+3	0	src/client/pages/Reach/ReachForm/components/ModelSelect/components/index.ts
+1	0	src/client/pages/Reach/ReachForm/initialValues.ts
+2	0	src/client/pages/Reach/data/getAudienceEstimate.ts
+2	0	src/client/pages/Reach/data/getAudiences.ts
+4	2	src/client/pages/Reach/hooks/useAudienceEstimateLazyQuery.ts
+4	2	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+1	0	src/client/pages/Reach/types/types.ts
+3	2	src/server/api/models/reach.js
+2	2	src/server/api/schema/query/query.js
+
+--7a3ce295--2021-02-04--Marco Rosner
+7	1	src/client/pages/Reach/hooks/useReachLocalesQuery.ts
+3	1	src/server/api/models/lookups.js
+5	2	src/server/api/models/reach.js
+
+--b25879aa--2021-02-09--Marco Rosner
+1	1	src/client/pages/Reach/ReachForm/ContentView.tsx
+4	4	src/client/pages/Reach/ReachForm/TableView.tsx
+20	8	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+129	0	src/client/pages/Reach/ReachForm/components/DownloadButton.tsx
+37	0	src/client/pages/Reach/ReachForm/components/FormActions.tsx
+5	33	src/client/pages/Reach/ReachForm/components/ProjectedCost/ProjectedCost.tsx
+0	129	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/DownloadButton.tsx
+0	101	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/ShareButton.tsx
+0	2	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/index.ts
+2	0	src/client/pages/Reach/ReachForm/components/Questions/components/SingleValue.tsx
+101	0	src/client/pages/Reach/ReachForm/components/ShareButton.tsx
+4	1	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+3	0	src/client/pages/Reach/ReachForm/components/index.ts
+1	0	src/client/pages/Reach/lib/index.ts
+3	0	src/client/pages/Reach/lib/stopPropagation.ts
+
+--f66622cd--2021-02-09--Eric Kreiter
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+
+--621f2f66--2021-02-09--Eric Kreiter
+3	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+4	3	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupCard/SurveyGroupCard.tsx
+
+--66219cfd--2021-02-09--Marco Rosner
+
+--50da1571--2021-02-09--Marco Rosner
+2	2	src/client/pages/Reach/ReachForm/components/FormActions.tsx
+
+--f398d612--2021-02-08--Marco Rosner
+1	3	src/client/pages/Reach/ReachForm/components/FormActions.tsx
+
+--4a46ad9d--2021-02-08--Marco Rosner
+9	21	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+39	0	src/client/pages/Reach/ReachForm/components/FormActions.tsx
+1	0	src/client/pages/Reach/ReachForm/components/index.ts
+
+--e89fdc14--2021-02-04--Marco Rosner
+1	1	src/client/pages/Reach/ReachForm/ContentView.tsx
+4	4	src/client/pages/Reach/ReachForm/TableView.tsx
+33	9	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+129	0	src/client/pages/Reach/ReachForm/components/DownloadButton.tsx
+5	33	src/client/pages/Reach/ReachForm/components/ProjectedCost/ProjectedCost.tsx
+0	129	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/DownloadButton.tsx
+0	101	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/ShareButton.tsx
+0	2	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/index.ts
+2	0	src/client/pages/Reach/ReachForm/components/Questions/components/SingleValue.tsx
+101	0	src/client/pages/Reach/ReachForm/components/ShareButton.tsx
+4	1	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+2	0	src/client/pages/Reach/ReachForm/components/index.ts
+1	0	src/client/pages/Reach/lib/index.ts
+3	0	src/client/pages/Reach/lib/stopPropagation.ts
+
+--d35e17b0--2021-02-09--Eric Kreiter
+4	4	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+
+--b21283de--2021-02-09--Eric Kreiter
+1	1	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+0	95	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroup.tsx
+0	11	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.css
+87	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroups.tsx
+1	4	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+0	92	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.ts
+
+--7962411b--2021-02-09--Eric Kreiter
+--6437d846--2021-02-09--Eric
+0	29	src/client/graphql-schema.ts
+89	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+13	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/data/getSurveyGroups.ts
+0	9	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/data/surveyGroups.gql
+86	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/hooks/useGetSurveyGroups.ts
+0	110	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/index.ts
+3	4	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--4e22b699--2021-02-09--Eric Kreiter
+--869499d6--2021-02-09--Eric Kreiter
+
+--3a9f3051--2021-02-09--Eric Kreiter
+1	3	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+2	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--7327033d--2021-02-09--Eric Kreiter
+--70ad0581--2021-02-09--Eric
+1	1	src/client/components/Search/Search.js
+0	9	src/client/components/Selects/AccountSelect/AccountSelect.js
+77	0	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+10	0	src/client/components/Selects/AccountSelect/data/getAccounts.ts
+69	0	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+0	59	src/client/components/Selects/AccountSelect/index.js
+1	0	src/client/components/Selects/AccountSelect/index.ts
+1	1	src/client/pages/BusinessUnitDetails/BusinessUnitDetailsForm.js
+1	1	src/client/pages/ClientDetails/ClientDetailsForm.js
+1	1	src/client/pages/ProjectDetails/ProjectDetailsForm.js
+1	1	src/client/pages/SupplierAccountAssociation/SupplierAccountAssociationForm.js
+1	1	src/client/pages/SupplierDetails/SupplierDetailsForm.js
+1	1	src/client/pages/SupplierLinkDetails/SupplierLinkDetailsForm.js
+6	5	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+1	1	src/client/pages/UserDetails/UserDetailsAuthorizations/UserDetailsAuthorizationDialogForm.js
+1	1	src/client/pages/UserDetails/UserDetailsCreateForm.js
+
+--04bc6fbb--2021-02-09--Eric Kreiter
+
+--fe1458fc--2021-02-08--ckallemeyn
+149	121	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--02791e04--2021-02-08--Leandro Silva
+1	1	src/client/pages/ReportsDashboard/Analysis/AnalysisHeader/ProgressCompletes/ProgressCompletes.js
+1	1	src/client/pages/ReportsDashboard/Analysis/DataAnalysis/ResultAnalysis/ResultAnalysisRow/ResultAnalysisRow.js
+1	2	src/client/pages/ReportsDashboard/Analysis/LOIAnalysis/LOIRow/LOIRow.js
+1	2	src/client/pages/ReportsDashboard/Analysis/RateAnalysis/RateCard/PaletteProgressBar.js
+8	1	src/client/pages/SurveysDashboard/SurveysTable/BulkEditor/BulkEditorProgress.js
+
+--829e1868--2021-02-08--Leandro Silva
+88	88	src/client/components/SurveyLaunchChecklist/__tests__/__snapshots__/SurveyLaunchChecklist.spec.js.snap
+1	2	src/client/pages/Reach/ReachForm/components/Feasibility/FeasibilityProgressBar.tsx
+1	2	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/CompletesProgressBar.tsx
+22	22	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+1	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/UrlBuilder/UrlBuilderFooter/UrlBuilderFooter.tsx
+1	0	src/client/pages/SurveysDashboard/SurveysTable/ExportPdfDialog/ExportPdfDialog.tsx
+6	2	src/client/pages/Targets/TargetItem/TargetItem.tsx
+
+--3dd9c80f--2021-02-08--Eric Kreiter
+--d5b61252--2021-02-08--Eric
+--3f3bccb8--2021-02-08--Eric Kreiter
+
+--47c361db--2021-02-08--Eric Kreiter
+--500f4d5a--2021-02-08--Eric Kreiter
+32	27	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+
+--f172254a--2021-02-08--Eric Kreiter
+1	1	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+
+--9bb9aa1b--2021-02-08--Eric Kreiter
+
+--1c8925c0--2021-02-08--Rose Espiritu
+2	2	src/client/pages/SurveyDetails/DetailsTimeline/DateInput.tsx
+
+--2f1cb90d--2021-02-08--Olivier
+74	82	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+6	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+46	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+39	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigListQuery.ts
+53	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+43	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantGoalsQuery.ts
+61	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+2	2	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--0865d83e--2021-02-08--Olivier
+94	0	src/client/graphql-schema.ts
+70	0	src/server/api/connectors/fieldingAssistant.js
+13	1	src/server/api/index.js
+94	0	src/server/api/models/fieldingAssistantConfig.js
+31	0	src/server/api/models/fieldingAssistantGoals.js
+6	2	src/server/api/models/index.js
+12	0	src/server/api/resolvers/fieldingAssistantConfig.js
+3	1	src/server/api/resolvers/index.js
+8	8	src/server/api/schema/mutation/mutation.js
+12	0	src/server/api/schema/mutation/resolvers.js
+3	0	src/server/api/schema/query/query.js
+15	0	src/server/api/schema/query/resolvers.js
+65	0	src/server/api/schema/types/fieldingAssistantConfig.js
+19	0	src/server/api/schema/types/fieldingAssistantGoals.js
+9	5	src/server/api/schema/types/index.js
+
+--04fde03e--2021-02-08--Eric Kreiter
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroup.tsx
+
+--30d60f21--2021-02-08--Eric Kreiter
+44	24	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroup.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--3eea7bda--2021-02-08--Eric Kreiter
+76	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/DetailsSurveyGroup.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--1471ef21--2021-02-08--Eric Kreiter
+32	27	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+
+--2cd04e1b--2021-02-08--Rose Espiritu
+1	3	src/client/pages/SupplierSurveysList/SupplierSurveysList/SupplierSurveysList.js
+
+--2865c031--2021-02-08--Rose Espiritu
+
+--328bdf00--2021-02-08--Rose Espiritu
+--8f33ab47--2021-02-08--Rose Espiritu
+--23c15a36--2021-02-08--Marco Rosner
+
+--bf276224--2021-02-08--Marco Rosner
+6	1	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/DownloadButton.tsx
+
+--769037e8--2021-02-08--Marco Rosner
+3	3	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+
+--e86ef514--2021-02-08--Marco Rosner
+
+--6d83948a--2021-02-08--Marco Rosner
+
+--b136f57e--2021-02-08--Marco Rosner
+1	1	src/client/index.js
+4	0	src/client/polyfills.js
+
+--3cd2d6da--2021-02-08--Marco Rosner
+8	3	src/server/api/models/surveys.js
+
+--cd8047e2--2021-02-08--Marco Rosner
+1	1	src/client/components/Search/Search.js
+9	0	src/client/components/Selects/AccountSelect/AccountSelect.js
+0	72	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+0	10	src/client/components/Selects/AccountSelect/data/getAccounts.ts
+0	69	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+59	0	src/client/components/Selects/AccountSelect/index.js
+0	1	src/client/components/Selects/AccountSelect/index.ts
+1	1	src/client/pages/BusinessUnitDetails/BusinessUnitDetailsForm.js
+1	1	src/client/pages/ClientDetails/ClientDetailsForm.js
+1	1	src/client/pages/ProjectDetails/ProjectDetailsForm.js
+1	1	src/client/pages/SupplierAccountAssociation/SupplierAccountAssociationForm.js
+1	1	src/client/pages/SupplierDetails/SupplierDetailsForm.js
+1	1	src/client/pages/SupplierLinkDetails/SupplierLinkDetailsForm.js
+5	6	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+1	1	src/client/pages/UserDetails/UserDetailsAuthorizations/UserDetailsAuthorizationDialogForm.js
+1	1	src/client/pages/UserDetails/UserDetailsCreateForm.js
+
+--660eb8cd--2021-02-08--ckallemeyn
+--5b335c9c--2021-02-08--Eric Kreiter
+1	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--43ddc35c--2021-02-08--Eric Kreiter
+--d3eae0ab--2021-02-08--Eric
+1	1	src/client/components/Search/Search.js
+0	9	src/client/components/Selects/AccountSelect/AccountSelect.js
+72	0	src/client/components/Selects/AccountSelect/AccountSelect.tsx
+10	0	src/client/components/Selects/AccountSelect/data/getAccounts.ts
+69	0	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+0	59	src/client/components/Selects/AccountSelect/index.js
+1	0	src/client/components/Selects/AccountSelect/index.ts
+1	1	src/client/pages/BusinessUnitDetails/BusinessUnitDetailsForm.js
+1	1	src/client/pages/ClientDetails/ClientDetailsForm.js
+1	1	src/client/pages/ProjectDetails/ProjectDetailsForm.js
+1	1	src/client/pages/SupplierAccountAssociation/SupplierAccountAssociationForm.js
+1	1	src/client/pages/SupplierDetails/SupplierDetailsForm.js
+1	1	src/client/pages/SupplierLinkDetails/SupplierLinkDetailsForm.js
+6	5	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+1	1	src/client/pages/UserDetails/UserDetailsAuthorizations/UserDetailsAuthorizationDialogForm.js
+1	1	src/client/pages/UserDetails/UserDetailsCreateForm.js
+
+--3acb61a8--2021-02-08--Eric Kreiter
+2	2	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+
+--95bc3cb3--2021-02-08--Eric Kreiter
+1	1	src/client/components/Selects/AccountSelect/hooks/useGetAccounts.ts
+
+--3af0e0eb--2021-02-08--Eric Kreiter
+
+--912a7922--2021-02-08--Eric Kreiter
+--e6853b28--2021-02-08--Rose Espiritu
+2	2	src/client/pages/SurveyDetails/DetailsTimeline/DateInput.tsx
+
+--5f58cb4d--2021-02-08--Eric Kreiter
+
+--29311444--2021-02-08--Eric
+--8f34475b--2021-02-08--Olivier
+74	82	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+6	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+46	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+39	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigListQuery.ts
+53	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+43	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantGoalsQuery.ts
+61	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+2	2	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--4d82a260--2021-02-08--Ocolonna
+
+--56121f4a--2021-02-08--Ocolonna
+--9886b322--2021-02-08--Olivier
+94	0	src/client/graphql-schema.ts
+70	0	src/server/api/connectors/fieldingAssistant.js
+13	1	src/server/api/index.js
+94	0	src/server/api/models/fieldingAssistantConfig.js
+31	0	src/server/api/models/fieldingAssistantGoals.js
+6	2	src/server/api/models/index.js
+12	0	src/server/api/resolvers/fieldingAssistantConfig.js
+3	1	src/server/api/resolvers/index.js
+8	8	src/server/api/schema/mutation/mutation.js
+12	0	src/server/api/schema/mutation/resolvers.js
+3	0	src/server/api/schema/query/query.js
+15	0	src/server/api/schema/query/resolvers.js
+65	0	src/server/api/schema/types/fieldingAssistantConfig.js
+19	0	src/server/api/schema/types/fieldingAssistantGoals.js
+9	5	src/server/api/schema/types/index.js
+
+--7a8591a6--2021-02-08--Ocolonna
+
+--91bb0403--2021-02-05--Eric Kreiter
+1	1	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+
+--5de2ed7e--2021-02-05--Eric Kreiter
+--9cf650b1--2021-02-05--Eric Kreiter
+0	29	src/client/graphql-schema.ts
+0	9	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/data/surveyGroups.gql
+
+--b865653f--2021-02-05--Eric Kreiter
+--7d0bdc8f--2021-02-05--Eric
+--cb60a282--2021-02-05--Eric Kreiter
+4	5	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+
+--87e87db6--2021-02-05--Eric Kreiter
+14	7	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+
+--9bc110f8--2021-02-05--Eric Kreiter
+85	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/SurveyGroupSelect.tsx
+7	74	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/hooks/useGetSurveyGroups.ts
+0	126	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/index.js
+1	0	src/client/pages/SurveyDetails/DetailsSurveyGroups/SurveyGroupSelect/index.ts
+2	3	src/client/pages/SurveyDetails/DetailsSurveyGroups/index.js
+
+--1924c27e--2021-02-05--Rose Espiritu
+2	2	src/client/pages/SurveyDetails/DetailsTimeline/DateInput.tsx
+
+--eab0cc50--2021-02-05--Rose Espiritu
+
+--67284cdf--2021-02-05--Rose Espiritu
+1	3	src/client/pages/SupplierSurveysList/SupplierSurveysList/SupplierSurveysList.js
+
+--c4cd12f5--2021-02-05--Ocolonna
+12	10	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+7	7	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+
+--5a26817f--2021-02-05--Ocolonna
+8	6	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigListQuery.ts
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantGoalsQuery.ts
+2	2	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+2	2	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--47ee99c6--2021-02-05--Ocolonna
+3	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+3	1	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+
+--9d23683e--2021-02-04--Ocolonna
+6	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/index.ts
+8	3	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+
+--a6eb2d50--2021-02-02--Ocolonna
+74	82	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+40	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useDeleteFieldingAssistantConfigMutation.ts
+39	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigListQuery.ts
+48	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantConfigQuery.ts
+43	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useGetFieldingAssistantGoalsQuery.ts
+59	0	src/client/components/SurveyAutomationDialog/FormAutomation/hooks/useUpdateFieldingAssistantConfigMutation.ts
+
+--a91ff3bf--2021-02-05--Ocolonna
+1	1	src/server/api/connectors/fieldingAssistant.js
+
+--ec1c2460--2021-02-05--Ocolonna
+
+--76c11f2a--2021-02-05--Ocolonna
+7	2	src/server/api/models/fieldingAssistantConfig.js
+2	2	src/server/api/schema/mutation/mutation.js
+7	0	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--ecaa124d--2021-02-04--Ocolonna
+1	1	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--58c93d6e--2021-02-04--Ocolonna
+11	5	src/server/api/models/fieldingAssistantConfig.js
+5	2	src/server/api/models/fieldingAssistantGoals.js
+
+--c7790057--2021-02-04--Ocolonna
+16	18	src/client/graphql-schema.ts
+12	0	src/server/api/resolvers/fieldingAssistantConfig.js
+3	1	src/server/api/resolvers/index.js
+17	23	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--b67cbd6d--2021-02-02--Ocolonna
+96	0	src/client/graphql-schema.ts
+10	2	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--29f35b21--2021-02-02--Ocolonna
+1	1	src/server/api/connectors/fieldingAssistant.js
+
+--1b8db660--2021-02-01--Ocolonna
+2	2	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--10162ae3--2021-02-01--Ocolonna
+2	2	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--e74803ca--2021-02-01--Ocolonna
+3	3	src/server/api/models/fieldingAssistantConfig.js
+1	1	src/server/api/models/fieldingAssistantGoals.js
+1	1	src/server/api/schema/mutation/resolvers.js
+10	10	src/server/api/schema/types/fieldingAssistantConfig.js
+
+--41f4c9b5--2021-01-27--Ocolonna
+3	3	src/server/api/schema/query/query.js
+3	3	src/server/api/schema/query/resolvers.js
+
+--802ed5dd--2021-01-27--Ocolonna
+0	1	src/server/api/schema/types/fieldingAssistantGoals.js
+
+--b65c80af--2021-01-27--Ocolonna
+70	0	src/server/api/connectors/fieldingAssistant.js
+13	1	src/server/api/index.js
+8	8	src/server/api/models/fieldingAssistantConfig.js
+2	2	src/server/api/models/fieldingAssistantGoals.js
+2	2	src/server/api/models/index.js
+0	10	src/server/api/resolvers/fieldingAssistantConfig.js
+0	2	src/server/api/resolvers/index.js
+6	6	src/server/api/schema/mutation/mutation.js
+3	5	src/server/api/schema/mutation/resolvers.js
+2	2	src/server/api/schema/query/query.js
+9	8	src/server/api/schema/query/resolvers.js
+16	26	src/server/api/schema/types/fieldingAssistantConfig.js
+8	9	src/server/api/schema/types/fieldingAssistantGoals.js
+
+--2280095b--2021-01-25--Ocolonna
+3	3	src/server/api/models/fieldingAssistantGoals.js
+
+--fe95728f--2021-01-25--Ocolonna
+28	0	src/server/api/models/fieldingAssistantGoals.js
+6	2	src/server/api/models/index.js
+2	0	src/server/api/resolvers/index.js
+1	0	src/server/api/schema/query/query.js
+3	3	src/server/api/schema/types/fieldingAssistantConfig.js
+21	0	src/server/api/schema/types/fieldingAssistantGoals.js
+3	1	src/server/api/schema/types/index.js
+
+--ec99cdd4--2021-01-21--Ocolonna
+1	0	src/server/api/models/fieldingAssistantConfig.js
+2	1	src/server/api/resolvers/fieldingAssistantConfig.js
+
+--f3e9dc92--2021-01-21--Ocolonna
+0	28	src/server/api/models/fieldingAssistant.js
+82	0	src/server/api/models/fieldingAssistantConfig.js
+0	9	src/server/api/resolvers/fieldingAssistant.js
+9	0	src/server/api/resolvers/fieldingAssistantConfig.js
+4	4	src/server/api/schema/mutation/mutation.js
+14	0	src/server/api/schema/mutation/resolvers.js
+2	1	src/server/api/schema/query/query.js
+9	2	src/server/api/schema/query/resolvers.js
+0	45	src/server/api/schema/types/fieldingAssistant.js
+66	0	src/server/api/schema/types/fieldingAssistantConfig.js
+2	2	src/server/api/schema/types/index.js
+
+--a3e5d6dc--2021-01-20--Ocolonna
+9	1	src/server/api/resolvers/fieldingAssistant.js
+1	1	src/server/api/schema/query/query.js
+7	7	src/server/api/schema/query/resolvers.js
+
+--4ffe836d--2021-01-20--Ocolonna
+28	0	src/server/api/models/fieldingAssistant.js
+1	0	src/server/api/resolvers/fieldingAssistant.js
+1	0	src/server/api/schema/query/query.js
+7	0	src/server/api/schema/query/resolvers.js
+45	0	src/server/api/schema/types/fieldingAssistant.js
+7	5	src/server/api/schema/types/index.js

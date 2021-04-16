@@ -1,0 +1,11 @@
+v35.44.0
+fix: quotas and qualification on Reach Survey Creation (#1937)
+feat: [UI-2076] Reach on Bid Link (#1940)
+fix: Remove custom template check on Survey Estimates query (#1939)
+fix: [UI-2177] Dont show warning in success cases (#1938)
+feat: [UI-2047] Set survey creator as PM (#1934)
+v35.43.0 - Fielding assistant remaining budget (#1926)
+v35.42.1 - fix: [UI-2114] check if translation exist (#1931)
+v35.42.0 - feat: [UI-2162] Update audience template package to 4.10.5 (#1933)
+ v35.41.0 - feat: [UI-2144] Add survey cpi, LOI and IR in Survey creation attributes (#1935)
+v35.40.2 - fix: [UI-2143] Replace CurrencyInput to TextInput (#1930)

@@ -1,0 +1,169 @@
+--1bdc1f67--2021-03-18--Marco Rosner
+1	1	package.json
+1	0	src/client/graphql-schema.ts
+2	1	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getSurveyAttrs.ts
+3	2	src/client/pages/SurveyWizard/QQQ/WizardForm/WizardForm.tsx
+2	12	src/client/pages/SurveyWizard/QQQ/types.ts
+0	2	src/server/api/models/surveys.js
+0	9	src/server/api/models/surveys.spec.js
+1	0	src/server/api/schema/types/surveyAttributesInput.js
+
+--ee3ac281--2021-03-18--Marco Rosner
+1	1	package.json
+1	1	src/client/pages/Reach/ReachForm/ReachSideBar.tsx
+1	0	src/client/pages/Reach/ReachForm/components/Questions/Questions.tsx
+25	3	src/client/pages/Reach/ReachForm/components/Questions/components/SingleValue.tsx
+
+--07091657--2021-03-18--Emanuel Larini
+1	1	package.json
+0	46	src/client/components/Selects/ClientAccessSelect/ClientAccessSelect.tsx
+0	23	src/client/components/Selects/ClientAccessSelect/ClientOption.tsx
+0	15	src/client/components/Selects/ClientAccessSelect/data/clientProjectManagers.gql
+0	1	src/client/components/Selects/ClientAccessSelect/index.ts
+0	61	src/client/components/Selects/ClientAccessSelect/useClientAccessSelect.ts
+0	2	src/client/components/SurveyLaunchChecklist/__mocks__/MockChecklistData.js
+3	37	src/client/graphql-schema.ts
+0	8	src/client/lib/roles.js
+1	12	src/client/pages/SurveyDetails/Details.js
+0	1	src/client/pages/SurveyDetails/DetailsChangelog/__mocks__/DetailsChangelog.data.ts
+0	15	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.spec.js
+0	31	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+0	80	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+0	6	src/client/pages/SurveyDetails/DetailsPeople/constants.ts
+1	5	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionFieldColumn/DetailsSectionFieldsColumn.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+0	1	src/client/pages/SurveyDetails/data/surveyDetails.gql
+0	1	src/client/pages/Targets/TargetsForm/__mocks__/TargetsForm.data.ts
+1	5	src/client/pages/TeamDirectory/People/People.js
+2	3	src/client/pages/TeamDirectory/People/index.js
+0	52	src/client/pages/TeamDirectory/PeopleTabs/PeopleTabs.js
+0	1	src/client/pages/TeamDirectory/PeopleTabs/index.js
+1	5	src/client/pages/TeamDirectory/TeamDirectory.js
+0	1	src/client/pages/UserDetails/UserDetailsAuthorizations/UserDetailsAccessTypeOptions.js
+0	23	src/client/pages/UserDetails/UserDetailsAuthorizations/UserDetailsAuthorizationDialogForm.js
+3	8	src/client/pages/UserDetails/UserDetailsAuthorizations/UserDetailsAuthorizationsContainer.js
+0	2	src/client/pages/UserDetails/UserDetailsAuthorizations/data/getUserAuthorizations.gql
+1	2	src/client/pages/UserDetails/UserDetailsAuthorizations/initialAuthorizationData.js
+0	24	src/client/pages/UserDetails/UserDetailsCreateForm.js
+0	1	src/client/pages/UserDetails/data/getUser.gql
+1	6	src/server/api/models/surveys.js
+7	76	src/server/api/models/users.js
+0	13	src/server/api/resolvers/surveys.js
+0	13	src/server/api/resolvers/user.js
+0	1	src/server/api/schema/query/query.js
+0	3	src/server/api/schema/query/resolvers.js
+0	2	src/server/api/schema/types/survey.js
+0	1	src/server/api/schema/types/updateSurveyInput.js
+0	8	src/server/api/schema/types/user.js
+3	3	src/server/lib/las/__tests__/getAccessDataFromRoles.test.js
+1	9	src/server/lib/las/getAccessDataFromRoles.js
+3	7	src/server/lib/las/getRole.js
+1	3	src/server/lib/las/mapLasUserToGQL.js
+0	4	src/server/lib/las/mktUserRoles.js
+1	2	src/shared/accessTypes.json
+0	1	src/shared/roles.json
+0	5	src/shared/schemaIntrospection.json
+
+--94d078e3--2021-03-18--Chase Kallemeyn
+1	1	package.json
+0	1	src/client/components/DetailsExternalNameModal/DetailsExternalNameModal.js
+2	0	src/client/components/SaveButton/SaveButton.tsx
+0	35	src/client/components/SurveyLaunchChecklist/AutomationItem.tsx
+0	51	src/client/components/SurveyLaunchChecklist/ChecklistIcon.tsx
+0	50	src/client/components/SurveyLaunchChecklist/ChecklistItem.tsx
+0	19	src/client/components/SurveyLaunchChecklist/ErrorChecklist.tsx
+0	20	src/client/components/SurveyLaunchChecklist/LoadingChecklist.tsx
+0	396	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+178	0	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.tsx
+1	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklistProvider.js
+2	2	src/client/components/SurveyLaunchChecklist/__tests__/SurveyLaunchChecklist.spec.js
+36	0	src/client/components/SurveyLaunchChecklist/components/AutomationItem.tsx
+222	0	src/client/components/SurveyLaunchChecklist/components/ChecklistBody.tsx
+65	0	src/client/components/SurveyLaunchChecklist/components/ChecklistFooter.tsx
+22	0	src/client/components/SurveyLaunchChecklist/components/ChecklistHeader.tsx
+51	0	src/client/components/SurveyLaunchChecklist/components/ChecklistIcon.tsx
+48	0	src/client/components/SurveyLaunchChecklist/components/ChecklistItem.tsx
+17	0	src/client/components/SurveyLaunchChecklist/components/ErrorChecklist.tsx
+16	0	src/client/components/SurveyLaunchChecklist/components/LoadingChecklist.tsx
+8	0	src/client/components/SurveyLaunchChecklist/components/index.ts
+32	0	src/client/components/SurveyLaunchChecklist/lib/buildLink.ts
+0	7	src/client/components/SurveyLaunchChecklist/lib/getSecuritySettings.js
+14	0	src/client/components/SurveyLaunchChecklist/lib/getSecuritySettings.ts
+0	39	src/client/components/SurveyLaunchChecklist/lib/validateFields.js
+47	0	src/client/components/SurveyLaunchChecklist/lib/validateFields.ts
+8	6	src/client/lib/currency.ts
+0	2	src/client/pages/SurveyDetails/Details.js
+
+--8d39a74b--2021-03-17--Eric
+3	3	package.json
+1	1	src/client/components/DetailsExternalNameModal/DetailsExternalNameModal.js
+0	40	src/client/components/DetailsSave/DetailsSave.css
+0	80	src/client/components/DetailsSave/DetailsSave.js
+0	1	src/client/components/DetailsSave/index.js
+31	0	src/client/components/DetailsSaveFooter/ChangeCountLabel/ChangeCountLabel.tsx
+1	0	src/client/components/DetailsSaveFooter/ChangeCountLabel/index.ts
+53	0	src/client/components/DetailsSaveFooter/DetailsCancelButton/DetailsCancelButton.tsx
+1	0	src/client/components/DetailsSaveFooter/DetailsCancelButton/index.ts
+51	0	src/client/components/DetailsSaveFooter/DetailsSaveFooter.tsx
+72	0	src/client/components/DetailsSaveFooter/__tests__/DetailsSaveFooter.test.tsx
+1	0	src/client/components/DetailsSaveFooter/index.ts
+32	0	src/client/components/PageFooter/PageFooter.tsx
+59	0	src/client/components/PageFooter/__tests__/PageFooter.tests.tsx
+13	0	src/client/components/PageFooter/__tests__/__snapshots__/PageFooter.tests.tsx.snap
+1	0	src/client/components/PageFooter/index.ts
+42	0	src/client/components/PageFooter/style.ts
+0	24	src/client/components/SaveButton/SaveButton.css
+0	91	src/client/components/SaveButton/SaveButton.js
+94	0	src/client/components/SaveButton/SaveButton.tsx
+94	0	src/client/components/SaveButton/__tests__/SaveButton.tests.tsx
+57	0	src/client/components/SaveButton/__tests__/__snapshots__/SaveButton.tests.tsx.snap
+43	0	src/client/components/SaveButton/components/SaveButtonIcons.tsx
+1	0	src/client/components/SaveButton/components/index.ts
+0	1	src/client/components/SaveButton/index.js
+1	0	src/client/components/SaveButton/index.ts
+36	0	src/client/components/SaveButton/style.ts
+0	29	src/client/components/StickyFooter/StickyFooter.css
+0	42	src/client/components/StickyFooter/StickyFooter.js
+0	1	src/client/components/StickyFooter/index.js
+8	9	src/client/components/SurveyHeader/BreadcrumbsWrapper.js
+15	4	src/client/components/SurveyHeader/SurveyHeader.js
+2	2	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+2	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+1	0	src/client/hooks/index.ts
+20	0	src/client/hooks/usePreviousProps.ts
+19	9	src/client/pages/SurveyDetails/Details.js
+0	4	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/BulkEditBanner.css
+6	3	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/index.js
+3	3	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+29	20	yarn.lock
+
+--aab30100--2021-03-16--Rose Espiritu
+1	1	package.json
+1	1	src/client/components/SurveyLaunchChecklist/lib/buildLink.js
+
+--1b5285a3--2021-03-16--Emanuel Larini
+1	1	package.json
+13	4	src/client/components/AccountImpersonate/AccountImpersonate.js
+
+--9bebc766--2021-03-16--Steven Childress
+1	1	package.json
+1	0	src/client/pages/SurveyDetails/Details.js
+39	0	src/client/pages/SurveyDetails/DetailsTimeline/DetailsTimeline.spec.js
+7	0	src/client/pages/SurveyDetails/DetailsTimeline/DetailsTimeline.tsx
+1	1	src/client/pages/SurveysDashboard/Filters/Filters.tsx
+
+--e8aa2857--2021-03-16--Rose Espiritu
+1	1	package.json
+16	12	src/client/pages/SurveyDetails/DetailsChangelog/DetailsChangelog.tsx
+59	55	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+73	69	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+38	34	src/client/pages/SurveyDetails/DetailsTimeline/DetailsTimeline.tsx
+11	0	src/client/pages/SurveyDetails/lib/ErrorMessage.tsx
+1	0	src/client/pages/SurveyDetails/lib/index.ts
+
+--e04e42d3--2021-03-15--Emanuel Larini
+1	1	package.json
+7	2	src/client/pages/SurveysDashboard/SurveysTable/SurveysTable.js
+
+--1ff39ecd--2021-03-15--Olivier
+0	1	src/client/components/SubNavigation/SubNavigationItems.tsx

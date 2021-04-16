@@ -1,0 +1,753 @@
+--7a9afe20--2021-01-14--Eric Kreiter
+0	127	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.css
+33	37	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.js
+57	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionDescription/DetailsSectionDescription.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionDescription/index.ts
+4	2	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/DetailsSectionHeader.tsx
+0	27	src/client/pages/SurveyDetails/DetailsSection/DetailsTopContent/DetailsTopContent.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSection/DetailsTopContent/index.ts
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+
+--a5101599--2021-01-14--ckallemeyn
+7	25	src/client/components/SurveyLaunchChecklist/ChecklistItem.js
+17	2	src/client/components/SurveyLaunchChecklist/ReCheckListItem.tsx
+
+--bdc74027--2021-01-14--Eric
+1	1	package.json
+8	4	src/client/components/SurveyHeader/SurveyHeader.js
+
+--ad2b817a--2021-01-14--Eric Kreiter
+1	1	package.json
+
+--d56cceee--2021-01-14--Eric Kreiter
+3	2	src/client/components/SurveyHeader/SurveyHeader.js
+
+--03a0154d--2021-01-14--Eric Kreiter
+6	4	src/client/components/SurveyHeader/SurveyHeader.js
+
+--a37f7d87--2021-01-13--Marco Rosner
+1	1	package.json
+45	13	src/client/graphql-schema.ts
+42	29	src/client/pages/Reach/ReachForm/ContentView.tsx
+18	19	src/client/pages/Reach/ReachForm/TableView.tsx
+48	29	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Actions/Actions.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Feasibility/Feasibility.tsx
+17	0	src/client/pages/Reach/ReachForm/components/LoadingField.tsx
+8	2	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/ProjectedCompletes.tsx
+10	1	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/CompletesRange.tsx
+10	1	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/PriceRange.tsx
+6	2	src/client/pages/Reach/ReachForm/components/ProjectedCost/ProjectedCost.tsx
+6	0	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/SampleCostDefinition.tsx
+6	0	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/SampleCostRange.tsx
+2	2	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/ShareButton.tsx
+0	1	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/MultipleValues.tsx
+6	1	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/handleOnChangeSelect.ts
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getTargets.ts
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/parseTargetToMktFormat.ts
+2	2	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+1	0	src/client/pages/Reach/ReachForm/components/index.ts
+8	12	src/client/pages/Reach/ReachForm/initialValues.ts
+2	2	src/client/pages/Reach/data/getAudienceEstimate.ts
+0	91	src/client/pages/Reach/data/getAudienceQuotas.ts
+65	0	src/client/pages/Reach/data/getAudiences.ts
+28	0	src/client/pages/Reach/data/getTemplate.ts
+3	1	src/client/pages/Reach/hooks/index.ts
+3	7	src/client/pages/Reach/hooks/useAudienceEstimateLazyQuery.ts
+0	71	src/client/pages/Reach/hooks/useAudienceQuotasQuery.ts
+73	0	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+76	0	src/client/pages/Reach/hooks/useSurveyEstimatesLazyQuery.ts
+47	0	src/client/pages/Reach/hooks/useTemplateQuery.ts
+0	25	src/client/pages/Reach/lib/__tests__/getFormattedQuota.test.ts
+45	0	src/client/pages/Reach/lib/buildTargets.ts
+2	2	src/client/pages/Reach/lib/calcRangeConfig.ts
+6	2	src/client/pages/Reach/lib/duplicateTarget.ts
+1	1	src/client/pages/Reach/lib/generateName.ts
+14	0	src/client/pages/Reach/lib/getFormattedData.ts
+0	10	src/client/pages/Reach/lib/getFormattedQual.ts
+0	13	src/client/pages/Reach/lib/getFormattedQuota.ts
+5	3	src/client/pages/Reach/lib/getTargetIndex.ts
+2	2	src/client/pages/Reach/lib/index.ts
+20	41	src/client/pages/Reach/lib/setFormData.ts
+6	6	src/client/pages/Reach/types/types.ts
+36	86	src/server/api/models/reach.js
+3	2	src/server/api/schema/query/query.js
+5	2	src/server/api/schema/query/resolvers.js
+30	9	src/server/api/schema/types/reach.js
+
+--de70bf55--2021-01-13--Marco Rosner
+1	1	package.json
+
+--54d17ffb--2021-01-12--Marco Rosner
+0	1	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/MultipleValues.tsx
+6	1	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/handleOnChangeSelect.ts
+1	1	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+
+--0364f6e2--2021-01-12--Marco Rosner
+10	10	src/client/pages/Reach/ReachForm/TableView.tsx
+6	4	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Actions/Actions.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Feasibility/Feasibility.tsx
+17	0	src/client/pages/Reach/ReachForm/components/LoadingField.tsx
+4	12	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/CompletesRange.tsx
+4	12	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/PriceRange.tsx
+4	12	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/SampleCostDefinition.tsx
+4	12	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/SampleCostRange.tsx
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getTargets.ts
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/parseTargetToMktFormat.ts
+2	2	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+1	0	src/client/pages/Reach/ReachForm/components/index.ts
+2	2	src/client/pages/Reach/ReachForm/initialValues.ts
+14	17	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+2	2	src/client/pages/Reach/hooks/useSurveyEstimatesLazyQuery.ts
+2	2	src/client/pages/Reach/lib/calcRangeConfig.ts
+2	2	src/client/pages/Reach/lib/duplicateTarget.ts
+2	2	src/client/pages/Reach/lib/getTargetIndex.ts
+2	0	src/client/pages/Reach/lib/setFormData.ts
+2	2	src/client/pages/Reach/types/types.ts
+
+--59c977e3--2021-01-11--Marco Rosner
+45	13	src/client/graphql-schema.ts
+42	29	src/client/pages/Reach/ReachForm/ContentView.tsx
+18	19	src/client/pages/Reach/ReachForm/TableView.tsx
+46	29	src/client/pages/Reach/ReachForm/TableViewHeader.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Actions/Actions.tsx
+2	2	src/client/pages/Reach/ReachForm/components/Feasibility/Feasibility.tsx
+8	2	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/ProjectedCompletes.tsx
+19	2	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/CompletesRange.tsx
+19	2	src/client/pages/Reach/ReachForm/components/ProjectedCompletes/components/PriceRange.tsx
+6	2	src/client/pages/Reach/ReachForm/components/ProjectedCost/ProjectedCost.tsx
+15	1	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/SampleCostDefinition.tsx
+15	1	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/SampleCostRange.tsx
+2	2	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/ShareButton.tsx
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getTargets.ts
+2	2	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/parseTargetToMktFormat.ts
+2	2	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+8	12	src/client/pages/Reach/ReachForm/initialValues.ts
+2	2	src/client/pages/Reach/data/getAudienceEstimate.ts
+0	91	src/client/pages/Reach/data/getAudienceQuotas.ts
+65	0	src/client/pages/Reach/data/getAudiences.ts
+28	0	src/client/pages/Reach/data/getTemplate.ts
+3	1	src/client/pages/Reach/hooks/index.ts
+3	7	src/client/pages/Reach/hooks/useAudienceEstimateLazyQuery.ts
+0	71	src/client/pages/Reach/hooks/useAudienceQuotasQuery.ts
+76	0	src/client/pages/Reach/hooks/useAudiencesQuery.ts
+76	0	src/client/pages/Reach/hooks/useSurveyEstimatesLazyQuery.ts
+47	0	src/client/pages/Reach/hooks/useTemplateQuery.ts
+0	25	src/client/pages/Reach/lib/__tests__/getFormattedQuota.test.ts
+45	0	src/client/pages/Reach/lib/buildTargets.ts
+2	2	src/client/pages/Reach/lib/calcRangeConfig.ts
+6	2	src/client/pages/Reach/lib/duplicateTarget.ts
+1	1	src/client/pages/Reach/lib/generateName.ts
+14	0	src/client/pages/Reach/lib/getFormattedData.ts
+0	10	src/client/pages/Reach/lib/getFormattedQual.ts
+0	13	src/client/pages/Reach/lib/getFormattedQuota.ts
+5	3	src/client/pages/Reach/lib/getTargetIndex.ts
+2	2	src/client/pages/Reach/lib/index.ts
+18	41	src/client/pages/Reach/lib/setFormData.ts
+6	6	src/client/pages/Reach/types/types.ts
+36	86	src/server/api/models/reach.js
+3	2	src/server/api/schema/query/query.js
+5	2	src/server/api/schema/query/resolvers.js
+30	9	src/server/api/schema/types/reach.js
+
+--d060f4f4--2021-01-13--Chase Kallemeyn
+20	20	package.json
+1	8	src/client/components/SurveyTypeBadge/__snapshots__/SurveyTypeBadge.spec.js.snap
+26	139	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+309	486	yarn.lock
+
+--37f8a9c2--2021-01-13--ckallemeyn
+1	1	package.json
+
+--39294a39--2021-01-13--ckallemeyn
+--27b5c4cb--2021-01-13--ckallemeyn
+13	1	src/client/components/SurveyLaunchChecklist/ReCheckListItem.tsx
+
+--96148ca9--2021-01-13--Olivier
+2	2	package.json
+6	7	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+3	0	src/client/components/Breadcrumbs/Breadcrumbs.css
+28	0	src/client/components/Breadcrumbs/Breadcrumbs.js
+1	0	src/client/components/Breadcrumbs/index.js
+1	1	src/client/components/DetailsExternalNameModal/DetailsExternalNameModal.js
+1	1	src/client/components/StickyFooter/StickyFooter.css
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/CancelAutomationModal/CancelAutomationModal.tsx
+10	19	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+2	4	src/client/components/SurveyAutomationDialog/FormAutomation/HourPicker/HourPicker.tsx
+7	17	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+102	0	src/client/components/SurveyHeader/BreadcrumbsWrapper.js
+21	0	src/client/components/SurveyHeader/SurveyHeader.css
+313	0	src/client/components/SurveyHeader/SurveyHeader.js
+67	0	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+25	0	src/client/components/SurveyHeader/SurveyHeaderWrapper.js
+0	123	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+0	19	src/client/components/SurveyHeader/components/BreadcrumbTag.tsx
+0	22	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+0	248	src/client/components/SurveyHeader/components/Header.tsx
+0	120	src/client/components/SurveyHeader/components/HeaderForm.tsx
+4	4	src/client/components/SurveyHeader/components/SurveyNameEditor.tsx
+0	6	src/client/components/SurveyHeader/components/index.ts
+0	18	src/client/components/SurveyHeader/data/getAutomationState.ts
+6	0	src/client/components/SurveyHeader/data/getProject.gql
+0	10	src/client/components/SurveyHeader/data/getProject.ts
+23	0	src/client/components/SurveyHeader/data/getSurvey.gql
+0	27	src/client/components/SurveyHeader/data/getSurvey.ts
+18	0	src/client/components/SurveyHeader/data/updateSurvey.gql
+0	21	src/client/components/SurveyHeader/data/updateSurvey.ts
+0	65	src/client/components/SurveyHeader/hooks/__tests__/useModalStates.test.ts
+0	41	src/client/components/SurveyHeader/hooks/__tests__/useSave.test.ts
+0	32	src/client/components/SurveyHeader/hooks/__tests__/useShowSaveBar.test.ts
+0	33	src/client/components/SurveyHeader/hooks/__tests__/useSurveyInfo.test.ts
+0	7	src/client/components/SurveyHeader/hooks/index.ts
+0	31	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+0	31	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+0	41	src/client/components/SurveyHeader/hooks/useModalStates.ts
+0	25	src/client/components/SurveyHeader/hooks/useSave.ts
+0	31	src/client/components/SurveyHeader/hooks/useShowSaveBar.ts
+0	29	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+0	39	src/client/components/SurveyHeader/hooks/useUpdateSurveyMutation.ts
+5	0	src/client/components/SurveyHeader/index.d.ts
+22	0	src/client/components/SurveyHeader/index.js
+0	62	src/client/components/SurveyHeader/index.tsx
+0	1	src/client/components/SurveyStatusBadge/SurveyStatusBadge.js
+50	0	src/client/graphql-schema.ts
+0	5	src/client/hooks/index.ts
+6	8	src/client/hooks/useAutomationStateQuery.ts
+1	1	src/client/lib/currency.ts
+1	1	src/client/pages/ReportsDashboard/ReportsDashboard.js
+3	4	src/client/pages/SurveyAllocations/SurveyAllocationsContainer.js
+10	8	src/client/pages/SurveyDetails/Details.js
+1	1	src/client/pages/SurveyQuotas/SurveyQuotas.tsx
+1	1	src/client/pages/SurveySupplierAllocationsDetails/SurveySupplierAllocationsContainer.js
+1	1	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+0	1	src/server/api/schema/types/automationState.js
+58	26	yarn.lock
+
+--5185c1e1--2021-01-13--Ocolonna
+1	1	package.json
+
+--03d52ba8--2021-01-13--Ocolonna
+1	1	src/client/pages/SurveyQuotas/SurveyQuotas.tsx
+
+--e1c5ce0f--2021-01-13--Ocolonna
+589	430	yarn.lock
+
+--09f14368--2021-01-13--Ocolonna
+1	1	package.json
+6	7	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+3	0	src/client/components/Breadcrumbs/Breadcrumbs.css
+28	0	src/client/components/Breadcrumbs/Breadcrumbs.js
+1	0	src/client/components/Breadcrumbs/index.js
+1	1	src/client/components/DetailsExternalNameModal/DetailsExternalNameModal.js
+1	1	src/client/components/StickyFooter/StickyFooter.css
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/CancelAutomationModal/CancelAutomationModal.tsx
+10	19	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+2	4	src/client/components/SurveyAutomationDialog/FormAutomation/HourPicker/HourPicker.tsx
+7	17	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+102	0	src/client/components/SurveyHeader/BreadcrumbsWrapper.js
+21	0	src/client/components/SurveyHeader/SurveyHeader.css
+313	0	src/client/components/SurveyHeader/SurveyHeader.js
+67	0	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+25	0	src/client/components/SurveyHeader/SurveyHeaderWrapper.js
+0	123	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+0	19	src/client/components/SurveyHeader/components/BreadcrumbTag.tsx
+0	22	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+0	248	src/client/components/SurveyHeader/components/Header.tsx
+0	120	src/client/components/SurveyHeader/components/HeaderForm.tsx
+4	4	src/client/components/SurveyHeader/components/SurveyNameEditor.tsx
+0	6	src/client/components/SurveyHeader/components/index.ts
+0	18	src/client/components/SurveyHeader/data/getAutomationState.ts
+6	0	src/client/components/SurveyHeader/data/getProject.gql
+0	10	src/client/components/SurveyHeader/data/getProject.ts
+23	0	src/client/components/SurveyHeader/data/getSurvey.gql
+0	27	src/client/components/SurveyHeader/data/getSurvey.ts
+18	0	src/client/components/SurveyHeader/data/updateSurvey.gql
+0	21	src/client/components/SurveyHeader/data/updateSurvey.ts
+0	65	src/client/components/SurveyHeader/hooks/__tests__/useModalStates.test.ts
+0	41	src/client/components/SurveyHeader/hooks/__tests__/useSave.test.ts
+0	32	src/client/components/SurveyHeader/hooks/__tests__/useShowSaveBar.test.ts
+0	33	src/client/components/SurveyHeader/hooks/__tests__/useSurveyInfo.test.ts
+0	7	src/client/components/SurveyHeader/hooks/index.ts
+0	31	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+0	31	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+0	41	src/client/components/SurveyHeader/hooks/useModalStates.ts
+0	25	src/client/components/SurveyHeader/hooks/useSave.ts
+0	31	src/client/components/SurveyHeader/hooks/useShowSaveBar.ts
+0	29	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+0	39	src/client/components/SurveyHeader/hooks/useUpdateSurveyMutation.ts
+5	0	src/client/components/SurveyHeader/index.d.ts
+22	0	src/client/components/SurveyHeader/index.js
+0	62	src/client/components/SurveyHeader/index.tsx
+0	1	src/client/components/SurveyStatusBadge/SurveyStatusBadge.js
+50	0	src/client/graphql-schema.ts
+0	5	src/client/hooks/index.ts
+6	8	src/client/hooks/useAutomationStateQuery.ts
+1	1	src/client/lib/currency.ts
+1	1	src/client/pages/ReportsDashboard/ReportsDashboard.js
+3	4	src/client/pages/SurveyAllocations/SurveyAllocationsContainer.js
+10	8	src/client/pages/SurveyDetails/Details.js
+1	1	src/client/pages/SurveySupplierAllocationsDetails/SurveySupplierAllocationsContainer.js
+1	1	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+0	1	src/server/api/schema/types/automationState.js
+421	548	yarn.lock
+
+--cb55ea35--2021-01-13--Leandro Silva
+1	1	package.json
+103	0	src/client/components/EditCalcTypeDialogBtn/EditCalcTypeDialog.js
+36	0	src/client/components/EditCalcTypeDialogBtn/EditCalcTypeDialogBtn.js
+1	0	src/client/components/EditCalcTypeDialogBtn/index.js
+62	0	src/client/components/StatsBox/StatsBox.tsx
+1	0	src/client/components/StatsBox/index.ts
+7	2	src/client/components/SubNavigation/SubNavigationItems.js
+1	1	src/client/components/TestSurveyModal/TestSurveyModal.js
+70	0	src/client/graphql-schema.ts
+0	1	src/client/pages/Reach/Reach.tsx
+0	103	src/client/pages/SurveyAllocations/SurveyAllocationsHeader/EditCalcTypeDialogBtn/EditCalcTypeDialog.js
+0	36	src/client/pages/SurveyAllocations/SurveyAllocationsHeader/EditCalcTypeDialogBtn/EditCalcTypeDialogBtn.js
+0	1	src/client/pages/SurveyAllocations/SurveyAllocationsHeader/EditCalcTypeDialogBtn/index.js
+0	62	src/client/pages/SurveyAllocations/SurveyAllocationsHeader/StatsBox/StatsBox.tsx
+0	1	src/client/pages/SurveyAllocations/SurveyAllocationsHeader/StatsBox/index.ts
+2	3	src/client/pages/SurveyAllocations/SurveyAllocationsHeader/SurveyAllocationsHeader.js
+75	0	src/client/pages/SurveyQuotas/SubNavigation.js
+47	0	src/client/pages/SurveyQuotas/SurveyQuotas.tsx
+89	0	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasCells.tsx
+66	0	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasFormTable.tsx
+123	0	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/SurveyQuotasTable.tsx
+1	0	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/index.tsx
+5	0	src/client/pages/SurveyQuotas/SurveyQuotasFormTable/types.ts
+92	0	src/client/pages/SurveyQuotas/SurveyQuotasHeader/SurveyQuotasHeader.tsx
+1	0	src/client/pages/SurveyQuotas/SurveyQuotasHeader/index.tsx
+20	0	src/client/pages/SurveyQuotas/SurveyQuotasLegacyRedirect/index.tsx
+18	0	src/client/pages/SurveyQuotas/data/getSurveyByIdQuery.ts
+35	0	src/client/pages/SurveyQuotas/data/getSurveyQuotas.ts
+10	0	src/client/pages/SurveyQuotas/data/updateQuotaLockMutation.ts
+7	0	src/client/pages/SurveyQuotas/data/updateQuotaMutation.ts
+10	0	src/client/pages/SurveyQuotas/data/updateQuotaOrderMutation.ts
+2	0	src/client/pages/SurveyQuotas/hooks/index.ts
+52	0	src/client/pages/SurveyQuotas/hooks/useQuotaLockMutation.ts
+52	0	src/client/pages/SurveyQuotas/hooks/useQuotaMutation.ts
+52	0	src/client/pages/SurveyQuotas/hooks/useQuotaOrderMutation.ts
+45	0	src/client/pages/SurveyQuotas/hooks/useSurveyQuery.ts
+40	0	src/client/pages/SurveyQuotas/hooks/useSurveyQuotasQuery.ts
+45	0	src/client/pages/SurveyQuotas/index.tsx
+81	0	src/client/pages/SurveyQuotas/lib/submitQuotaChanges.ts
+0	1	src/client/pages/SurveysDashboard/SurveysTable/SurveyRow/SurveyRow.js
+11	0	src/client/pages/index.js
+2	1	src/shared/featureFlags.js
+4	36	yarn.lock
+
+--bd155c5c--2021-01-13--Olivier
+2	2	package.json
+7	6	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+0	3	src/client/components/Breadcrumbs/Breadcrumbs.css
+0	28	src/client/components/Breadcrumbs/Breadcrumbs.js
+0	1	src/client/components/Breadcrumbs/index.js
+1	1	src/client/components/DetailsExternalNameModal/DetailsExternalNameModal.js
+1	1	src/client/components/StickyFooter/StickyFooter.css
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/CancelAutomationModal/CancelAutomationModal.tsx
+19	10	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+4	2	src/client/components/SurveyAutomationDialog/FormAutomation/HourPicker/HourPicker.tsx
+17	7	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+0	102	src/client/components/SurveyHeader/BreadcrumbsWrapper.js
+0	21	src/client/components/SurveyHeader/SurveyHeader.css
+0	313	src/client/components/SurveyHeader/SurveyHeader.js
+0	67	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+0	25	src/client/components/SurveyHeader/SurveyHeaderWrapper.js
+123	0	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+19	0	src/client/components/SurveyHeader/components/BreadcrumbTag.tsx
+22	0	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+248	0	src/client/components/SurveyHeader/components/Header.tsx
+120	0	src/client/components/SurveyHeader/components/HeaderForm.tsx
+4	4	src/client/components/SurveyHeader/components/SurveyNameEditor.tsx
+6	0	src/client/components/SurveyHeader/components/index.ts
+18	0	src/client/components/SurveyHeader/data/getAutomationState.ts
+0	6	src/client/components/SurveyHeader/data/getProject.gql
+10	0	src/client/components/SurveyHeader/data/getProject.ts
+0	23	src/client/components/SurveyHeader/data/getSurvey.gql
+27	0	src/client/components/SurveyHeader/data/getSurvey.ts
+0	18	src/client/components/SurveyHeader/data/updateSurvey.gql
+21	0	src/client/components/SurveyHeader/data/updateSurvey.ts
+65	0	src/client/components/SurveyHeader/hooks/__tests__/useModalStates.test.ts
+41	0	src/client/components/SurveyHeader/hooks/__tests__/useSave.test.ts
+32	0	src/client/components/SurveyHeader/hooks/__tests__/useShowSaveBar.test.ts
+33	0	src/client/components/SurveyHeader/hooks/__tests__/useSurveyInfo.test.ts
+7	0	src/client/components/SurveyHeader/hooks/index.ts
+31	0	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+31	0	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+41	0	src/client/components/SurveyHeader/hooks/useModalStates.ts
+25	0	src/client/components/SurveyHeader/hooks/useSave.ts
+31	0	src/client/components/SurveyHeader/hooks/useShowSaveBar.ts
+29	0	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+39	0	src/client/components/SurveyHeader/hooks/useUpdateSurveyMutation.ts
+0	5	src/client/components/SurveyHeader/index.d.ts
+0	22	src/client/components/SurveyHeader/index.js
+62	0	src/client/components/SurveyHeader/index.tsx
+1	0	src/client/components/SurveyStatusBadge/SurveyStatusBadge.js
+0	50	src/client/graphql-schema.ts
+5	0	src/client/hooks/index.ts
+8	6	src/client/hooks/useAutomationStateQuery.ts
+1	1	src/client/lib/currency.ts
+1	1	src/client/pages/ReportsDashboard/ReportsDashboard.js
+4	3	src/client/pages/SurveyAllocations/SurveyAllocationsContainer.js
+8	10	src/client/pages/SurveyDetails/Details.js
+1	1	src/client/pages/SurveySupplierAllocationsDetails/SurveySupplierAllocationsContainer.js
+1	1	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+1	0	src/server/api/schema/types/automationState.js
+587	422	yarn.lock
+
+--65feb584--2021-01-13--Ocolonna
+1	1	package.json
+
+--82dbed6e--2021-01-12--ckallemeyn
+--8ff2d87d--2021-01-12--Ocolonna
+2	26	yarn.lock
+
+--1cd406b3--2021-01-12--Ocolonna
+74	42	yarn.lock
+
+--36554f88--2021-01-12--Ocolonna
+1	1	package.json
+3	1	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+4	4	yarn.lock
+
+--93526df3--2021-01-12--Ocolonna
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+1	5	src/client/components/SurveyHeader/components/Header.tsx
+
+--53a603dd--2021-01-11--Eric Kreiter
+4	1	src/client/components/SurveyHeader/components/Header.tsx
+1	2	src/client/components/SurveyHeader/components/SurveyNameEditor.tsx
+
+--57970352--2021-01-11--Eric Kreiter
+13	11	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+13	4	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+1	0	src/server/api/schema/types/automationState.js
+4	36	yarn.lock
+
+--07145522--2021-01-11--Ocolonna
+567	378	yarn.lock
+
+--81c05561--2021-01-08--Ocolonna
+1	1	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+
+--b77a1ee3--2021-01-08--Ocolonna
+55	51	src/client/components/SurveyHeader/components/Header.tsx
+6	1	src/client/components/SurveyHeader/hooks/useUpdateSurveyMutation.ts
+2	6	src/client/components/SurveyHeader/index.tsx
+
+--0097597d--2021-01-08--Ocolonna
+1	1	src/client/components/StickyFooter/StickyFooter.css
+3	5	src/client/components/SurveyHeader/components/HeaderForm.tsx
+3	2	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+
+--ea495a36--2021-01-08--Ocolonna
+1	1	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+1	1	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+2	2	src/client/components/SurveyHeader/components/Header.tsx
+3	3	src/client/components/SurveyHeader/components/HeaderForm.tsx
+15	15	src/client/components/SurveyHeader/hooks/__tests__/useModalStates.test.ts
+9	9	src/client/components/SurveyHeader/hooks/__tests__/useSave.test.ts
+5	5	src/client/components/SurveyHeader/hooks/__tests__/useShowSaveBar.test.ts
+4	4	src/client/components/SurveyHeader/hooks/__tests__/useSurveyInfo.test.ts
+6	2	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+
+--af90d0d6--2021-01-07--Ocolonna
+2	2	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+5	2	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+2	2	src/client/components/SurveyHeader/components/Header.tsx
+2	2	src/client/components/SurveyHeader/components/HeaderForm.tsx
+2	2	src/client/components/SurveyHeader/components/SurveyNameEditor.tsx
+0	50	src/client/graphql-schema.ts
+2	2	src/client/hooks/useAutomationStateQuery.ts
+
+--3bb4a0f6--2021-01-06--Ocolonna
+3	3	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+
+--296f5950--2021-01-06--Ocolonna
+3	3	src/client/components/SurveyAutomationDialog/FormAutomation/HourPicker/HourPicker.tsx
+
+--7acf8345--2021-01-06--Ocolonna
+3	4	src/client/components/SurveyAutomationDialog/FormAutomation/HourPicker/HourPicker.tsx
+1	1	src/client/components/SurveyHeader/components/Header.tsx
+
+--29549845--2021-01-06--Ocolonna
+5	4	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+
+--91b5beb9--2021-01-06--Ocolonna
+4	4	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+
+--ee27ac40--2021-01-06--Ocolonna
+1	1	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+16	1	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+3	1	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+36	11	src/client/components/SurveyHeader/components/Header.tsx
+25	2	src/client/components/SurveyHeader/components/HeaderForm.tsx
+3	2	src/client/components/SurveyHeader/components/SurveyNameEditor.tsx
+65	0	src/client/components/SurveyHeader/hooks/__tests__/useModalStates.test.ts
+41	0	src/client/components/SurveyHeader/hooks/__tests__/useSave.test.ts
+32	0	src/client/components/SurveyHeader/hooks/__tests__/useShowSaveBar.test.ts
+33	0	src/client/components/SurveyHeader/hooks/__tests__/useSurveyInfo.test.ts
+14	1	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+13	1	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+1	1	src/client/components/SurveyHeader/hooks/useModalStates.ts
+7	4	src/client/components/SurveyHeader/hooks/useShowSaveBar.ts
+8	4	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+3	9	src/client/components/SurveyHeader/hooks/useUpdateSurveyMutation.ts
+12	1	src/client/components/SurveyHeader/index.tsx
+1	1	src/client/hooks/useAutomationStateQuery.ts
+
+--263a389c--2021-01-05--Ocolonna
+1	1	src/client/components/DetailsExternalNameModal/DetailsExternalNameModal.js
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/HourPicker/HourPicker.tsx
+5	5	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+59	24	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+1	1	src/client/components/SurveyHeader/components/BreadcrumbTag.tsx
+11	4	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+9	8	src/client/components/SurveyHeader/components/Header.tsx
+1	2	src/client/components/SurveyHeader/components/HeaderForm.tsx
+1	1	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+1	1	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+9	7	src/client/components/SurveyHeader/hooks/useShowSaveBar.ts
+2	4	src/client/pages/SurveyDetails/Details.js
+
+--35fcfb7d--2021-01-04--Ocolonna
+0	102	src/client/components/SurveyHeader/BreadcrumbsWrapper.js
+0	313	src/client/components/SurveyHeader/SurveyHeader.js
+0	67	src/client/components/SurveyHeader/SurveyHeaderProvider.js
+17	14	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+1	2	src/client/components/SurveyHeader/components/BreadcrumbTag.tsx
+0	19	src/client/components/SurveyHeader/components/BreadcrumbWrapper.tsx
+24	25	src/client/components/SurveyHeader/components/Header.tsx
+17	19	src/client/components/SurveyHeader/components/HeaderForm.tsx
+0	1	src/client/components/SurveyHeader/components/index.ts
+6	6	yarn.lock
+
+--6337fda0--2020-12-18--Ocolonna
+2	2	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+4	0	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+3	0	src/client/components/SurveyAutomationDialog/FormAutomation/HourPicker/HourPicker.tsx
+1	0	src/client/components/SurveyAutomationDialog/SurveyAutomationDialog.tsx
+5	4	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+10	10	src/client/components/SurveyHeader/components/Header.tsx
+2	2	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+5	9	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+2	2	src/client/components/SurveyHeader/hooks/useShowSaveBar.ts
+2	2	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+
+--1587eb30--2020-12-16--Ocolonna
+2	1	src/client/components/AutomationExpandableCard/AutomationExpandableCard.tsx
+1	1	src/client/components/SurveyAutomationDialog/FormAutomation/CancelAutomationModal/CancelAutomationModal.tsx
+3	1	src/client/components/SurveyAutomationDialog/FormAutomation/FormAutomation.tsx
+1	1	src/client/components/SurveyHeader/components/index.ts
+1	1	src/client/lib/currency.ts
+
+--f3c6ce2e--2020-12-16--Ocolonna
+0	25	src/client/components/SurveyHeader/SurveyHeaderWrapper.js
+19	21	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+2	2	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+12	12	src/client/components/SurveyHeader/components/BreadcrumbWrapper.tsx
+220	0	src/client/components/SurveyHeader/components/Header.tsx
+102	0	src/client/components/SurveyHeader/components/HeaderForm.tsx
+0	287	src/client/components/SurveyHeader/components/SurveyHeader.tsx
+0	111	src/client/components/SurveyHeader/components/SurveyHeaderForm.tsx
+2	0	src/client/components/SurveyHeader/components/index.ts
+3	0	src/client/components/SurveyHeader/hooks/index.ts
+5	4	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+4	4	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+9	4	src/client/components/SurveyHeader/hooks/useUpdateSurveyMutation.ts
+0	22	src/client/components/SurveyHeader/index.js
+55	0	src/client/components/SurveyHeader/index.tsx
+5	0	src/client/hooks/index.ts
+9	7	src/client/hooks/useAutomationStateQuery.ts
+1	1	src/client/pages/ReportsDashboard/ReportsDashboard.js
+4	3	src/client/pages/SurveyAllocations/SurveyAllocationsContainer.js
+6	6	src/client/pages/SurveyDetails/Details.js
+1	1	src/client/pages/SurveySupplierAllocationsDetails/SurveySupplierAllocationsContainer.js
+1	1	src/client/pages/Targets/TargetsForm/TargetsForm.tsx
+
+--d3e0b7d3--2020-12-15--Ocolonna
+69	0	src/client/components/SurveyHeader/components/Breadcrumb.tsx
+20	0	src/client/components/SurveyHeader/components/BreadcrumbTag.tsx
+10	0	src/client/components/SurveyHeader/components/BreadcrumbText.tsx
+19	0	src/client/components/SurveyHeader/components/BreadcrumbWrapper.tsx
+0	68	src/client/components/SurveyHeader/components/Breadcrumbs/BreadCrumbs.tsx
+0	20	src/client/components/SurveyHeader/components/Breadcrumbs/components/BreadcrumTag.tsx
+0	10	src/client/components/SurveyHeader/components/Breadcrumbs/components/BreadcrumbText.tsx
+0	19	src/client/components/SurveyHeader/components/Breadcrumbs/components/BreadcrumbWrapper.tsx
+0	3	src/client/components/SurveyHeader/components/Breadcrumbs/components/index.ts
+287	0	src/client/components/SurveyHeader/components/SurveyHeader.tsx
+111	0	src/client/components/SurveyHeader/components/SurveyHeaderForm.tsx
+1	1	src/client/components/SurveyHeader/components/SurveyNameEditor.tsx
+5	0	src/client/components/SurveyHeader/components/index.ts
+1	1	src/client/components/SurveyHeader/data/getSurvey.ts
+0	1	src/client/components/SurveyHeader/data/updateSurvey.ts
+4	0	src/client/components/SurveyHeader/hooks/index.ts
+17	0	src/client/components/SurveyHeader/hooks/useGetProjectQuery.ts
+23	0	src/client/components/SurveyHeader/hooks/useGetSurveyQuery.ts
+41	0	src/client/components/SurveyHeader/hooks/useModalStates.ts
+25	0	src/client/components/SurveyHeader/hooks/useSave.ts
+26	0	src/client/components/SurveyHeader/hooks/useShowSaveBar.ts
+20	0	src/client/components/SurveyHeader/hooks/useSurveyInfo.ts
+35	0	src/client/components/SurveyHeader/hooks/useUpdateSurveyMutation.ts
+1	0	src/client/components/SurveyStatusBadge/SurveyStatusBadge.js
+
+--89bec7b9--2020-12-14--Ocolonna
+0	3	src/client/components/Breadcrumbs/Breadcrumbs.css
+0	28	src/client/components/Breadcrumbs/Breadcrumbs.js
+0	1	src/client/components/Breadcrumbs/index.js
+0	21	src/client/components/SurveyHeader/SurveyHeader.css
+68	0	src/client/components/SurveyHeader/components/Breadcrumbs/BreadCrumbs.tsx
+20	0	src/client/components/SurveyHeader/components/Breadcrumbs/components/BreadcrumTag.tsx
+10	0	src/client/components/SurveyHeader/components/Breadcrumbs/components/BreadcrumbText.tsx
+19	0	src/client/components/SurveyHeader/components/Breadcrumbs/components/BreadcrumbWrapper.tsx
+3	0	src/client/components/SurveyHeader/components/Breadcrumbs/components/index.ts
+18	0	src/client/components/SurveyHeader/data/getAutomationState.ts
+0	6	src/client/components/SurveyHeader/data/getProject.gql
+10	0	src/client/components/SurveyHeader/data/getProject.ts
+0	23	src/client/components/SurveyHeader/data/getSurvey.gql
+27	0	src/client/components/SurveyHeader/data/getSurvey.ts
+0	18	src/client/components/SurveyHeader/data/updateSurvey.gql
+22	0	src/client/components/SurveyHeader/data/updateSurvey.ts
+0	5	src/client/components/SurveyHeader/index.d.ts
+
+--a2daad8c--2021-01-12--Chase Kallemeyn
+13	13	package.json
+86	111	yarn.lock
+
+--ba93b1d1--2021-01-12--ckallemeyn
+1	1	package.json
+
+--1b6fd687--2021-01-12--ckallemeyn
+--b4556116--2021-01-12--Chase Kallemeyn
+--5b4c19a8--2021-01-12--ckallemeyn
+1	1	package.json
+
+--3879ce63--2021-01-12--Chase Kallemeyn
+--9379c8d6--2021-01-12--Eric
+1	1	package.json
+15	6	src/server/api/resolvers/accounts.js
+
+--b5922154--2021-01-12--ckallemeyn
+13	11	src/client/components/SurveyLaunchChecklist/ReCheckListItem.tsx
+
+--a0bf10fe--2021-01-12--Eric Kreiter
+1	1	package.json
+
+--86049e25--2021-01-12--Eric Kreiter
+--d19a681b--2021-01-12--Eric Kreiter
+--296853fc--2021-01-12--Eric Kreiter
+2	1	src/server/api/resolvers/accounts.js
+
+--a55870ca--2021-01-11--ckallemeyn
+14	13	src/client/components/SurveyLaunchChecklist/ReCheckListItem.tsx
+
+--92e25c51--2021-01-11--ckallemeyn
+17	13	src/client/components/SurveyLaunchChecklist/ChecklistItem.js
+1	1	src/client/components/SurveyLaunchChecklist/SurveyLaunchChecklist.js
+
+--64d50aaa--2021-01-11--Eric
+--9c467aa3--2021-01-11--Eric Kreiter
+1	1	src/server/api/resolvers/accounts.js
+
+--a0862c63--2021-01-11--Eric Kreiter
+14	6	src/server/api/resolvers/accounts.js
+
+--9ad5179d--2021-01-11--ckallemeyn
+--9a2d4579--2021-01-11--ckallemeyn
+1	8	src/client/components/SurveyTypeBadge/__snapshots__/SurveyTypeBadge.spec.js.snap
+26	139	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+
+--2ecbb026--2021-01-11--ckallemeyn
+2	2	package.json
+71	47	yarn.lock
+
+--726dd92c--2021-01-11--ckallemeyn
+8	8	package.json
+102	112	yarn.lock
+
+--624b7547--2021-01-08--ckallemeyn
+2	2	package.json
+46	146	yarn.lock
+
+--02a4e2d3--2021-01-08--ckallemeyn
+3	3	package.json
+132	170	yarn.lock
+
+--7b1682df--2021-01-08--ckallemeyn
+4	4	package.json
+44	17	yarn.lock
+
+--a85c6707--2020-12-18--ckallemeyn
+11	11	package.json
+64	105	yarn.lock
+
+--3f9eb2ff--2021-01-11--Chase Kallemeyn
+--0bd97ab4--2021-01-11--Rose Espiritu
+1	1	package.json
+1	0	src/client/pages/SurveyDetails/DetailsTimeline/HourSelect.tsx
+2	1	src/client/pages/SurveyDetails/DetailsTimeline/lib/time.ts
+4	4	yarn.lock
+
+--7a64c759--2021-01-11--ckallemeyn
+--1638582c--2021-01-11--ckallemeyn
+1	1	package.json
+22	6	yarn.lock
+
+--ee9d88bb--2021-01-11--ckallemeyn
+1	8	src/client/components/SurveyTypeBadge/__snapshots__/SurveyTypeBadge.spec.js.snap
+26	139	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+
+--18b09e8f--2021-01-11--ckallemeyn
+2	2	package.json
+71	47	yarn.lock
+
+--55afcda6--2021-01-11--ckallemeyn
+8	8	package.json
+102	112	yarn.lock
+
+--3b7bac4a--2021-01-11--Emanuel Larini
+1	1	package.json
+9	2	src/client/pages/ReportsDashboard/Analysis/DataAnalysis/DataAnalysis.js
+
+--fb0ab33a--2021-01-11--emanuellarini
+1	1	package.json
+
+--0d7c510a--2021-01-11--emanuellarini
+1	1	src/client/pages/ReportsDashboard/Analysis/DataAnalysis/DataAnalysis.js
+
+--32ab5abe--2021-01-11--Emanuel Larini
+--cbbf4d3e--2021-01-11--emanuellarini
+10	5	src/client/pages/ReportsDashboard/Analysis/DataAnalysis/DataAnalysis.js
+
+--336a8b59--2021-01-11--Eric Kreiter
+--8e73e54b--2021-01-08--ckallemeyn
+2	2	package.json
+46	146	yarn.lock
+
+--3c96b4e6--2021-01-08--ckallemeyn
+3	3	package.json
+132	170	yarn.lock
+
+--03b49dfa--2021-01-08--Patrick Brown Jr
+1	1	.env
+1	1	package.json
+1	1	src/server/lib/clientEnv.js
+
+--bd2c93df--2021-01-08--PJ
+1	1	package.json
+
+--7938df26--2021-01-08--ckallemeyn
+5	5	package.json
+48	21	yarn.lock
+
+--3c05ba12--2021-01-08--PJ
+1	1	.env
+1	1	src/server/lib/clientEnv.js
+
+--6362fc26--2020-12-18--ckallemeyn
+11	11	package.json
+64	105	yarn.lock
+
+--2d58bf2b--2021-01-08--emanuellarini
+4	2	src/client/pages/ReportsDashboard/Analysis/DataAnalysis/DataAnalysis.js

@@ -1,0 +1,269 @@
+--f0ce82f0--2021-01-07--Patrick Brown Jr
+3	3	src/client/components/Analytics/Analytics.tsx
+1	1	src/client/lib/env.js
+1	1	src/server/lib/clientEnv.js
+
+--82eff04d--2021-01-07--PJ
+
+--13cc5b1f--2021-01-07--PJ
+3	3	src/client/components/Analytics/Analytics.tsx
+
+--8543d93b--2021-01-07--PJ
+1	1	src/client/components/Analytics/Analytics.tsx
+1	1	src/client/lib/env.js
+1	1	src/server/lib/clientEnv.js
+
+--b25fa84a--2021-01-07--Chase Kallemeyn
+37	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+76	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--1dbc8ce8--2021-01-07--ckallemeyn
+
+--20fb9515--2021-01-07--ckallemeyn
+5	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--4da51e91--2021-01-06--Chase Kallemeyn
+--12961be6--2021-01-06--ckallemeyn
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--3fd8737c--2021-01-06--ckallemeyn
+4	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+18	34	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--ffb098d2--2021-01-06--ckallemeyn
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+3	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--85a5a2ba--2021-01-06--ckallemeyn
+12	16	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+
+--7b1d7e0f--2021-01-06--ckallemeyn
+0	38	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+
+--dd61ffcd--2021-01-06--Eric Kreiter
+1	1	src/client/pages/SurveyDetails/DetailsExpectedMetrics/DetailsExpectedMetrics.tsx
+10	5	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+57	0	src/client/pages/SurveyDetails/DetailsSection/DetailsHelpText/DetailsHelpText.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsHelpText/index.ts
+31	38	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.js
+7	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionHeader/DetailsSectionHeader.tsx
+27	0	src/client/pages/SurveyDetails/DetailsSection/DetailsTopContent/DetailsTopContent.tsx
+1	0	src/client/pages/SurveyDetails/DetailsSection/DetailsTopContent/index.ts
+0	42	src/client/pages/SurveyDetails/DetailsSection/HelpText/HelpText.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSection/HelpText/index.ts
+0	3	src/client/pages/SurveyDetails/DetailsSection/index.js
+3	0	src/client/pages/SurveyDetails/DetailsSection/index.ts
+1	1	src/client/pages/SurveyDetails/DetailsTimeline/DetailsTimeline.tsx
+
+--d80db943--2021-01-06--ckallemeyn
+0	55	src/client/pages/SurveyDetails/DetailsSetupRequirements/Estimates/Estimates.tsx
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/Estimates/index.ts
+
+--e4d75fcc--2021-01-06--ckallemeyn
+34	16	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+13	10	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--51b1cc25--2021-01-06--ckallemeyn
+0	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+
+--2519eaf5--2021-01-06--ckallemeyn
+0	22	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+
+--a1cf5fdf--2021-01-06--ckallemeyn
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--514ae796--2021-01-06--ckallemeyn
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+4	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+28	4	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--3657cdb1--2021-01-05--ckallemeyn
+22	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+11	8	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--b14a10b5--2021-01-05--Eric Kreiter
+5	1	src/client/pages/SurveyDetails/DetailsExpectedMetrics/DetailsExpectedMetrics.tsx
+5	1	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+10	4	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+8	6	src/client/pages/SurveyDetails/DetailsSection/DetailsSection.js
+0	30	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField.css
+13	9	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField.tsx
+5	3	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionFieldsColumn.tsx
+5	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+
+--7db77327--2021-01-05--Eric Kreiter
+--1e77ac88--2021-01-05--Eric
+1	1	src/client/pages/SurveyDetails/DetailsExpectedMetrics/DetailsExpectedMetrics.tsx
+
+--aca8135b--2021-01-05--Eric
+6	1	src/client/components/CurrencyInput/CurrencyInput.tsx
+16	9	src/client/components/ExpandableInput/ExpandableInput.tsx
+111	105	src/client/pages/SurveyDetails/DetailsExpectedMetrics/DetailsExpectedMetrics.tsx
+66	50	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+312	295	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+73	68	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+72	118	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+3	5	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+111	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/constants.ts
+0	1	src/client/pages/SurveyDetails/DisabledWhileLive/index.ts
+19	8	src/client/pages/SurveyDetails/DisabledWithStatus/DisabledWithStatus.tsx
+
+--c0f855ca--2021-01-05--Eric Kreiter
+
+--b723787e--2021-01-05--Eric Kreiter
+2	2	src/client/pages/SurveyDetails/DisabledWithStatus/DisabledWithStatus.tsx
+
+--8db5ac0d--2021-01-05--Eric Kreiter
+--ae80b55e--2021-01-05--Chase Kallemeyn
+1	1	src/client/components/StickyFooter/StickyFooter.js
+1	1	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/BulkEditBanner.css
+1	1	src/client/pages/Targets/TargetsList/TargetsList.tsx
+
+--4e1b0ba7--2021-01-05--ckallemeyn
+
+--4a009d72--2020-12-21--ckallemeyn
+1	1	src/client/pages/Targets/TargetsList/TargetsList.tsx
+
+--4fbe1e19--2021-01-05--Eric Kreiter
+2	2	src/client/pages/SurveyDetails/DetailsExpectedMetrics/DetailsExpectedMetrics.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/constants.ts
+5	4	src/client/pages/SurveyDetails/DisabledWithStatus/DisabledWithStatus.tsx
+
+--bf4c72c6--2021-01-05--Eric
+--017f584e--2021-01-04--Chase Kallemeyn
+--7a2962ed--2021-01-04--Eric Kreiter
+312	295	src/client/pages/SurveyDetails/DetailsPeople/__snapshots__/DetailsPeople.spec.js.snap
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/constants.ts
+
+--2f8bea38--2021-01-04--Eric Kreiter
+111	105	src/client/pages/SurveyDetails/DetailsExpectedMetrics/DetailsExpectedMetrics.tsx
+1	0	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+
+--0c9d0e88--2021-01-04--Eric Kreiter
+66	62	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+18	54	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+3	5	src/client/pages/SurveyDetails/DetailsSetupRequirements/SurveyPriority/SurveyPriority.tsx
+24	18	src/client/pages/SurveyDetails/DetailsSetupRequirements/constants.ts
+
+--20138d42--2021-01-04--Eric Kreiter
+57	45	src/client/pages/SurveyDetails/DetailsPeople/DetailsPeople.tsx
+72	68	src/client/pages/SurveyDetails/DetailsProjectSettings/DetailsProjectSettings.tsx
+2	2	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+
+--a9fd9120--2021-01-04--ckallemeyn
+3	7	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--de5110f7--2021-01-04--ckallemeyn
+19	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/__mocks__/DetailsSetupRequirements.data.ts
+38	3	src/client/pages/SurveyDetails/DetailsSetupRequirements/__tests__/DetailsSetupRequirements.test.js
+
+--f5f452ec--2021-01-04--Chase Kallemeyn
+--e94e64c5--2021-01-04--Eric Kreiter
+6	1	src/client/components/CurrencyInput/CurrencyInput.tsx
+16	9	src/client/components/ExpandableInput/ExpandableInput.tsx
+79	89	src/client/pages/SurveyDetails/DetailsSetupRequirements/DetailsSetupRequirements.tsx
+0	1	src/client/pages/SurveyDetails/DisabledWhileLive/index.ts
+18	8	src/client/pages/SurveyDetails/DisabledWithStatus/DisabledWithStatus.tsx
+
+--d3a7006d--2021-01-04--Eric Kreiter
+105	0	src/client/pages/SurveyDetails/DetailsSetupRequirements/constants.ts
+
+--40ea92bc--2021-01-04--Eric Kreiter
+0	78	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField.js
+76	0	src/client/pages/SurveyDetails/DetailsSection/DetailsSectionField.tsx
+1	1	src/client/pages/SurveyDetails/DetailsSection/index.js
+
+--11141784--2021-01-04--ckallemeyn
+2	2	src/client/pages/SurveysDashboard/SurveysTable/BulkEditBanner/BulkEditBanner.css
+
+--305a114c--2021-01-04--ckallemeyn
+1	1	src/client/components/SurveyLaunchChecklist/ReCheckListItem.tsx
+
+--4912dde2--2021-01-04--ckallemeyn
+0	64	src/client/components/SurveyLaunchChecklist/ReCheckListItem.ts
+64	0	src/client/components/SurveyLaunchChecklist/ReCheckListItem.tsx
+
+--aa40c7fa--2021-01-04--ckallemeyn
+64	0	src/client/components/SurveyLaunchChecklist/ReCheckListItem.ts
+
+--27e5488a--2021-01-04--Marco Rosner
+5	8	src/server/api/index.js
+13	4	src/server/api/models/accounts.js
+2	4	src/server/api/models/allocation-templates.js
+1	3	src/server/api/models/target.js
+1	2	src/server/api/models/users.js
+
+--5e0ac00e--2021-01-04--Marco Rosner
+
+--fb039d86--2020-12-22--Marco Rosner
+5	8	src/server/api/index.js
+13	4	src/server/api/models/accounts.js
+2	4	src/server/api/models/allocation-templates.js
+1	3	src/server/api/models/target.js
+1	2	src/server/api/models/users.js
+
+--1a449abf--2021-01-04--Marco Rosner
+
+--0e1b66a0--2021-01-04--Marco Rosner
+
+--576960fb--2020-12-18--Marco Rosner
+
+--d72ff49b--2021-01-04--Marco Rosner
+
+--ad4463d7--2021-01-04--Marco Rosner
+1	14	src/client/graphql-schema.ts
+0	101	src/client/pages/Reach/ReachForm/components/ConditionElement/ConditionElement.tsx
+0	71	src/client/pages/Reach/ReachForm/components/ConditionElement/components/MultipleValues/MultipleValues.tsx
+0	5	src/client/pages/Reach/ReachForm/components/ConditionElement/components/MultipleValues/lib/getPrecode.ts
+0	22	src/client/pages/Reach/ReachForm/components/ConditionElement/components/MultipleValues/lib/handleOnChangeSelect.ts
+0	5	src/client/pages/Reach/ReachForm/components/ConditionElement/components/MultipleValues/lib/index.ts
+0	4	src/client/pages/Reach/ReachForm/components/ConditionElement/components/MultipleValues/lib/removeAll.ts
+0	15	src/client/pages/Reach/ReachForm/components/ConditionElement/components/MultipleValues/lib/resetSelect.ts
+0	15	src/client/pages/Reach/ReachForm/components/ConditionElement/components/MultipleValues/lib/selectAll.ts
+0	28	src/client/pages/Reach/ReachForm/components/ConditionElement/components/QuestionLabel.tsx
+0	32	src/client/pages/Reach/ReachForm/components/ConditionElement/components/SingleValue.tsx
+0	3	src/client/pages/Reach/ReachForm/components/ConditionElement/components/index.ts
+2	3	src/client/pages/Reach/ReachForm/components/ProjectedCost/components/ShareButton.tsx
+96	0	src/client/pages/Reach/ReachForm/components/Questions/Questions.tsx
+73	0	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/MultipleValues.tsx
+5	0	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/getPrecode.ts
+22	0	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/handleOnChangeSelect.ts
+5	0	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/index.ts
+9	0	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/removeAll.ts
+18	0	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/resetSelect.ts
+15	0	src/client/pages/Reach/ReachForm/components/Questions/components/MultipleValues/lib/selectAll.ts
+28	0	src/client/pages/Reach/ReachForm/components/Questions/components/QuestionLabel.tsx
+37	0	src/client/pages/Reach/ReachForm/components/Questions/components/SingleValue.tsx
+3	0	src/client/pages/Reach/ReachForm/components/Questions/components/index.ts
+1	0	src/client/pages/Reach/ReachForm/components/Questions/index.ts
+24	0	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/buildConditions.ts
+0	28	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/getConditions.ts
+37	0	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/handleOpenQuestion.ts
+0	36	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/handleOpenQuestions.ts
+1	1	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/index.ts
+3	3	src/client/pages/Reach/ReachForm/components/SurveyCreationModal/lib/parseTargetToMktFormat.ts
+8	24	src/client/pages/Reach/ReachForm/components/TargetItem.tsx
+0	2	src/client/pages/Reach/ReachForm/initialValues.ts
+4	14	src/client/pages/Reach/data/getAudienceQuotas.ts
+0	1	src/client/pages/Reach/lib/__tests__/calcRangeConfig.test.ts
+0	81	src/client/pages/Reach/lib/__tests__/encodeAudience.test.ts
+0	2	src/client/pages/Reach/lib/__tests__/getFormattedQuota.test.ts
+0	26	src/client/pages/Reach/lib/addQuestionSearch.ts
+0	38	src/client/pages/Reach/lib/encodeAudiences.ts
+0	6	src/client/pages/Reach/lib/findQuestion.ts
+13	16	src/client/pages/Reach/lib/generateName.ts
+0	24	src/client/pages/Reach/lib/handleConditions.ts
+16	0	src/client/pages/Reach/lib/handleFormattedData.ts
+0	22	src/client/pages/Reach/lib/handleQuestionConditions.ts
+21	0	src/client/pages/Reach/lib/handleQuestions.ts
+6	6	src/client/pages/Reach/lib/handleSingleValue.ts
+2	5	src/client/pages/Reach/lib/index.ts
+0	7	src/client/pages/Reach/lib/removeQuestion.ts
+10	21	src/client/pages/Reach/lib/setFormData.ts
+1	4	src/client/pages/Reach/types/types.ts
+22	19	src/server/api/models/reach.js
+1	12	src/server/api/schema/types/reach.js
